@@ -45,10 +45,6 @@ _Below are your materials for this week:_
 **NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][57].
 
 
-[Original source](http://palousemindfulness.com/selfguidedMBSR_week4.html "Permalink to MBSR week 4")
-
----
-
 > Between stimulus and response there is a space.  
 > In that space is our power to choose our response.  
 > In our response lies our growth and our freedom.  
@@ -114,3 +110,7 @@ _Below are your materials for this week:_
 [57]: docs/manualMBSRweek4.pdf
 [58]: http://palousemindfulness.com/art/123rf_stop_170.jpg
 [59]: quotes.html#selfguidedMBSR_week4 "more quotes"
+
+---
+
+[Original source](http://palousemindfulness.com/selfguidedMBSR_week4.html "Permalink to MBSR week 4")
