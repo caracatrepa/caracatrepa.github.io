@@ -1,57 +1,7 @@
 
 [Source](http://palousemindfulness.com/selfguidedMBSR_week0.html "Permalink to MBSR Introduction")
 
-# MBSR Introduction
-
-![][1]
-
-![][2] ![][3] ![][4]
-
-![][5]
-
-[MBSR Online][6] &nbsp;|&nbsp; [TESTIMONIALS][7] &nbsp;|&nbsp; [GRADUATES][8] &nbsp;|&nbsp; [RESOURCES][9] &nbsp;|&nbsp; [CONTACT][10] &nbsp;|&nbsp; [QUOTES][11] &nbsp;|&nbsp; [What's New][12]
-
-[MBSR Online][6]
-
-[ "At a Glance"][13]  
-[Introduction][14]  
-[Getting Started][15]  
-[MBSR Manual][16]  
-[Week 1][17]  
-[Week 2][18]  
-[Week 3][19]  
-[Week 4][20]  
-[Week 5][21]  
-[Week 5b][22]  
-[Week 6][23]  
-[Week 7][24]  
-[Week 8][25]  
-[Certificate][26]  
-  
-
-[Guided Practices][27]
-
-[Body Scan][28]  
-[Sitting Meditation][29]  
-[Mindful Yoga 1][30]  
-[Mindful Yoga 2][31]  
-  
-[Soften, Soothe, Allow][32]  
-[RAIN Meditation][33]  
-[Mountain Meditation][34]  
-[Lake Meditation][35]  
-[Lovingkindness][36]  
-[Silent Meditations][37]  
-  
-
-[Testimonials /  
-Gallery of Learning][7]
-
-  
-
-[Graduate Readings][8]
-
-Introduction
+# Introduction
 
 Mindfulness-Based Stress Reduction (MBSR)
 
@@ -61,26 +11,16 @@ For most of us, when this happens, it's unexpected, maybe while walking on a mou
 
 "Mindfulness" is used in many contexts nowadays and there are many different understandings of the term. Diana Winston of UCLA's Mindful Awareness Research Center gives my favorite definition: **_Paying attention to present moment experience with open curiosity and a willingness to be with what is_**_._
 
-[ _Mindfulness: Being Fully Awake in Our Own Lives_  
-
-![][38]
-
-][39] This [10-minute video][39] from the Center for Mindfulness at the University of Massachusetts Medical School is a good introduction to what we mean by mindfulness in the context of this course. It is narrated by Saki Santorelli, the current director at UMass.  
+## [_Mindfulness: Being Fully Awake in Our Own Lives_][39]
+This [10-minute video][39] from the Center for Mindfulness at the University of Massachusetts Medical School is a good introduction to what we mean by mindfulness in the context of this course. It is narrated by Saki Santorelli, the current director at UMass.  
   
-[ _Introduction to the MBSR Course_  
-
-![][40]
-
-][41] This [7-minute video][41], narrated by Jon Kabat-Zinn and others involved in the founding of MBSR, provides some interesting background about the MBSR course. MBSR is a blend of meditation, body awareness, and yoga: learning through practice and study how your body handles (and can resolve) stress neurologically. Also see the two-page article, [MBSR: An Introduction][42], a short but engaging piece about MBSR.   
+## [ _Introduction to the MBSR Course_ ][41]
+This [7-minute video][41], narrated by Jon Kabat-Zinn and others involved in the founding of MBSR, provides some interesting background about the MBSR course. MBSR is a blend of meditation, body awareness, and yoga: learning through practice and study how your body handles (and can resolve) stress neurologically. Also see the two-page article, [MBSR: An Introduction][42], a short but engaging piece about MBSR.   
   
-[ _MBSR Research_][43]  
-[
+## [ _MBSR Research_][43]  
+ This [3-min video][43] from the [UMass Medical School][45], gives a very brief overview of _**30 years of research**_ about the effects of MBSR. The 2-page document, [MBSR Research Summary][46], is a concise, if dated, compilation of MBSR research. See the [Scientific Research page][47] for more recent research..  
 
-![][44]
-
-][43] This [3-min video][43] from the [UMass Medical School][45], gives a very brief overview of _**30 years of research**_ about the effects of MBSR. The 2-page document, [MBSR Research Summary][46], is a concise, if dated, compilation of MBSR research. See the [Scientific Research page][47] for more recent research..  
-
-What will taking an MBSR course do for me?  
+## What will taking an MBSR course do for me?  
 Through this MBSR course, you will learn skills that can increase your ability to:  
 
 * Cope with stress, pain, and the challenges of everyday life
@@ -88,28 +28,15 @@ Through this MBSR course, you will learn skills that can increase your ability t
 * Be fully present and alive in this moment
 While MBSR is not a "cure" for serious medical conditions and should not be used as a substitute for medical treatment, research indicates that mindfulness training can have a significant therapeutic effect for those experiencing stress, anxiety, high blood pressure, depression, chronic pain, migraines, heart conditions, diabetes and other ailments. In addition, participants typically report feeling more alive, more "in-tune" with themselves and others.
 
-If you want to know even more...  
+## If you want to know even more...  
 You don't really need to know more about mindfulness to get started with the MBSR course, but if you are interested, there is an information-packed [74-minute video by Jon Kabat-Zinn][48] that goes into much more detail than the short videos above, including more about the research that validates the practice of mindfulness in terms of physical health and psychological well-being.
 
-The importance of practice  
+## The importance of practice  
 This course is highly experiential and the daily practice is perhaps the most important component.&nbsp; You wouldn't expect to learn to surf by reading a book about surfboards and waves, and learning a mindfulness practice is no different than any other skill that involves both mind and body. You know from your own experience in learning to play an instrument, or a sport, or any complex skill whatsoever, that practice is important. _**Your body/mind is the most complex instrument in the universe. It takes time and practice to use it effectively and harmoniously.**_
 
 For this reason, we recommend that you set aside about **30 minutes a day** for practice. _**This may be the most difficult hurdle you face in getting started because one of the very issues you are facing may be not having enough time for all that needs to get done in a day - how are you going to find an extra 30 minutes?**_ Previous participants have said that after a few weeks of practice, although their time to "do things" is technically 30 minutes less, there can be a feeling of having more space and time, even in the middle of a very busy day.
 
-_**If you are ready to continue now, please go to**__** [Getting Started][15] before going on to Week 1.**_
-
-[ ![][49]
-
-Mindfulness is about being fully awake in our lives. It is about perceiving the exquisite vividness of each moment. We also gain immediate access to our own powerful inner resources for insight, transformation, and healing.  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_\- Jon Kabat-Zinn_
-
-more &nbsp;&nbsp;&nbsp;  
-quotes&nbsp;
-
-][50]
-
-&nbsp;
+_*If you are ready to continue now, please go to [Getting Started][15] before going on to Week 1.*_
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
