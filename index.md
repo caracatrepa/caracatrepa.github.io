@@ -42,13 +42,13 @@ _* **NOTE:** Much of the material in this course is drawn from the works of othe
 All videos, including the guided meditations, have accurate closed captions, with the exception of some that are in the "supplementary" sections. [_The captioning on this site was done with the help of [Caption Access][13].]_
 
 [1]: http://www.umassmed.edu/cfm/Stress-Reduction/History-of-MBSR/
-[3]: contact.html
-[4]: contributions.html
+[3]: http://palousemindfulness.com/contact.html
+[4]: http://palousemindfulness.com/contributions.html
 [5]: http://www.umassmed.edu/cfm/training/training-pathways/
-[6]: testimonials/index.html
-[7]: graduates.html
-[8]: maps/graduate-map.html
-[9]: selfguidedMBSR_week0.html
-[10]: selfguidedMBSR_ataglance.html
-[11]: selfguidedMBSR_certificate.html
+[6]: http://palousemindfulness.com/testimonials/index.html
+[7]: http://palousemindfulness.com/graduates.html
+[8]: http://palousemindfulness.com/maps/graduate-map.html
+[9]: selfguidedMBSR_week0.md
+[10]: selfguidedMBSR_ataglance.md
+[11]: http://palousemindfulness.com/selfguidedMBSR_certificate.html
 [13]: http://www.captionaccess.com/
