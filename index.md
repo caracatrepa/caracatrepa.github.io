@@ -1,11 +1,6 @@
+# Online Mindfulness-Based Stress Reduction (MBSR)
 
-[Source](http://palousemindfulness.com/ "Permalink to Online MBSR (free)")
-
-# Online MBSR (free)
-
-Online Mindfulness-Based Stress Reduction (MBSR)
-
-_This online MBSR training course is 100% free, created by a fully certified MBSR instructor, and is modeled on the program founded by Jon Kabat-Zinn at the [University of Massachusetts Medical School][1]. _
+_This online MBSR training course is 100% free, created by a fully certified MBSR instructor, and is modeled on the program founded by Jon Kabat-Zinn at the [University of Massachusetts Medical School][1]._
 
   
 
