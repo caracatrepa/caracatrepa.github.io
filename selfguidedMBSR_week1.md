@@ -26,26 +26,26 @@ In addition, each week will indicate some supplementary reading or viewing mater
 **_OK, let's get started!_** _Below are your materials for this week:_
 
 ### Videos
-_[with most browsers, once you start the first video, the others will follow automatically]_  
+_with most browsers, once you start the first video, the others will follow automatically_  
 * ["60 Minutes"  Special on Mindfulness][39] by Anderson Cooper / CBS News [13 min]  
 * [Life is Right Now][40] and [Befriending the Body][41] by Jon Kabat-Zinn [11 min total]  
 * [Managing Anxiety with Mindfulness][42] by Rachel Green [15 min]   
 * [Raisin Meditation][43] by Bob Stahl [6 min]
 
 ### Reading
-_[print these for your manual or read them online]_
+_print these for your manual or read them online_
 * [The Body Scan Meditation][44] by Jon Kabat-Zinn  
 * [ 7 Myths of Meditation][45] by Deepak Choprah  
 * [ Why We Find It So Hard to Meditate][46] by Mindful Staff  
 * [ What Would It Take for You to Be Still][47] by Catherine Price  
 
 ### Practice Sheets
-_[print PDF file or download WORD file to record your daily practices ]_  
-* [Formal Practice [_PDF_]][48]_ [or [WORD format][49]] _\- Body Scan  
-* [Informal Practice [_PDF_]][50]_ [or [WORD format][51]] _\- Simple Awareness and/or Mindful Eating  
+_print PDF file or download WORD file to record your daily practices_  
+* [Formal Practice _PDF_][48] [or _WORD format_][49]] \- Body Scan  
+* [Informal Practice _PDF_][50] [or _WORD format_][51]] \- Simple Awareness and/or Mindful Eating  
 
 ### Supplementary materials related to this week's topic
-_[optional materials]_  
+_optional materials_  
 * [Mouthfuls of Mindfulness][52] article by Jan Chozen Bays  
 * [Introduction to Mindful Eating][53] video by Michelle DuVal [10 min]  
 * [An Apple as Past, Present and Future][54] video by Susan Kaiser Greenland [2 min]  
