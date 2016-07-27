@@ -26,7 +26,7 @@ In addition, there is **Informal Practice**, which will help you integrate the l
 ### Health Considerations  
 Many people come to the course with some physical limitations and it's important that _**you know that you are free to modify any of the practices, especially the yoga sequences, to make them best work for you**_. Being aware of your own limits, and modifying the practices when necessary is, in itself, mindfulness in action.  
   
-Also, during the course of this program, whether you have physical limitations or not, it is possible, even likely, that difficult feelings or unpleasant memories may arise. Since this program is done without interaction with an instructor, it is important that you take care of your own emotional and mental health. _** If things come up which are too difficult to handle, you should take a break from the course and/or seek the help of a good counselor or therapist. If you are under a counselor or doctor's care already, please let them know of your plan to go through this program, and keep them informed of your experience as you go along, so that they may monitor any unexpected reactions to the course or practices.**_
+Also, during the course of this program, whether you have physical limitations or not, it is possible, even likely, that difficult feelings or unpleasant memories may arise. Since this program is done without interaction with an instructor, it is important that you take care of your own emotional and mental health. _**If things come up which are too difficult to handle, you should take a break from the course and/or seek the help of a good counselor or therapist. If you are under a counselor or doctor's care already, please let them know of your plan to go through this program, and keep them informed of your experience as you go along, so that they may monitor any unexpected reactions to the course or practices.**_
 
 ### Ready to start?  
 Once you've completed the [Getting Started Worksheet][38] you're ready to go! When you're ready, just click on **Week 1** in the left-hand menu you see above. In this menu are links to each of the eight weeks, and the **Guided Practices.**  
@@ -44,19 +44,19 @@ Once you've completed the [Getting Started Worksheet][38] you're ready to go! Wh
 [10]: contact.html
 [11]: quotes.html
 [12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.html
-[14]: selfguidedMBSR_week0.html
-[15]: selfguidedMBSR_gettingstarted.html
-[16]: selfguidedMBSR_manual.html
-[17]: selfguidedMBSR_week1.html
-[18]: selfguidedMBSR_week2.html
-[19]: selfguidedMBSR_week3.html
-[20]: selfguidedMBSR_week4.html
-[21]: selfguidedMBSR_week5.html
-[22]: selfguidedMBSR_week5b.html
-[23]: selfguidedMBSR_week6.html
-[24]: selfguidedMBSR_week7.html
-[25]: selfguidedMBSR_week8.html
+[13]: selfguidedMBSR_ataglance.md
+[14]: selfguidedMBSR_week0.md
+[15]: selfguidedMBSR_gettingstarted.md
+[16]: selfguidedMBSR_manual.md
+[17]: selfguidedMBSR_week1.md
+[18]: selfguidedMBSR_week2.md
+[19]: selfguidedMBSR_week3.md
+[20]: selfguidedMBSR_week4.md
+[21]: selfguidedMBSR_week5.md
+[22]: selfguidedMBSR_week5b.md
+[23]: selfguidedMBSR_week6.md
+[24]: selfguidedMBSR_week7.md
+[25]: selfguidedMBSR_week8.md
 [26]: selfguidedMBSR_certificate.html
 [27]: guidedmeditations.html
 [28]: meditations/bodyscan.html
