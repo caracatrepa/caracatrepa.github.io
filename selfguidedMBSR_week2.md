@@ -35,8 +35,8 @@ _print these for your manual or read them online_
 
 ### Practice sheets
 _print PDF file or download WORD file to record your daily practices_  
-* [Formal Practice _PDF_][48] or [WORD format][49] \- Body Scan, Sitting Meditation  
-* [Informal Practice _PDF_][50] or [WORD format][51] \- Pleasant Events Calendar  
+* [Formal Practice _PDF_][48] or [_WORD format_][49] \- Body Scan, Sitting Meditation  
+* [Informal Practice _PDF_][50] or [_WORD format_][51] \- Pleasant Events Calendar  
 
 ### Supplementary materials related to this week's topic
 _optional materials_
