@@ -5,7 +5,10 @@
 
 Mindfulness-Based Stress Reduction (MBSR)
 
-_"Mindfulness is about being fully awake in our lives. It is about perceiving the exquisite vividness of each moment..."&nbsp;&nbsp;&nbsp;&nbsp;\- Jon Kabat-Zinn_
+> _"Mindfulness is about being fully awake in our lives. It is about perceiving the
+> exquisite vividness of each moment..."_&nbsp;
+
+\- Jon Kabat-Zinn
 
 For most of us, when this happens, it's unexpected, maybe while walking on a mountain trail on a crisp autumn day, or being so focused in work or play that you are not thinking about past or future, or connecting with someone in a way that makes it seem like time is standing still. This state of being alive and whole in the present moment is always available, but it typically eludes us, especially in times of difficulty and external pressures.
 
