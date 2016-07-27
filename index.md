@@ -37,9 +37,7 @@ This course is completely self-guided (there is no registration and only you wil
 
 _**If you are ready to begin, or if you'd just like to know more about mindfulness or this program, go to the** [Introduction][9]._
 
-_ * **NOTE:** Much of the material in this course is drawn from the works of other teachers and writers in the spirit of making mindfulness more widely available. My thanks to them for helping to make this free Online MBSR course possible._  
-
-![][12]
+_* **NOTE:** Much of the material in this course is drawn from the works of other teachers and writers in the spirit of making mindfulness more widely available. My thanks to them for helping to make this free Online MBSR course possible._  
 
 All videos, including the guided meditations, have accurate closed captions, with the exception of some that are in the "supplementary" sections. [_The captioning on this site was done with the help of [Caption Access][13].]_
 
@@ -53,6 +51,4 @@ All videos, including the guided meditations, have accurate closed captions, wit
 [9]: selfguidedMBSR_week0.html
 [10]: selfguidedMBSR_ataglance.html
 [11]: selfguidedMBSR_certificate.html
-[12]: http://palousemindfulness.com/art/closed-caption-symbol_70.jpg
 [13]: http://www.captionaccess.com/
-  
