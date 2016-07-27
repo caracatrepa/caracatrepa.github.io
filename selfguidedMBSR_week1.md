@@ -1,9 +1,6 @@
-
-[Source](http://palousemindfulness.com/selfguidedMBSR_week1.html "Permalink to MBSR week 1")
-
 # Week 1 - Simple Awareness
 
-### Introduction to the Body Scan
+## Introduction to the Body Scan
 
 Now that you've experienced the [Introduction][14] and completed the [Getting Started Worksheet][38] (see [Getting Started][15]), you are ready to begin. _**Welcome!**_
 
@@ -111,3 +108,6 @@ _optional materials_
 [56]: http://palousemindfulness.com/art/123rf_body_170.jpg
 [57]: quotes.html#selfguidedMBSR_week1 "more quotes"
   
+---
+
+[Original source](http://palousemindfulness.com/selfguidedMBSR_week1.html "Permalink to MBSR week 1")
