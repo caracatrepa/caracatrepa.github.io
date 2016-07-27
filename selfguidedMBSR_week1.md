@@ -41,8 +41,8 @@ _print these for your manual or read them online_
 
 ### Practice Sheets
 _print PDF file or download WORD file to record your daily practices_  
-* [Formal Practice _PDF_][48] [or _WORD format_][49]] \- Body Scan  
-* [Informal Practice _PDF_][50] [or _WORD format_][51]] \- Simple Awareness and/or Mindful Eating  
+* [Formal Practice _PDF_][48] or [_WORD format_][49] \- Body Scan  
+* [Informal Practice _PDF_][50] or [_WORD format_][51] \- Simple Awareness and/or Mindful Eating  
 
 ### Supplementary materials related to this week's topic
 _optional materials_  
