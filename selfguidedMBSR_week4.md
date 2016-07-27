@@ -1,4 +1,4 @@
-# Week 4 - Stress: Responding vs. Reacting[^1]
+# Week 4 - Stress: Responding vs. Reacting [^1]
 
 ## STOP: The One-minute Breathing Space
 
