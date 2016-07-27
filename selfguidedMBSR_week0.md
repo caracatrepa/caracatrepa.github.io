@@ -34,6 +34,8 @@ While MBSR is not a "cure" for serious medical conditions and should not be used
 ### If you want to know even more...  
 You don't really need to know more about mindfulness to get started with the MBSR course, but if you are interested, there is an information-packed [74-minute video by Jon Kabat-Zinn][48] that goes into much more detail than the short videos above, including more about the research that validates the practice of mindfulness in terms of physical health and psychological well-being.
 
+[![](http://img.youtube.com/vi/mBSO41ZimNs/0.jpg)](http://www.youtube.com/watch?v=mBSO41ZimNs)
+
 ### The importance of practice  
 This course is highly experiential and the daily practice is perhaps the most important component.&nbsp; You wouldn't expect to learn to surf by reading a book about surfboards and waves, and learning a mindfulness practice is no different than any other skill that involves both mind and body. You know from your own experience in learning to play an instrument, or a sport, or any complex skill whatsoever, that practice is important. _**Your body/mind is the most complex instrument in the universe. It takes time and practice to use it effectively and harmoniously.**_
 
