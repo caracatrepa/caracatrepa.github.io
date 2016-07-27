@@ -18,9 +18,9 @@ For the **formal practice** this week, we introduce **Mindful Yoga** (Yoga 1) in
 The **informal practice** is about becoming aware of how we experience and process unpleasant events. Just as in previous weeks, allow a few minutes before going to sleep to complete the informal practices log. _Below are your materials for this week:_
 
 ### Videos
-* [Non-Striving][38]by Jon Kabat-Zinn (3 min)  
-* [Attention, Intention, Attitude][39]by Shauna Shapiro (16 min)  
-* [Dealing with Thoughts (in life and in meditation)][40]by Tara Brach (20 min)  
+* [Non-Striving][38] by Jon Kabat-Zinn (3 min)  
+* [Attention, Intention, Attitude][39] by Shauna Shapiro (16 min)  
+* [Dealing with Thoughts (in life and in meditation)][40] by Tara Brach (20 min)  
 * [Surrender to the Monkeys][41] by Tara Brach (4 min)  
 
 ### Reading
