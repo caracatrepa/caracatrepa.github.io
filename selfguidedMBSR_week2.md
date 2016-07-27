@@ -1,6 +1,3 @@
-
-[Source](http://palousemindfulness.com/selfguidedMBSR_week2.html "Permalink to MBSR week 2")
-
 # Week 2 - Attention and The Brain
 ## Introduction to Sitting Meditation
 
@@ -108,3 +105,6 @@ _optional materials_
 [58]: http://palousemindfulness.com/art/JoshuaBell_170.jpg
 [59]: quotes.html#selfguidedMBSR_week2 "more quotes"
   
+---
+
+[Original source](http://palousemindfulness.com/selfguidedMBSR_week2.html "Permalink to MBSR week 2")
