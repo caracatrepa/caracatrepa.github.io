@@ -3,7 +3,7 @@
 
 # Introduction
 
-Mindfulness-Based Stress Reduction (MBSR)
+## Mindfulness-Based Stress Reduction (MBSR)
 
 > _"Mindfulness is about being fully awake in our lives. It is about perceiving the
 > exquisite vividness of each moment..."_&nbsp;
