@@ -3,12 +3,12 @@
 _This online MBSR training course is 100% free, created by a fully certified MBSR instructor, and is modeled on the program founded by Jon Kabat-Zinn at the [University of Massachusetts Medical School][1]._
 
   
-
-![][2] 
 > _I'm so glad you found this website! Here you will find a complete eight-week MBSR course,
 > designed for people who are not able to take a live MBSR course for financial or logistical
 > reasons. All of the materials used in the live course I teach, including guided meditations,
-> articles, and videos are freely available here. - [Dave Potter][3]_
+> articles, and videos are freely available here._
+- [Dave Potter][3]
+
 
 _Offering something for nothing does seem a little suspicious these days and I get many emails about this free online MBSR course, many of which ask one or more of the following questions:_
 
@@ -44,7 +44,6 @@ _ * **NOTE:** Much of the material in this course is drawn from the works of oth
 All videos, including the guided meditations, have accurate closed captions, with the exception of some that are in the "supplementary" sections. [_The captioning on this site was done with the help of [Caption Access][13].]_
 
 [1]: http://www.umassmed.edu/cfm/Stress-Reduction/History-of-MBSR/
-[2]: http://palousemindfulness.com/art/2013_Dave_170.jpg
 [3]: contact.html
 [4]: contributions.html
 [5]: http://www.umassmed.edu/cfm/training/training-pathways/
