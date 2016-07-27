@@ -1,4 +1,4 @@
-# Week 4 - Stress: Responding vs. Reacting [^1]
+# Week 4 - Stress: Responding vs. Reacting
 
 ## STOP: The One-minute Breathing Space
 
@@ -43,6 +43,8 @@ _Below are your materials for this week:_
 * [How Does the Vagus Nerve Convey Gut Instincts to the Brain?][56] Psychology Today  
 
 **NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][57].
+
+---
 
 > Between stimulus and response there is a space.  
 > In that space is our power to choose our response.  
@@ -112,4 +114,4 @@ _Below are your materials for this week:_
   
 ---
 
-[^1]: [Original source](http://palousemindfulness.com/selfguidedMBSR_week4.html "Permalink to MBSR week 4")
+[Original source](http://palousemindfulness.com/selfguidedMBSR_week4.html "Permalink to MBSR week 4")
