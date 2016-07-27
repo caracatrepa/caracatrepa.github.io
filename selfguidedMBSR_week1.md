@@ -13,7 +13,7 @@ _NOTE:_ _The links to all the materials described below are given in the colored
 The videos for this week begin with the **"60 Minutes"  Special on Mindfulness**, reported by Anderson Cooper of CBS and CNN, followed by two short videos by Jon Kabat-Zinn, **Life is Right Now**, in which he talks about how science is beginning to understand the process and effects of meditation, and **Befriending the Body**, where he talks about the importance of our relationship with our body in this course. The video, **Managing Anxiety with Mindfulness** by Rachel Green, was originally made to address anxiety, specifically test anxiety and panic attacks, but provides a great introduction to some of the basic components of mindfulness meditation, including mindful eating and breath meditation. Finally, Bob Stahl guides you through a **Raisin Meditation** using a single raisin. _**To get the most benefit out of Bob's video, bring a raisin when you sit down to watch it so you can experience on your own what he is describing in the video.**_
 
 ### Readings  
-Each week, there are readings which are an important part of the program. This week, the main reading is about the **Body Scan Meditation** you will be doing for your 30 minutes of daily practice this week. **7 Myths of Meditation**, and **Why We Find It So Hard to Meditate **address common misunderstandings, including the idea that one must have a quiet mind to meditate successfully. **What Would It Take for You to Be Still** describes one person's personal experience with mindfulness and will give you a little bit more of an idea of what to expect from this course.
+Each week, there are readings which are an important part of the program. This week, the main reading is about the **Body Scan Meditation** you will be doing for your 30 minutes of daily practice this week. **7 Myths of Meditation**, and **Why We Find It So Hard to Meditate** address common misunderstandings, including the idea that one must have a quiet mind to meditate successfully. **What Would It Take for You to Be Still** describes one person's personal experience with mindfulness and will give you a little bit more of an idea of what to expect from this course.
 
 ### Daily Practices  
 This week begins your 30-minute daily **Formal Practice**, which is the **Body Scan Meditation**, which you can find in the menu just to the left of this text under "Guided Practices". Below, you can see the link to the **Formal Practice sheet**, where you will be making brief notes about your practice. _[NOTE: If you will be completing this by hand, print the **PDF file**, but if you'd like to complete it on your computer, download the **WORD file**.]_
@@ -25,43 +25,33 @@ In addition, each week will indicate some supplementary reading or viewing mater
 
 **_OK, let's get started!_** _Below are your materials for this week:_
 
-Videos_&nbsp;&nbsp; [with most browsers, once you start the first video, the others will follow automatically]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ "60 Minutes"  Special on Mindfulness][39] by Anderson Cooper / CBS News [13 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Life is Right Now][40] and [Befriending the Body][41] by Jon Kabat-Zinn [11 min total]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Managing Anxiety with Mindfulness][42] by Rachel Green [15 min]   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Raisin Meditation][43] by Bob Stahl [6 min]  
+### Videos
+_[with most browsers, once you start the first video, the others will follow automatically]_  
+* ["60 Minutes"  Special on Mindfulness][39] by Anderson Cooper / CBS News [13 min]  
+* [Life is Right Now][40] and [Befriending the Body][41] by Jon Kabat-Zinn [11 min total]  
+* [Managing Anxiety with Mindfulness][42] by Rachel Green [15 min]   
+* [Raisin Meditation][43] by Bob Stahl [6 min]
 
-Reading_&nbsp;&nbsp; [print these for your manual or read them online]  
-_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ The Body Scan Meditation][44] by Jon Kabat-Zinn  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ 7 Myths of Meditation][45] by Deepak Choprah  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Why We Find It So Hard to Meditate][46] by Mindful Staff  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ What Would It Take for You to Be Still][47] by  Catherine Price  
+### Reading
+_[print these for your manual or read them online]_
+* [The Body Scan Meditation][44] by Jon Kabat-Zinn  
+* [ 7 Myths of Meditation][45] by Deepak Choprah  
+* [ Why We Find It So Hard to Meditate][46] by Mindful Staff  
+* [ What Would It Take for You to Be Still][47] by Catherine Price  
 
-Practice Sheets_&nbsp;&nbsp; [print PDF file or download WORD file to record your daily practices ]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Formal Practice [_PDF]_][48]_ [or [WORD format][49]] _\- Body Scan  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Informal Practice_ [PDF]_][50]_ [or [WORD format][51]] _\- Simple Awareness and/or Mindful Eating  
+### Practice Sheets
+_[print PDF file or download WORD file to record your daily practices ]_  
+* [Formal Practice [_PDF_]][48]_ [or [WORD format][49]] _\- Body Scan  
+* [Informal Practice [_PDF_]][50]_ [or [WORD format][51]] _\- Simple Awareness and/or Mindful Eating  
 
-Supplementary materials related to this week's topic_&nbsp;&nbsp; [optional materials]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Mouthfuls of Mindfulness][52] article by Jan Chozen Bays  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Introduction to Mindful Eating][53] video by Michelle DuVal [10 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ An Apple as Past, Present and Future][54] video by Susan Kaiser Greenland [2 min]  
+### Supplementary materials related to this week's topic
+_[optional materials]_  
+* [Mouthfuls of Mindfulness][52] article by Jan Chozen Bays  
+* [Introduction to Mindful Eating][53] video by Michelle DuVal [10 min]  
+* [An Apple as Past, Present and Future][54] video by Susan Kaiser Greenland [2 min]  
 
-**NOTE: **If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [ printer-ready version of this page][55].
+**NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][55].
 
-[ ![][56]
-
-Realize that this very body, with its aches and it pleasures…  
-  
-is exactly what we need to be fully human, fully awake, fully alive.  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- _Pema Chodron_
-
-more &nbsp;&nbsp;&nbsp;  
-quotes&nbsp;
-
-][57]
-
-&nbsp;
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
