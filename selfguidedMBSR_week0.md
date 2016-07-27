@@ -15,7 +15,7 @@ For most of us, when this happens, it's unexpected, maybe while walking on a mou
 "Mindfulness" is used in many contexts nowadays and there are many different understandings of the term. Diana Winston of UCLA's Mindful Awareness Research Center gives my favorite definition: **_Paying attention to present moment experience with open curiosity and a willingness to be with what is_**_._
 
 ### [_Mindfulness: Being Fully Awake in Our Own Lives_][39]
-This [10-minute video][39] from the Center for Mindfulness at the University of Massachusetts Medical School is a good introduction to what we mean by mindfulness in the context of this course. It is narrated by Saki Santorelli, the current director at UMass.  
+This [10-minute video][39] from the Center for Mindfulness at the University of Massachusetts Medical School is a good introduction to what we mean by mindfulness in the context of this course. It is narrated by Saki Santorelli, the current director at UMass. 
   
 ### [ _Introduction to the MBSR Course_ ][41]
 This [7-minute video][41], narrated by Jon Kabat-Zinn and others involved in the founding of MBSR, provides some interesting background about the MBSR course. MBSR is a blend of meditation, body awareness, and yoga: learning through practice and study how your body handles (and can resolve) stress neurologically. Also see the two-page article, [MBSR: An Introduction][42], a short but engaging piece about MBSR.   
@@ -33,9 +33,9 @@ While MBSR is not a "cure" for serious medical conditions and should not be used
 
 ### If you want to know even more...  
 You don't really need to know more about mindfulness to get started with the MBSR course, but if you are interested, there is an information-packed [74-minute video by Jon Kabat-Zinn][48] that goes into much more detail than the short videos above, including more about the research that validates the practice of mindfulness in terms of physical health and psychological well-being.
-
-[![](http://img.youtube.com/vi/mBSO41ZimNs/0.jpg)](http://www.youtube.com/watch?v=mBSO41ZimNs)
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mBSO41ZimNs
+" target="_blank"><img src="http://img.youtube.com/vi/mBSO41ZimNs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### The importance of practice  
 This course is highly experiential and the daily practice is perhaps the most important component.&nbsp; You wouldn't expect to learn to surf by reading a book about surfboards and waves, and learning a mindfulness practice is no different than any other skill that involves both mind and body. You know from your own experience in learning to play an instrument, or a sport, or any complex skill whatsoever, that practice is important. _**Your body/mind is the most complex instrument in the universe. It takes time and practice to use it effectively and harmoniously.**_
 
