@@ -1,116 +1,52 @@
 
 [Source](http://palousemindfulness.com/selfguidedMBSR_week2.html "Permalink to MBSR week 2")
 
-# MBSR week 2
+# Week 2 - Attention and The Brain
+## Introduction to Sitting Meditation
 
-![][1]
+The scene: Joshua Bell, one of the world's greatest violinists, playing a beautiful, intricate, moving piece on a three million dollar violin in a DC Metro Station, and while he plays, over **_1,000 people walk on by and only 7 stop to listen_**, and even then only for a few minutes. How many amazingly beautiful things do we miss in a day, simply because we don't expect them to be there, or because our attention is somewhere else, or because we are not even focused on anything present right now, but on a past or anticipated future event?
 
-![][2] ![][3] ![][4]
-
-![][5]
-
-[MBSR Online][6] &nbsp;|&nbsp; [TESTIMONIALS][7] &nbsp;|&nbsp; [GRADUATES][8] &nbsp;|&nbsp; [RESOURCES][9] &nbsp;|&nbsp; [CONTACT][10] &nbsp;|&nbsp; [QUOTES][11] &nbsp;|&nbsp; [What's New][12]
-
-[MBSR Online][6]
-
-[ "At a Glance"][13]  
-[Introduction][14]  
-[Getting Started][15]  
-[MBSR Manual][16]  
-[Week 1][17]  
-[Week 2][18]  
-[Week 3][19]  
-[Week 4][20]  
-[Week 5][21]  
-[Week 5b][22]  
-[Week 6][23]  
-[Week 7][24]  
-[Week 8][25]  
-[Certificate][26]  
-  
-
-[Guided Practices][27]
-
-[Body Scan][28]  
-[Sitting Meditation][29]  
-[Mindful Yoga 1][30]  
-[Mindful Yoga 2][31]  
-  
-[Soften, Soothe, Allow][32]  
-[RAIN Meditation][33]  
-[Mountain Meditation][34]  
-[Lake Meditation][35]  
-[Lovingkindness][36]  
-[Silent Meditations][37]  
-  
-
-[Testimonials /  
-Gallery of Learning][7]
-
-  
-
-[Graduate Readings][8]
-
-Week 2 - Attention and The Brain
-
-Introduction to Sitting Meditation
-
-The scene: Joshua Bell, one of the world's greatest violinists, playing a beautiful, intricate, moving piece on a three million dollar violin in a DC Metro Station, and while he plays, over **_1,000 people walk on by and only 7 stop to listen_**, and even then only for a few minutes.&nbsp;How many amazingly beautiful things do we miss in a day, simply because we don't expect them to be there, or because our attention is somewhere else, or because we are not even focused on anything present right now, but on a past or anticipated future event?
-
-Videos  
+### Videos  
 This week's videos include **The Monkey Business Illusion** by Daniel Simons, a cognitive scientist at University of Illinois, who illustrates the limitations inherent in our ability to perceive fully what is going on around us. You may be surprised at just how specific (and limited) our powers of attention are. Another short video, **Joshua Bell Plays a $3 Million Violin**, chronicles the "concert" Bell played at the DC Metro station described above. Shauna Shapiro gives a compelling account of how meditation creates physical changes in the brain in **Mindful Meditation and the Brain**, and in **Measuring Mindfulness**, Judson Brewer correlates brain scan data with subjective experience during meditation. Finally, there is a short piece by Jon Kabat-Zinn, **Coming to Our Senses**, followed by an entertaining **All it takes is 10 Mindful Minutes** that includes juggling and a provocative challenge to do "nothing" for 10 minutes.
 
-Readings  
-**Sitting Meditation** describes the practice we are introducing this week.** **The next three readings, **How the Brain Rewires Itself**, **How Meditation Affects the Gray Matter of the Brain**, and **Mastering Your Own Mind** discuss the growing body of research that demonstrates how meditative practice, even when done for a relatively short period of time (weeks not years), can physically alter the brain in positive and adaptive ways.
+### Readings  
+**Sitting Meditation** describes the practice we are introducing this week.** The next three readings, **How the Brain Rewires Itself**, **How Meditation Affects the Gray Matter of the Brain**, and **Mastering Your Own Mind** discuss the growing body of research that demonstrates how meditative practice, even when done for a relatively short period of time (weeks not years), can physically alter the brain in positive and adaptive ways.
 
-Daily Practices  
-This week, for the **formal practice**, we introduce the **Sitting Meditation**, using breath as the primary object of awareness, alternating this with the Body Scan (Sitting one day, Body Scan the next, etc.).&nbsp; It can seem that the goal of the Body Scan or a Sitting Meditation is to stay focused on exactly one thing at a time (ankle, wrist, breath) and that when you notice your awareness has moved (to a memory, internal narrative, sound and wonderings about the sound), that you are somehow failing. These practices will increase your ability to focus and concentrate, but they will also expand your ability to be with whatever comes into your field of experience, non-judgmentally.&nbsp; Your** NOTICING that your attention has moved to another object is, in itself, mindfulness in action**.&nbsp; Mindfulness includes both a concentrative attention (think laser beam) AND a capacity to perceive a larger picture (think floodlight).&nbsp; Both are important.&nbsp; Focusing on only one thing leaves the larger picture unseen, and maintaining only a broad focus does not allow exploration of the parts.
+### Daily Practices  
+This week, for the **formal practice**, we introduce the **Sitting Meditation**, using breath as the primary object of awareness, alternating this with the Body Scan (Sitting one day, Body Scan the next, etc.).&nbsp; It can seem that the goal of the Body Scan or a Sitting Meditation is to stay focused on exactly one thing at a time (ankle, wrist, breath) and that when you notice your awareness has moved (to a memory, internal narrative, sound and wonderings about the sound), that you are somehow failing. These practices will increase your ability to focus and concentrate, but they will also expand your ability to be with whatever comes into your field of experience, non-judgmentally. Your **NOTICING that your attention has moved to another object is, in itself, mindfulness in action**.  Mindfulness includes both a concentrative attention (think laser beam) AND a capacity to perceive a larger picture (think floodlight). Both are important. Focusing on only one thing leaves the larger picture unseen, and maintaining only a broad focus does not allow exploration of the parts.
 
-The **informal practice** this week is about becoming aware of how we experience and process pleasant events. &nbsp;They don't need to be major events, they can be something as simple as noticing the sun on your face or someone smiling at you. Just as we did last week, allow a few minutes before going to sleep to complete the informal practice log. _**Below are your materials for this week: **_
+The **informal practice** this week is about becoming aware of how we experience and process pleasant events. They don't need to be major events, they can be something as simple as noticing the sun on your face or someone smiling at you. Just as we did last week, allow a few minutes before going to sleep to complete the informal practice log. _**Below are your materials for this week: **_
 
-Videos_&nbsp;&nbsp; [with most browsers, once you start the first video, the others will follow automatically]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ The Monkey Business Illusion][38] by Daniel Simons [2 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Joshua Bell plays a $3 Million violin ][39] (and almost nobody notices) by JJ Musgrove [4 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Mindful Meditation and the Brain ][40] video by Shauna Shapiro [6 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Measuring Mindfulness ][41] video by Judson Brewer [7 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Coming to Our Senses][42] by Jon Kabat-Zinn [9 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ All it takes is 10 Mindful Minutes][43] by Andy Puddicombe [10 min]  
+### Videos
+_with most browsers, once you start the first video, the others will follow automatically_  
+* [The Monkey Business Illusion][38] by Daniel Simons [2 min]  
+* [Joshua Bell plays a $3 Million violin][39] (and almost nobody notices) by JJ Musgrove [4 min]  
+* [Mindful Meditation and the Brain ][40] video by Shauna Shapiro [6 min]  
+* [Measuring Mindfulness ][41] video by Judson Brewer [7 min]  
+* [Coming to Our Senses][42] by Jon Kabat-Zinn [9 min]  
+* [All it takes is 10 Mindful Minutes][43] by Andy Puddicombe [10 min]  
 
-Reading_&nbsp;&nbsp; [print these for your manual or read them online]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Sitting Meditation][44] by Jon Kabat-Zinn [excerpted from Full Catastrophe Living]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ How the Brain Rewires Itself][45] by Sharon Begley  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ How Meditation Affects the Gray Matter of the Brain][46] by David R. Hamilton, Ph.D.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Mastering Your Own Mind][47] by Katherine Ellison  
+### Reading
+_print these for your manual or read them online_
+* [Sitting Meditation][44] by Jon Kabat-Zinn [excerpted from Full Catastrophe Living]  
+* [How the Brain Rewires Itself][45] by Sharon Begley  
+* [How Meditation Affects the Gray Matter of the Brain][46] by David R. Hamilton, Ph.D.  
+* [Mastering Your Own Mind][47] by Katherine Ellison  
 
-Practice sheets_&nbsp;&nbsp; [print PDF file or download WORD file to record your daily practices ]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Formal Practice [_PDF]_][48]_ [or[ WORD format][49]] _\- Body Scan, Sitting Meditation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Informal Practice_ [PDF]_][50]_ [or[ WORD format][51]] _\- Pleasant Events Calendar  
+### Practice sheets
+_print PDF file or download WORD file to record your daily practices_  
+* [Formal Practice _PDF_][48] or [WORD format][49] \- Body Scan, Sitting Meditation  
+* [Informal Practice _PDF_][50] or [WORD format][51] \- Pleasant Events Calendar  
 
-Supplementary materials related to this week's topic_&nbsp;&nbsp; [optional materials]_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Why a Neuroscientist Would Study Meditation][52] video by Willoughby Britton [10 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Neuroscientist Richard Davidson's Wake-Up Call ][53]article/viideo by Huffington Post [5 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ How Meditation Can Reshape Our Brains][54] video by Sara Lazar [8 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Interview of Joshua Bell regarding DC Metro experiment][55] video by PBS [7 min]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Positive Emotions and Mindfulness][56] video by Rachel Green [10 min]  
+### Supplementary materials related to this week's topic
+_optional materials_
+* [Why a Neuroscientist Would Study Meditation][52] video by Willoughby Britton [10 min]  
+* [Neuroscientist Richard Davidson's Wake-Up Call ][53] article/video by Huffington Post [5 min]  
+* [How Meditation Can Reshape Our Brains][54] video by Sara Lazar [8 min]  
+* [Interview of Joshua Bell regarding DC Metro experiment][55] video by PBS [7 min]  
+* [Positive Emotions and Mindfulness][56] video by Rachel Green [10 min]  
 
-**NOTE: **If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [ printer-ready version of this page][57].
-
-[ ![][58]
-
-The range of what we think and do is limited by what we fail to notice.  
-  
-And because we fail to notice there is little we can do to change.  
-  
-Until we notice how failing to notice shapes our thoughts and deeds.  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- _R.D. Laing_
-
-more &nbsp;&nbsp;&nbsp;  
-quotes&nbsp;
-
-][59]
-
-&nbsp;
+**NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][57].
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
