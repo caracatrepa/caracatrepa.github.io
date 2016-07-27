@@ -4,7 +4,11 @@ _This online MBSR training course is 100% free, created by a fully certified MBS
 
   
 
-![][2] _I'm so glad you found this website! Here you will find a complete eight-week MBSR course, designed for people who are not able to take a live MBSR course for financial or logistical reasons. All of the materials used in the live course I teach, including guided meditations, articles, and videos are freely available here. - [Dave Potter][3]_
+![][2] 
+> _I'm so glad you found this website! Here you will find a complete eight-week MBSR course,
+> designed for people who are not able to take a live MBSR course for financial or logistical
+> reasons. All of the materials used in the live course I teach, including guided meditations,
+> articles, and videos are freely available here. - [Dave Potter][3]_
 
 _Offering something for nothing does seem a little suspicious these days and I get many emails about this free online MBSR course, many of which ask one or more of the following questions:_
 
