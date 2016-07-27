@@ -34,7 +34,7 @@ This online course begins with an [Introduction][9] designed to give you a sense
 All of what you will need is accessible through this web site, and whether or not you actually take yourself through the course, the wealth of material here, including videos and writings by the teachers mentioned above and others_ _is freely available to you.
 
 ## No registration required - begin whenever you're ready
-This course is completely self-guided (there is no registration and only you will be monitoring your progress, using the provided practice sheets). If you successfully complete the eight weeks of practice and study and send the materials indicated in [_Requesting a Certificate of Completion][11]_, I will send you a personal note of congratulations along with a certificate of completion. There is no cost for this. You simply submit the seven sets of practice sheets and a one page description of what you've learned and how you will be incorporating what you learned into your life.
+This course is completely self-guided (there is no registration and only you will be monitoring your progress, using the provided practice sheets). If you successfully complete the eight weeks of practice and study and send the materials indicated in _[Requesting a Certificate of Completion][11]_, I will send you a personal note of congratulations along with a certificate of completion. There is no cost for this. You simply submit the seven sets of practice sheets and a one page description of what you've learned and how you will be incorporating what you learned into your life.
 
 _**If you are ready to begin, or if you'd just like to know more about mindfulness or this program, go to the** [Introduction][9]._
 
