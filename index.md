@@ -13,7 +13,7 @@ _This online MBSR training course is 100% free, created by a fully certified MBS
 _Offering something for nothing does seem a little suspicious these days and I get many emails about this free online MBSR course, many of which ask one or more of the following questions:_
 
   
-The short answer is "yes".&nbsp; There is no catch: no fees, no spam, you don't even need to identify yourself or give an email address. I receive no income personally from the site, not even indirectly. _Contributions make the course even more accessible to people around the world, but this is not expected nor required - see [About Contributions][4]. _
+The short answer is "yes".&nbsp; There is no catch: no fees, no spam, you don't even need to identify yourself or give an email address. I receive no income personally from the site, not even indirectly. _Contributions make the course even more accessible to people around the world, but this is not expected nor required - see [About Contributions][4]._
 
   
 I am [fully certified as an MBSR instructor][5] by the University of Massachusetts Medical School and have been teaching live, in-person MBSR classes in my community for 12 years. I'm also a professional psychotherapist who has had a daily meditation practice for 25 years, and when I discovered MBSR, I wanted to offer it to my clients and my community. I started teaching my twice-yearly in-person classes in 2004 and, as a service to my students, began to put some parts of the class online. I soon realized that with a little work, the material could be useful to people who might not ever be able to attend a live MBSR class.
