@@ -28,10 +28,10 @@ _**For further exploration:** The most sophisticated and transformative method I
 ### Readings  
 The readings for this week include **Thinking with the Heart**, by Chris Germer, which describes the origination of the _Soften-Soothe-Allow_ process. **The Soften, Soothe, Allow process** is a one-page description of the process that will be used for the informal practice this week. **Buddhism's Pain Relief** describes this "middle way" of dealing with pain, relating recent advances in neuroscience with ancient Buddhist teachings. If you or a loved one is dealing with back pain, **The Strange Case of Chronic Back Pain** is a must-read. If so, see also Ron Siegel's book, **Back Sense**, in the supplementary materials.
 
-### Daily Practices  
+### Daily Practices
 For the **formal practice**, we focus a little more on the sitting meditation, alternating it with your choice of one of the other practices. On the first day, though, if you have something that happened that is mildly difficult, try the **Soften, Soothe, Allow Meditation** (see it on the menu to the left). The situation doesn't have to be a major issue, in fact, it's best if it's mild or moderate. For instance, it could be impatience while waiting in line or being mildly annoyed by some minor event.
 
-The **informal practice** will be to try the **Soften, Soothe, Allow process** at times when you are experiencing an unwanted emotion. As mentioned above, it's best not to start with the most pressing issue in your life._ If, at the end of the day, no unwanted emotion comes to mind, take the time to feel gratitude for something that happened that day._
+The **informal practice** will be to try the **Soften, Soothe, Allow process** at times when you are experiencing an unwanted emotion. As mentioned above, it's best not to start with the most pressing issue in your life. _If, at the end of the day, no unwanted emotion comes to mind, take the time to feel gratitude for something that happened that day._
 
 _Below are your materials for this week:_
 
@@ -59,16 +59,14 @@ _Below are your materials for this week:_
 
 **NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][55].
 
-> You can have compassion for yourself - which is not self-pity. You're simply recognizing that 'this is tough, this hurts,'
-> and bringing the same warmhearted wish for suffering to lessen or end that you would bring to any dear friend grappling
-> with the same pain, upset, or challenges as you.  
+> You can have compassion for yourself - which is not self-pity. You're simply recognizing that 'this is tough, this hurts,' and bringing the same warmhearted wish for suffering to lessen or end that you would bring to any dear friend grappling with the same pain, upset, or challenges as you.
+
 \- _Rick Hanson_
 
   
 
-> The most intimate relationship we will have in our entire lifetime is with ourselves. No one hears our
-> hearts the way we do. No one knows our hurts the way we do. We are the sages of our soft spots and our
-> edges. Self-compassion is showing up to that relationship with honesty and with love.  
+> The most intimate relationship we will have in our entire lifetime is with ourselves. No one hears our hearts the way we do. No one knows our hurts the way we do. We are the sages of our soft spots and our edges. Self-compassion is showing up to that relationship with honesty and with love.
+
 \- _Jamie Ridler_
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
