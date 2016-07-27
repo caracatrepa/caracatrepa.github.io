@@ -1,6 +1,3 @@
-
-[Source](http://palousemindfulness.com/selfguidedMBSR_week3.html "Permalink to MBSR week 3")
-
 # Week 3 - Dealing with Thoughts
 ## Introduction to Yoga
 
@@ -98,3 +95,4 @@ The **informal practice** is about becoming aware of how we experience and proce
 [55]: http://palousemindfulness.com/art/123rf_ripples_170.jpg
 [56]: quotes.html#selfguidedMBSR_week3 "more quotes"
   
+[Original source](http://palousemindfulness.com/selfguidedMBSR_week3.html "Permalink to MBSR week 3")
