@@ -135,18 +135,18 @@ reformatted for your manual go to the [printer-ready version of this page][55].
 [41]: https://www.youtube.com/watch?v=iS53roI_pWE&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM&amp;index=3
 [42]: https://www.youtube.com/watch?v=aSy9DZAJWIE&amp;index=4&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM
 [43]: https://www.youtube.com/watch?v=totkvnfnygQ&amp;index=5&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM
-[44]: docs/bodyscan.pdf
-[45]: docs/seven-myths.pdf
-[46]: docs/why-we-find-it-hard.pdf
-[47]: docs/what-would-it-take.pdf
+[44]: docs/week1/bodyscan.pdf
+[45]: docs/week1/seven-myths.pdf
+[46]: docs/week1/why-we-find-it-hard.pdf
+[47]: docs/week1/what-would-it-take.pdf
 [48]: practice/week1-formal.pdf
 [49]: practice/week1-formal.docx
 [50]: practice/week1-informal.pdf
 [51]: practice/week1-informal.docx
-[52]: docs/mouthfuls-mindfulness.pdf
+[52]: docs/week1/mouthfuls-mindfulness.pdf
 [53]: http://www.youtube.com/watch?v=6tw93IgfL0U
 [54]: http://www.youtube.com/watch?feature=endscreen&amp;NR=1&amp;v=j2uooeprDkE
-[55]: docs/manualMBSRweek1.pdf
+[55]: docs/week1/manualMBSRweek1.pdf
 [56]: http://palousemindfulness.com/art/123rf_body_170.jpg
 [57]: quotes.html#selfguidedMBSR_week1 "more quotes"
   
