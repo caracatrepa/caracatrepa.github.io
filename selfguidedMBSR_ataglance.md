@@ -95,6 +95,6 @@ becomes a mysterious, awesome, indescribably magnificent world in itself.
 [54]: http://palousemindfulness.com/art/will_flower32_170.jpg
 [55]: quotes.html#MBSR_ataglance "more quotes"
 
-____
+-----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_ataglance.html "Permalink to MBSR "At a Glance"")
