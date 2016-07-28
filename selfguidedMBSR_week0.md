@@ -131,7 +131,7 @@ going on to Week 1.*_
 [44]: http://palousemindfulness.com/art/3min-MBSR-Research_70.jpg
 [45]: http://umassmed.edu/cfm/Research/MBSR-Research/
 [46]: docs/research_summary.pdf
-[47]: resources_research.html
+[47]: http://palousemindfulness.com/resources_research.html
 [48]: https://www.youtube.com/watch?v=7kblkFJmriM&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f&amp;index=4
 [49]: http://palousemindfulness.com/art/bigstock-autumntrail_170.jpg
 [50]: quotes.html#selfguidedMBSR_week0 "more quotes"
