@@ -15,29 +15,21 @@ left, will take you to the corresponding part of the course.
   
 [Week 1][17] \- **Simple Awareness**. _Introduction to the [Body Scan][28]_  
   
-[Week 2][18] \- **Attention & The Brain**
-_Introduction to [Sitting Meditation][29]_  
+[Week 2][18] \- **Attention & The Brain**. _Introduction to [Sitting Meditation][29]_  
   
-[Week 3][19] \- **Dealing with Thoughts**
-_Introduction to Yoga - [Yoga 1][30]_  
+[Week 3][19] \- **Dealing with Thoughts**. _Introduction to Yoga - [Yoga 1][30]_  
   
-[Week 4][20] \- **Stress: Responding vs. Reacting**
-_STOP: One-Minute Breathing Space and [Yoga 2][31]_  
+[Week 4][20] \- **Stress: Responding vs. Reacting**. _STOP: One-Minute Breathing Space and [Yoga 2][31]_  
   
-[Week 5][21] \- **Dealing with Difficult Emotions/Sensations**
-_[Soften, Soothe, Allow][32]_  
+[Week 5][21] \- **Dealing with Difficult Emotions/Sensations**. _[Soften, Soothe, Allow][32]_  
   
-[Week 5b][22] \- **Special Instructions for Physical Pain**
-_[The Five-Step [PAIN process][49]_  
+[Week 5b][22] \- **Special Instructions for Physical Pain**. _[The Five-Step [PAIN process][49]_  
   
-[Week 6][23] \- **Mindfulness and Communication**
-_[Mountain Meditation][34] and [Lake Meditation][35]_  
+[Week 6][23] \- **Mindfulness and Communication**. _[Mountain Meditation][34] and [Lake Meditation][35]_  
   
-[Week 7][24] \- **Mindfulness and Compassion**
-_[Lovingkindness Meditation][36]_  
+[Week 7][24] \- **Mindfulness and Compassion**. _[Lovingkindness Meditation][36]_  
   
-[Week 8][25] \- **Conclusion**
-_Developing a practice of your own_  
+[Week 8][25] \- **Conclusion**. _Developing a practice of your own_  
   
   
 [Certificate of Completion][26]   
