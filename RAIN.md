@@ -61,7 +61,7 @@ If I do not practice a third day, the world notices it._
 [38]: /disks/RAIN-old.mp3
 [39]: https://www.youtube.com/watch?v=cQakZvcr-co
 [40]: /disks/RAIN.mp3
-[41]: http://palousemindfulness.com/downloading.html
+[41]: http://palousemindfulness.com/meditations/downloading.html
 [42]: http://palousemindfulness.com/art/RAIN_170.jpg
 [43]: ../quotes.html#selfguidedMBSR_week5 "more quotes"
   
