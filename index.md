@@ -105,8 +105,8 @@ available. My thanks to them for helping to make this free Online MBSR course
 possible._  
 
 All videos, including the guided meditations, have accurate closed captions,
-with the exception of some that are in the "supplementary" sections. [_The
-captioning on this site was done with the help of [Caption Access]_[13].]
+with the exception of some that are in the "supplementary" sections. _[The
+captioning on this site was done with the help of [Caption Access][13].]_
 
 [1]: http://www.umassmed.edu/cfm/Stress-Reduction/History-of-MBSR/
 [3]: http://palousemindfulness.com/contact.html
