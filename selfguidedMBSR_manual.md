@@ -46,13 +46,13 @@ instance, see [Week 1][8] and scroll down to the bottom of the page). Typically 
 Some of the articles in the "Reading" sections are long, so if you are able to print them double-sided, that will
 reduce the bulk of your manual.
 
-[1]: http://palousemindfulness.com/docs/manual-cover.pdf
-[2]: http://palousemindfulness.com/docs/manual-spine.pdf
-[3]: http://palousemindfulness.com/docs/manual-contents.pdf
-[4]: http://palousemindfulness.com/docs/manualMBSRIntro.pdf
-[5]: http://palousemindfulness.com/docs/manualMBSRGettingStarted.pdf
-[6]: http://palousemindfulness.com/docs/MBSRintro-lewis.pdf
-[7]: http://palousemindfulness.com/docs/research_summary.pdf
+[1]: docs/manual-cover.pdf
+[2]: docs/manual-spine.pdf
+[3]: docs/manual-contents.pdf
+[4]: docs/manualMBSRIntro.pdf
+[5]: docs/manualMBSRGettingStarted.pdf
+[6]: docs/MBSRintro-lewis.pdf
+[7]: docs/research_summary.pdf
 [8]: selfguidedMBSR_week1.md
 
 -----
