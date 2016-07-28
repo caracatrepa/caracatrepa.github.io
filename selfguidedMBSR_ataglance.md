@@ -23,9 +23,7 @@ left, will take you to the corresponding part of the course.
   
 [Week 5][21] \- **Dealing with Difficult Emotions/Sensations**. _[Soften, Soothe, Allow][32]_  
   
-[Week 5b][22] \- **Special Instructions for Physical Pain**.
-
-    _The Five-Step [PAIN process][49]_  
+[Week 5b][22] \- **Special Instructions for Physical Pain**. _The Five-Step [PAIN process][49]_  
   
 [Week 6][23] \- **Mindfulness and Communication**. _[Mountain Meditation][34] and [Lake Meditation][35]_  
   
@@ -53,19 +51,19 @@ becomes a mysterious, awesome, indescribably magnificent world in itself.
 [10]: contact.html
 [11]: quotes.html
 [12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.html
-[14]: selfguidedMBSR_week0.html
-[15]: selfguidedMBSR_gettingstarted.html
-[16]: selfguidedMBSR_manual.html
-[17]: selfguidedMBSR_week1.html
-[18]: selfguidedMBSR_week2.html
-[19]: selfguidedMBSR_week3.html
-[20]: selfguidedMBSR_week4.html
-[21]: selfguidedMBSR_week5.html
-[22]: selfguidedMBSR_week5b.html
-[23]: selfguidedMBSR_week6.html
-[24]: selfguidedMBSR_week7.html
-[25]: selfguidedMBSR_week8.html
+[13]: selfguidedMBSR_ataglance.md
+[14]: selfguidedMBSR_week0.md
+[15]: selfguidedMBSR_gettingstarted.md
+[16]: selfguidedMBSR_manual.md
+[17]: selfguidedMBSR_week1.md
+[18]: selfguidedMBSR_week2.md
+[19]: selfguidedMBSR_week3.md
+[20]: selfguidedMBSR_week4.md
+[21]: selfguidedMBSR_week5.md
+[22]: selfguidedMBSR_week5b.md
+[23]: selfguidedMBSR_week6.md
+[24]: selfguidedMBSR_week7.md
+[25]: selfguidedMBSR_week8.md
 [26]: selfguidedMBSR_certificate.html
 [27]: guidedmeditations.html
 [28]: meditations/bodyscan.html
