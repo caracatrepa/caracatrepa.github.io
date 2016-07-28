@@ -58,9 +58,9 @@ If I do not practice a third day, the world notices it._
 [35]: lake.html
 [36]: lovingkindness.html
 [37]: silent30min.html
-[38]: ../disks/RAIN-old.mp3
+[38]: /disks/RAIN-old.mp3
 [39]: https://www.youtube.com/watch?v=cQakZvcr-co
-[40]: ../disks/RAIN.mp3
+[40]: /disks/RAIN.mp3
 [41]: http://palousemindfulness.com/downloading.html
 [42]: http://palousemindfulness.com/art/RAIN_170.jpg
 [43]: ../quotes.html#selfguidedMBSR_week5 "more quotes"
