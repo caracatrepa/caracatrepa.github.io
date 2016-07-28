@@ -1,24 +1,63 @@
-# Week 1 - Simple Awareness
+Week 1 - Simple Awareness
+=========================
 
-## Introduction to the Body Scan
+Introduction to the Body Scan
+-----------------------------
 
-Now that you've experienced the [Introduction][14] and completed the [Getting Started Worksheet][38] (see [Getting Started][15]), you are ready to begin. _**Welcome!**_
+Now that you've experienced the [Introduction][14] and completed the [Getting
+Started Worksheet][38] (see [Getting Started][15]), you are ready to begin.
+_**Welcome!**_
 
-_NOTE:_ _The links to all the materials described below are given in the colored section at the bottom of the page._
+_NOTE:_ _The links to all the materials described below are given in the
+colored section at the bottom of the page._
 
 ### Videos  
-The videos for this week begin with the **"60 Minutes"  Special on Mindfulness**, reported by Anderson Cooper of CBS and CNN, followed by two short videos by Jon Kabat-Zinn, **Life is Right Now**, in which he talks about how science is beginning to understand the process and effects of meditation, and **Befriending the Body**, where he talks about the importance of our relationship with our body in this course. The video, **Managing Anxiety with Mindfulness** by Rachel Green, was originally made to address anxiety, specifically test anxiety and panic attacks, but provides a great introduction to some of the basic components of mindfulness meditation, including mindful eating and breath meditation. Finally, Bob Stahl guides you through a **Raisin Meditation** using a single raisin. _**To get the most benefit out of Bob's video, bring a raisin when you sit down to watch it so you can experience on your own what he is describing in the video.**_
+The videos for this week begin with the **"60 Minutes"  Special on
+Mindfulness**, reported by Anderson Cooper of CBS and CNN, followed by two
+short videos by Jon Kabat-Zinn, **Life is Right Now**, in which he talks about
+how science is beginning to understand the process and effects of meditation,
+and **Befriending the Body**, where he talks about the importance of our
+relationship with our body in this course. The video, **Managing Anxiety with
+Mindfulness** by Rachel Green, was originally made to address anxiety,
+specifically test anxiety and panic attacks, but provides a great introduction
+to some of the basic components of mindfulness meditation, including mindful
+eating and breath meditation. Finally, Bob Stahl guides you through a **Raisin
+Meditation** using a single raisin. _**To get the most benefit out of Bob's
+video, bring a raisin when you sit down to watch it so you can experience on
+your own what he is describing in the video.**_
 
-### Readings  
-Each week, there are readings which are an important part of the program. This week, the main reading is about the **Body Scan Meditation** you will be doing for your 30 minutes of daily practice this week. **7 Myths of Meditation**, and **Why We Find It So Hard to Meditate** address common misunderstandings, including the idea that one must have a quiet mind to meditate successfully. **What Would It Take for You to Be Still** describes one person's personal experience with mindfulness and will give you a little bit more of an idea of what to expect from this course.
+### Readings
+Each week, there are readings which are an important part of the program. This
+week, the main reading is about the **Body Scan Meditation** you will be doing
+for your 30 minutes of daily practice this week. **7 Myths of Meditation**, and
+**Why We Find It So Hard to Meditate** address common misunderstandings,
+including the idea that one must have a quiet mind to meditate
+successfully. **What Would It Take for You to Be Still** describes one
+person's personal experience with mindfulness and will give you a little
+bit more of an idea of what to expect from this course.
 
 ### Daily Practices  
-This week begins your 30-minute daily **Formal Practice**, which is the **Body Scan Meditation**, which you can find in the menu just to the left of this text under "Guided Practices". Below, you can see the link to the **Formal Practice sheet**, where you will be making brief notes about your practice. _[NOTE: If you will be completing this by hand, print the **PDF file**, but if you'd like to complete it on your computer, download the **WORD file**.]_
+This week begins your 30-minute daily **Formal Practice**, which is the **Body
+Scan Meditation**, which you can find in the menu just to the left of this text
+under "Guided Practices". Below, you can see the link to the **Formal Practice
+sheet**, where you will be making brief notes about your practice. _[NOTE: If
+you will be completing this by hand, print the **PDF file**, but if you'd like
+to complete it on your computer, download the **WORD file**.]_
 
-For the **Informal Practice** this week, it is suggested that you bring mindful awareness to some otherwise routine activity such as washing the dishes and/or eating a meal. At the end of each day, using the **Informal Practice sheet** you will be printing or downloading for this week (see below), take just five minutes or so to see if you can recall a daily activity which you brought awareness to that day.
+For the **Informal Practice** this week, it is suggested that you bring mindful
+awareness to some otherwise routine activity such as washing the dishes and/or
+eating a meal. At the end of each day, using the **Informal Practice sheet**
+you will be printing or downloading for this week (see below), take just five
+minutes or so to see if you can recall a daily activity which you brought
+awareness to that day.
 
 ### Supplementary reading  
-In addition, each week will indicate some supplementary reading or viewing materials. Listed there are suggestions for background reading or viewing if you'd like to know more about a given week's topic. Of special interest this week are two great resources having to do with eating mindfully: **Mouthfuls of Mindfulness,** written by Jan Chozen Bays and a video, **Introduction to Mindful Eating,** by Michelle DuVal.
+In addition, each week will indicate some supplementary reading or viewing
+materials. Listed there are suggestions for background reading or viewing if
+you'd like to know more about a given week's topic. Of special interest this
+week are two great resources having to do with eating mindfully: **Mouthfuls of
+Mindfulness,** written by Jan Chozen Bays and a video, **Introduction to
+Mindful Eating,** by Michelle DuVal.
 
 **_OK, let's get started!_** _Below are your materials for this week:_
 
@@ -47,7 +86,10 @@ _optional materials_
 * [Introduction to Mindful Eating][53] video by Michelle DuVal [10 min]  
 * [An Apple as Past, Present and Future][54] video by Susan Kaiser Greenland [2 min]  
 
-**NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][55].
+**NOTE:** If you are compiling a manual based on the suggestions in [MBSR
+Manual][16], you would print a copy of this page as well as the Readings and
+Practice Sheets given above. For a version of this page which has been
+reformatted for your manual go to the [printer-ready version of this page][55].
 
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
@@ -108,6 +150,6 @@ _optional materials_
 [56]: http://palousemindfulness.com/art/123rf_body_170.jpg
 [57]: quotes.html#selfguidedMBSR_week1 "more quotes"
   
----
+_________________________________________
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week1.html "Permalink to MBSR week 1")
