@@ -23,7 +23,8 @@ left, will take you to the corresponding part of the course.
   
 [Week 5][21] \- **Dealing with Difficult Emotions/Sensations**. _[Soften, Soothe, Allow][32]_  
   
-[Week 5b][22] \- **Special Instructions for Physical Pain**. _[The Five-Step [PAIN process][49]_  
+[Week 5b][22] \- **Special Instructions for Physical Pain**.
+    _The Five-Step [PAIN process][49]_  
   
 [Week 6][23] \- **Mindfulness and Communication**. _[Mountain Meditation][34] and [Lake Meditation][35]_  
   
