@@ -1,102 +1,30 @@
-
-[Source](http://palousemindfulness.com/guidedmeditations.html "Permalink to Guided Practices")
-
-# Guided Practices
-
-![][1]
-
-![][2] ![][3] ![][4]
-
-![][5]
-
-[MBSR Online][6] &nbsp;|&nbsp; [TESTIMONIALS][7] &nbsp;|&nbsp; [GRADUATES][8] &nbsp;|&nbsp; [RESOURCES][9] &nbsp;|&nbsp; [CONTACT][10] &nbsp;|&nbsp; [QUOTES][11] &nbsp;|&nbsp; [What's New][12]
-
-[MBSR Online][6]
-
-[ "At a Glance"][13]  
-[Introduction][14]  
-[Getting Started][15]  
-[MBSR Manual][16]  
-[Week 1][17]  
-[Week 2][18]  
-[Week 3][19]  
-[Week 4][20]  
-[Week 5][21]  
-[Week 5b][22]  
-[Week 6][23]  
-[Week 7][24]  
-[Week 8][25]  
-[Certificate][26]  
-  
-
-[Guided Practices][27]
-
-[Body Scan][28]  
-[Sitting Meditation][29]  
-[Mindful Yoga 1][30]  
-[Mindful Yoga 2][31]  
-  
-[Soften, Soothe, Allow][32]  
-[RAIN Meditation][33]  
-[Mountain Meditation][34]  
-[Lake Meditation][35]  
-[Lovingkindness][36]  
-[Silent Meditations][37]  
-  
-
-[Testimonials /  
-Gallery of Learning][7]
-
-  
-
-[Graduate Readings][8]
-
 Guided Mindfulness Practices
+============================
 
-The free eight-week [Mindfulness-Based Stress Reduction class][38] (MBSR) includes a series of guided mindfulness practices, all of which are available to anyone, free of charge, to be listened to here or downloaded to another device (e.g., iPod or MP3 player). These are all accessible through the menu to the left.
+The free eight-week [Mindfulness-Based Stress Reduction class][38] (MBSR)
+includes a series of guided mindfulness practices, all of which are available
+to anyone, free of charge, to be listened to here or downloaded to another
+device (e.g., iPod or MP3 player). These are all accessible through the menu to
+the left.
 
-The **Body Scan**, **Sitting Meditation**, and **Mindful Yoga **recordings comprise the primary practices of MBSR and are each about 30 minutes in length.
+The **Body Scan**, **Sitting Meditation**, and **Mindful Yoga **recordings
+comprise the primary practices of MBSR and are each about 30 minutes in length.
 
-The** Soften, Soothe, Allow Meditation **(15 min) is introduced in Week 5 of the course, the **Mountain Meditation** and **Lake Meditations** (20 min) are introduced in Week 6, and the **Lovingkindness Meditation** (13 min) is introduced in Week 7.
+The** Soften, Soothe, Allow Meditation **(15 min) is introduced in Week 5 of
+the course, the **Mountain Meditation** and **Lake Meditations** (20 min) are
+introduced in Week 6, and the **Lovingkindness Meditation** (13 min) is
+introduced in Week 7.
 
-The **Silent Meditations** are provided for non-guided practice and are either 15, 20 or 30 minutes.
+The **Silent Meditations** are provided for non-guided practice and are either
+15, 20 or 30 minutes.
 
-&nbsp;
+> _If I do not practice one day, I notice it.  
+> 
+> If I do not practice a second day, the orchestra notices it.  
+>
+> If I do not practice a third day, the world notices it._
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-[ ![][39]
-
-If I do not practice one day, I notice it.  
-  
-If I do not practice a second day, the orchestra notices it.  
-  
-If I do not practice a third day, the world notices it.   
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- _Ignacy Jan Paderewski_
-
-more &nbsp;&nbsp;&nbsp;  
-quotes&nbsp;
-
-][40]
-
-&nbsp;
+\- _Ignacy Jan Paderewski_
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
@@ -139,3 +67,6 @@ quotes&nbsp;
 [39]: http://palousemindfulness.com/art/123rf_piano_170.jpg
 [40]: quotes.html#classes_meditations "more quotes"
   
+-----
+
+[Original source](http://palousemindfulness.com/guidedmeditations.html "Permalink to Guided Practices")

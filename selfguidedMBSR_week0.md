@@ -5,9 +5,9 @@ Mindfulness-Based Stress Reduction (MBSR)
 -----------------------------------------
 
 > _"Mindfulness is about being fully awake in our lives. It is about perceiving
-> the exquisite vividness of each moment..."_
+the exquisite vividness of each moment..."_
 
-\- Jon Kabat-Zinn
+\- _Jon Kabat-Zinn_
 
 For most of us, when this happens, it's unexpected, maybe while walking on a
 mountain trail on a crisp autumn day, or being so focused in work or play that
@@ -85,57 +85,25 @@ a feeling of having more space and time, even in the middle of a very busy day.
 _*If you are ready to continue now, please go to [Getting Started][15] before
 going on to Week 1.*_
 
-[1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
-[2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
-[3]: http://palousemindfulness.com/art/logo-youtube_22.gif
-[4]: http://palousemindfulness.com/art/logo-facebook_22.gif
-[5]: http://palousemindfulness.com/art/clouds2_title_950x115.jpg
-[6]: index.html
-[7]: testimonials/index.html
-[8]: graduates.html
-[9]: resources.html
-[10]: contact.html
-[11]: quotes.html
-[12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.md
-[14]: selfguidedMBSR_week0.md
 [15]: selfguidedMBSR_gettingstarted.md
-[16]: selfguidedMBSR_manual.md
-[17]: selfguidedMBSR_week1.md
-[18]: selfguidedMBSR_week2.md
-[19]: selfguidedMBSR_week3.md
-[20]: selfguidedMBSR_week4.md
-[21]: selfguidedMBSR_week5.md
-[22]: selfguidedMBSR_week5b.md
-[23]: selfguidedMBSR_week6.md
-[24]: selfguidedMBSR_week7.md
-[25]: selfguidedMBSR_week8.md
-[26]: selfguidedMBSR_certificate.html
-[27]: guidedmeditations.html
-[28]: meditations/bodyscan.html
-[29]: meditations/sittingmeditation.html
-[30]: meditations/yoga1.html
-[31]: meditations/yoga2.html
-[32]: meditations/soften-soothe-allow.html
-[33]: meditations/RAIN.html
-[34]: meditations/mountain.html
-[35]: meditations/lake.html
-[36]: meditations/lovingkindness.html
-[37]: meditations/silent30min.html
-[38]: http://palousemindfulness.com/art/whatsnew-10min-Mindfulness_70.jpg
 [39]: https://www.youtube.com/watch?v=mBSO41ZimNs&amp;index=1&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f
-[40]: http://palousemindfulness.com/art/7min-Intro_70.jpg
 [41]: https://www.youtube.com/watch?v=0TA7P-iCCcY&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f&amp;index=2
 [42]: docs/MBSRintro-lewis.pdf
 [43]: https://www.youtube.com/watch?v=PGNHn-G0Zz8&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f&amp;index=3
-[44]: http://palousemindfulness.com/art/3min-MBSR-Research_70.jpg
 [45]: http://umassmed.edu/cfm/Research/MBSR-Research/
 [46]: docs/research_summary.pdf
 [47]: http://palousemindfulness.com/resources_research.html
 [48]: https://www.youtube.com/watch?v=7kblkFJmriM&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f&amp;index=4
-[49]: http://palousemindfulness.com/art/bigstock-autumntrail_170.jpg
-[50]: quotes.html#selfguidedMBSR_week0 "more quotes"
 
 -----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week0.html "Permalink to MBSR Introduction")
+[15]
+[39]
+[41]
+[42]
+[43]
+[45]
+[46]
+[47]
+[48]

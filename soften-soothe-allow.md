@@ -1,114 +1,27 @@
-
-[Source](http://palousemindfulness.com/meditations/soften-soothe-allow.html "Permalink to Soften, Soothe, Allow Meditation")
-
-# Soften, Soothe, Allow Meditation
-
-![][1]
-
-![][2] ![][3] ![][4]
-
-![][5]
-
-[MBSR Online][6] &nbsp;|&nbsp; [TESTIMONIALS][7] &nbsp;|&nbsp; [GRADUATES][8] &nbsp;|&nbsp; [RESOURCES][9] &nbsp;|&nbsp; [CONTACT][10] &nbsp;|&nbsp; [QUOTES][11] &nbsp;|&nbsp; [What's New][12]
-
-[MBSR Online][6]
-
-[ "At a Glance"][13]  
-[Introduction][14]  
-[Getting Started][15]  
-[MBSR Manual][16]  
-[Week 1][17]  
-[Week 2][18]  
-[Week 3][19]  
-[Week 4][20]  
-[Week 5][21]  
-[Week 5b][22]  
-[Week 6][23]  
-[Week 7][24]  
-[Week 8][25]  
-[Certificate][26]  
-  
-
-[Guided Practices][27]
-
-[Body Scan][28]  
-[Sitting Meditation][29]  
-[Mindful Yoga 1][30]  
-[Mindful Yoga 2][31]  
-  
-[Soften, Soothe, Allow][32]  
-[RAIN Meditation][33]  
-[Mountain Meditation][34]  
-[Lake Meditation][35]  
-[Lovingkindness][36]  
-[Silent Meditations][37]  
-  
-
-[Testimonials /  
-Gallery of Learning][7]
-
-  
-
-[Graduate Readings][8]
-
 Soften, Soothe, Allow Meditation (15 min)
+=========================================
 
-This meditation is guided by [Kristin Neff][38] [Other meditations by Kristin can be found at [self-compassion.org][39]]  
+This meditation is guided by [Kristin Neff][38] [Other meditations by Kristin
+can be found at [self-compassion.org][39]]  
   
-Also see [Thinking with the Heart _(the origin of Soften, Soothe, Allow)_][40] by Chris Germer, and the [one-page description of Soften, Soften, Soothe Allow][41].
+Also see [Thinking with the Heart _(the origin of Soften, Soothe, Allow)_][40]
+by Chris Germer, and the [one-page description of Soften, Soften, Soothe
+Allow][41].
 
-&gt; Your browser does not support the audio element.   
+**Your browser does not support the audio element.**
   
 
-You are welcome to download this recording to another device. It can be accessed directly at [http://palousemindfulness.com/disks/soften-soothe-allow.mp3][42]
+You are welcome to download this recording to another device. It can be
+accessed directly at
+[http://palousemindfulness.com/disks/soften-soothe-allow.mp3][42]
 
-&gt; NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][43]
-&gt;
-&gt; &nbsp;
-&gt;
-&gt; &nbsp;
-&gt;
-&gt; &nbsp;
-&gt;
-&gt; &nbsp;
-&gt;
-&gt;   
+NOTE: For help in downloading, see[ How to Download Recordings to Your PC or
+Mac][43]
 
-&nbsp;
+> _It's simply being kind to myself—meeting myself, whatever my emotional, physical or psychological state, with loving kindness. As simple, and difficult, as that!_
 
-&nbsp;
+_\- Marianne Elliot_
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-[ ![][44]
-
-It's simply being kind to myself—meeting myself, whatever my emotional, physical or psychological state, with loving kindness. As simple, and difficult, as that!  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_\- Marianne Elliot_
-
-more &nbsp;&nbsp;&nbsp;  
-quotes&nbsp;
-
-][45]
-
-&nbsp;
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
@@ -156,3 +69,6 @@ quotes&nbsp;
 [44]: http://palousemindfulness.com/art/123rf_soften_170.jpg
 [45]: ../quotes.html#selfguidedMBSR_week5 "more quotes"
   
+-----
+
+[Original source](http://palousemindfulness.com/meditations/soften-soothe-allow.html "Permalink to Soften, Soothe, Allow Meditation")

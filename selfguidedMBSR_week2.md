@@ -94,43 +94,7 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
-[1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
-[2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
-[3]: http://palousemindfulness.com/art/logo-youtube_22.gif
-[4]: http://palousemindfulness.com/art/logo-facebook_22.gif
-[5]: http://palousemindfulness.com/art/clouds2_title_950x115.jpg
-[6]: index.html
-[7]: testimonials/index.html
-[8]: graduates.html
-[9]: resources.html
-[10]: contact.html
-[11]: quotes.html
-[12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.html
-[14]: selfguidedMBSR_week0.html
-[15]: selfguidedMBSR_gettingstarted.html
 [16]: selfguidedMBSR_manual.html
-[17]: selfguidedMBSR_week1.html
-[18]: selfguidedMBSR_week2.html
-[19]: selfguidedMBSR_week3.html
-[20]: selfguidedMBSR_week4.html
-[21]: selfguidedMBSR_week5.html
-[22]: selfguidedMBSR_week5b.html
-[23]: selfguidedMBSR_week6.html
-[24]: selfguidedMBSR_week7.html
-[25]: selfguidedMBSR_week8.html
-[26]: selfguidedMBSR_certificate.html
-[27]: guidedmeditations.html
-[28]: meditations/bodyscan.html
-[29]: meditations/sittingmeditation.html
-[30]: meditations/yoga1.html
-[31]: meditations/yoga2.html
-[32]: meditations/soften-soothe-allow.html
-[33]: meditations/RAIN.html
-[34]: meditations/mountain.html
-[35]: meditations/lake.html
-[36]: meditations/lovingkindness.html
-[37]: meditations/silent30min.html
 [38]: https://www.youtube.com/watch?v=ux1cL7tHjlI&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo&amp;index=1
 [39]: https://www.youtube.com/watch?v=9gti4JFwP_o&amp;index=2&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
 [40]: https://www.youtube.com/watch?v=R6hybxLidgA&amp;index=3&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
@@ -150,10 +114,8 @@ reformatted for your manual go to the [printer-ready version of this page][57].
 [54]: https://www.youtube.com/watch?v=m8rRzTtP7Tc
 [55]: https://www.youtube.com/watch?v=BJhZ0J3bIYc
 [56]: https://www.youtube.com/watch?feature=player_embedded&amp;v=4Gcohaq8Uhs#!
-[57]: docs/manualMBSRweek2.pdf
-[58]: http://palousemindfulness.com/art/JoshuaBell_170.jpg
-[59]: quotes.html#selfguidedMBSR_week2 "more quotes"
+[57]: http://palousemindfulness.com/docs/manualMBSRweek2.pdf
   
----
+-----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week2.html "Permalink to MBSR week 2")

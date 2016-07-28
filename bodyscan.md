@@ -1,111 +1,25 @@
-
-[Source](http://palousemindfulness.com/meditations/bodyscan.html "Permalink to Body Scan")
-
-# Body Scan
-
-![][1]
-
-![][2] ![][3] ![][4]
-
-![][5]
-
-[MBSR Online][6] &nbsp;|&nbsp; [TESTIMONIALS][7] &nbsp;|&nbsp; [GRADUATES][8] &nbsp;|&nbsp; [RESOURCES][9] &nbsp;|&nbsp; [CONTACT][10] &nbsp;|&nbsp; [QUOTES][11] &nbsp;|&nbsp; [What's New][12]
-
-[MBSR Online][6]
-
-[ "At a Glance"][13]  
-[Introduction][14]  
-[Getting Started][15]  
-[MBSR Manual][16]  
-[Week 1][17]  
-[Week 2][18]  
-[Week 3][19]  
-[Week 4][20]  
-[Week 5][21]  
-[Week 5b][22]  
-[Week 6][23]  
-[Week 7][24]  
-[Week 8][25]  
-[Certificate][26]  
-  
-
-[Guided Practices][27]
-
-[Body Scan][28]  
-[Sitting Meditation][29]  
-[Mindful Yoga 1][30]  
-[Mindful Yoga 2][31]  
-  
-[Soften, Soothe, Allow][32]  
-[RAIN Meditation][33]  
-[Mountain Meditation][34]  
-[Lake Meditation][35]  
-[Lovingkindness][36]  
-[Silent Meditations][37]  
-  
-
-[Testimonials /  
-Gallery of Learning][7]
-
-  
-
-[Graduate Readings][8]
-
 Body Scan (32 min)
+==================
 
-Before doing the Body Scan meditation for the first time, please read [The Body Scan Meditation][38]. This 32-minute version is best when done as part of the 8-week MBSR course, but a [20-minute version][39] is also available.
+Before doing the Body Scan meditation for the first time, please read [The Body
+Scan Meditation][38]. This 32-minute version is best when done as part of the
+8-week MBSR course, but a [20-minute version][39] is also available.
 
-&gt; Your browser does not support the audio element.   
+**Your browser does not support the audio element.**
   
 
-_If you are deaf or hard-of-hearing, or English is not your first language, you may want to try the [video version with closed captioning][40]._
+_If you are deaf or hard-of-hearing, or English is not your first language, you
+may want to try the [video version with closed captioning][40]._
 
-You are welcome to download this recording to another device. It can be accessed directly at [http://palousemindfulness.com/disks/bodyscan.mp3][41]
+You are welcome to download this recording to another device. It can be
+accessed directly at [http://palousemindfulness.com/disks/bodyscan.mp3][41]
 
-&gt; NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][42]
+NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][42]
 
-&nbsp;
+> _Realize that this very body, with its aches and it pleasures…  
+is exactly what we need to be fully human, fully awake, fully alive._
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-  
-
-[ ![][43]
-
-Realize that this very body, with its aches and it pleasures…  
-  
-is exactly what we need to be fully human, fully awake, fully alive.  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- _Pema Chodron_
-
-more &nbsp;&nbsp;&nbsp;  
-quotes&nbsp;
-
-][44]
-
-&nbsp;
+\- _Pema Chodron_
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
@@ -152,3 +66,6 @@ quotes&nbsp;
 [43]: http://palousemindfulness.com/art/123rf_body_170.jpg
 [44]: ../quotes.html#selfguidedMBSR_week1 "more quotes"
   
+-----
+
+[Original source](http://palousemindfulness.com/meditations/bodyscan.html "Permalink to Body Scan")

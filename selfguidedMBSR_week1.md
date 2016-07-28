@@ -92,43 +92,9 @@ Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][55].
 
 
-[1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
-[2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
-[3]: http://palousemindfulness.com/art/logo-youtube_22.gif
-[4]: http://palousemindfulness.com/art/logo-facebook_22.gif
-[5]: http://palousemindfulness.com/art/clouds2_title_950x115.jpg
-[6]: index.html
-[7]: testimonials/index.html
-[8]: graduates.html
-[9]: resources.html
-[10]: contact.html
-[11]: quotes.html
-[12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.html
 [14]: selfguidedMBSR_week0.html
 [15]: selfguidedMBSR_gettingstarted.html
 [16]: selfguidedMBSR_manual.html
-[17]: selfguidedMBSR_week1.html
-[18]: selfguidedMBSR_week2.html
-[19]: selfguidedMBSR_week3.html
-[20]: selfguidedMBSR_week4.html
-[21]: selfguidedMBSR_week5.html
-[22]: selfguidedMBSR_week5b.html
-[23]: selfguidedMBSR_week6.html
-[24]: selfguidedMBSR_week7.html
-[25]: selfguidedMBSR_week8.html
-[26]: selfguidedMBSR_certificate.html
-[27]: guidedmeditations.html
-[28]: meditations/bodyscan.html
-[29]: meditations/sittingmeditation.html
-[30]: meditations/yoga1.html
-[31]: meditations/yoga2.html
-[32]: meditations/soften-soothe-allow.html
-[33]: meditations/RAIN.html
-[34]: meditations/mountain.html
-[35]: meditations/lake.html
-[36]: meditations/lovingkindness.html
-[37]: meditations/silent30min.html
 [38]: docs/gettingstarted.pdf
 [39]: https://www.youtube.com/watch?v=_8-6XzURntE&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM&amp;index=1
 [40]: https://www.youtube.com/watch?v=VGtJQNqMXBY&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM&amp;index=2
@@ -146,10 +112,8 @@ reformatted for your manual go to the [printer-ready version of this page][55].
 [52]: docs/week1/mouthfuls-mindfulness.pdf
 [53]: http://www.youtube.com/watch?v=6tw93IgfL0U
 [54]: http://www.youtube.com/watch?feature=endscreen&amp;NR=1&amp;v=j2uooeprDkE
-[55]: docs/week1/manualMBSRweek1.pdf
-[56]: http://palousemindfulness.com/art/123rf_body_170.jpg
-[57]: quotes.html#selfguidedMBSR_week1 "more quotes"
+[55]: http://palousemindfulness.com/docs/manualMBSRweek1.pdf
   
-_________________________________________
+-----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week1.html "Permalink to MBSR week 1")

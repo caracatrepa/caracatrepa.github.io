@@ -1,18 +1,60 @@
-# Week 3 - Dealing with Thoughts
-## Introduction to Yoga
+Week 3 - Dealing with Thoughts
+==============================
 
-At this point in your practice, you may be noticing just how busy the mind is, with replays of past events, expectations/fears about the future, or evaluations of present experience (I like this, don't lke that, when will this be over, etc.). It can seem that the object of meditation is to get rid of all thoughts and distractions, and when that isn't happening, you may feel like you are failing at meditation and/or the meditation can turn into a struggle, wanting your experience to be different than it is. In fact, the kind of meditation you are learning is more about working skillfully with _**any**_ internal or external experience, and isn't really about "getting rid" of thoughts and distractions. In fact, it can be said that wandering thoughts are the weights that train the muscles of the mind.
+Introduction to Yoga
+--------------------
+
+At this point in your practice, you may be noticing just how busy the mind is,
+with replays of past events, expectations/fears about the future, or
+evaluations of present experience (I like this, don't lke that, when will this
+be over, etc.). It can seem that the object of meditation is to get rid of all
+thoughts and distractions, and when that isn't happening, you may feel like you
+are failing at meditation and/or the meditation can turn into a struggle,
+wanting your experience to be different than it is. In fact, the kind of
+meditation you are learning is more about working skillfully with _**any**_
+internal or external experience, and isn't really about "getting rid" of
+thoughts and distractions. In fact, it can be said that wandering thoughts are
+the weights that train the muscles of the mind.
 
 ### Videos  
-It's common for there to be a sense of pushing oneself in meditation, and the first video, **Non-Striving**, addresses the possibility of taking the striving out of meditation (and life!). The second video, **Attention, Intention, Attitude**, explores the attitude we take toward ourselves in meditation, which is often harsh, and the possibility of being gentler with ourselves. In the third video, **Dealing with Thoughts (in life and in meditation)**, Tara Brach talks about our relationship with thoughts, including a short practice of intentionally bringing awareness to thoughts. The last video, **Surrender to the Monkeys**, is also by Tara, and addresses our wanting for things to be different than they are and the wisdom of taking things just as they are.
+It's common for there to be a sense of pushing oneself in meditation, and the
+first video, **Non-Striving**, addresses the possibility of taking the striving
+out of meditation (and life!). The second video, **Attention, Intention,
+Attitude**, explores the attitude we take toward ourselves in meditation, which
+is often harsh, and the possibility of being gentler with ourselves. In the
+third video, **Dealing with Thoughts (in life and in meditation)**, Tara Brach
+talks about our relationship with thoughts, including a short practice of
+intentionally bringing awareness to thoughts. The last video, **Surrender to
+the Monkeys**, is also by Tara, and addresses our wanting for things to be
+different than they are and the wisdom of taking things just as they are.
 
 ### Reading  
-The reading list this week begins with **Mindful Yoga** by Jon Kabat-Zinn. It's important to read this before beginning the Yoga practice that begins this week. The other articles in this section address some common misconceptions in meditation. In **Meditation: It's Not What You Think**, Jon Kabat-Zinn points out that while meditation can often be accompanied by peace and relaxation, "_meditation is not relaxation spelled differently_", and as Erik Wikstrom says in the quote above, _"The moments of stillness are one of meditation's byproducts, not the practice itself."_ The last two articles **Thoughts on Thinking** and **I Hadn't Thought of That**, address directly the concern that new (and sometimes even experienced) meditators have with thoughts that seem to "get in the way" of the meditation.
+The reading list this week begins with **Mindful Yoga** by Jon Kabat-Zinn. It's
+important to read this before beginning the Yoga practice that begins this
+week. The other articles in this section address some common misconceptions in
+meditation. In **Meditation: It's Not What You Think**, Jon Kabat-Zinn points
+out that while meditation can often be accompanied by peace and relaxation,
+"_meditation is not relaxation spelled differently_", and as Erik Wikstrom says
+in the quote above, _"The moments of stillness are one of meditation's
+byproducts, not the practice itself."_ The last two articles **Thoughts on
+Thinking** and **I Hadn't Thought of That**, address directly the concern that
+new (and sometimes even experienced) meditators have with thoughts that seem to
+"get in the way" of the meditation.
 
 ### Daily Practices  
-For the **formal practice** this week, we introduce **Mindful Yoga** (Yoga 1) into your 30 minute practice, alternating with the Sitting Meditation and choosing one day to do a Body Scan. This is all outlined in your Week 3 Practice Log, below. _**Even if you are an experienced yoga practitioner, be sure to read "Mindful Yoga" in the reading below, before beginning the yoga practice. Mindful Yoga is different than many traditional yoga practices in that there is less of a focus on the exact posture achieved and more focus on body/mind awareness.**_
+For the **formal practice** this week, we introduce **Mindful Yoga** (Yoga 1)
+into your 30 minute practice, alternating with the Sitting Meditation and
+choosing one day to do a Body Scan. This is all outlined in your Week 3
+Practice Log, below. _**Even if you are an experienced yoga practitioner, be
+sure to read "Mindful Yoga" in the reading below, before beginning the yoga
+practice. Mindful Yoga is different than many traditional yoga practices in
+that there is less of a focus on the exact posture achieved and more focus on
+body/mind awareness.**_
 
-The **informal practice** is about becoming aware of how we experience and process unpleasant events. Just as in previous weeks, allow a few minutes before going to sleep to complete the informal practices log. _Below are your materials for this week:_
+The **informal practice** is about becoming aware of how we experience and
+process unpleasant events. Just as in previous weeks, allow a few minutes
+before going to sleep to complete the informal practices log. _Below are your
+materials for this week:_
 
 ### Videos
 * [Non-Striving][38] by Jon Kabat-Zinn (3 min)  
@@ -36,53 +78,20 @@ The **informal practice** is about becoming aware of how we experience and proce
 * [Mindfulness, the Mind, and Addictive Behavior][52] video by Judson Brewer [20 min]  
 * [Autobiography in Five Short Chapters][53] one-page "autobiography" by Portia Nelson  
 
-**NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][54].
+**NOTE:** If you are compiling a manual based on the suggestions in [MBSR
+Manual][16], you would print a copy of this page as well as the Readings and
+Practice Sheets given above. For a version of this page which has been
+reformatted for your manual go to the [printer-ready version of this page][54].
 
-[1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
-[2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
-[3]: http://palousemindfulness.com/art/logo-youtube_22.gif
-[4]: http://palousemindfulness.com/art/logo-facebook_22.gif
-[5]: http://palousemindfulness.com/art/clouds2_title_950x115.jpg
-[6]: index.html
-[7]: testimonials/index.html
-[8]: graduates.html
-[9]: resources.html
-[10]: contact.html
-[11]: quotes.html
-[12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.html
-[14]: selfguidedMBSR_week0.html
-[15]: selfguidedMBSR_gettingstarted.html
 [16]: selfguidedMBSR_manual.html
-[17]: selfguidedMBSR_week1.html
-[18]: selfguidedMBSR_week2.html
-[19]: selfguidedMBSR_week3.html
-[20]: selfguidedMBSR_week4.html
-[21]: selfguidedMBSR_week5.html
-[22]: selfguidedMBSR_week5b.html
-[23]: selfguidedMBSR_week6.html
-[24]: selfguidedMBSR_week7.html
-[25]: selfguidedMBSR_week8.html
-[26]: selfguidedMBSR_certificate.html
-[27]: guidedmeditations.html
-[28]: meditations/bodyscan.html
-[29]: meditations/sittingmeditation.html
-[30]: meditations/yoga1.html
-[31]: meditations/yoga2.html
-[32]: meditations/soften-soothe-allow.html
-[33]: meditations/RAIN.html
-[34]: meditations/mountain.html
-[35]: meditations/lake.html
-[36]: meditations/lovingkindness.html
-[37]: meditations/silent30min.html
 [38]: https://www.youtube.com/watch?v=Ye3xwfECuYc&amp;index=1&amp;list=PLbiVpU59JkVZzL8TqgU6Uz_HxhnMqpzZv
 [39]: https://www.youtube.com/watch?v=UABlpt0R51Y&amp;list=PLbiVpU59JkVZzL8TqgU6Uz_HxhnMqpzZv&amp;index=2
 [40]: https://www.youtube.com/watch?v=9kNXhJf6jOM&amp;index=3&amp;list=PLbiVpU59JkVZzL8TqgU6Uz_HxhnMqpzZv
 [41]: https://www.youtube.com/watch?v=H8yoWnEmTO8&amp;index=4&amp;list=PLbiVpU59JkVZzL8TqgU6Uz_HxhnMqpzZv
-[42]: docs/yoga.pdf
-[43]: docs/JKZ_thinking.pdf
-[44]: docs/brown-thoughts.pdf
-[45]: docs/nisker-thoughts.pdf
+[42]: docs/week3/yoga.pdf
+[43]: docs/week3/JKZ_thinking.pdf
+[44]: docs/week3/brown-thoughts.pdf
+[45]: docs/week3/nisker-thoughts.pdf
 [46]: practice/week3-formal.pdf
 [47]: practice/week3-formal.docx
 [48]: practice/week3-informal.pdf
@@ -90,11 +99,9 @@ The **informal practice** is about becoming aware of how we experience and proce
 [50]: https://www.youtube.com/watch?v=H812bBkoHNk
 [51]: http://www.youtube.com/watch?v=7tRdDqXgsJ0
 [52]: https://www.youtube.com/watch?v=7a9sWI0vJzc
-[53]: docs/autobio_5chapters.pdf
-[54]: docs/manualMBSRweek3.pdf
-[55]: http://palousemindfulness.com/art/123rf_ripples_170.jpg
-[56]: quotes.html#selfguidedMBSR_week3 "more quotes"
+[53]: docs/week3/autobio_5chapters.pdf
+[54]: http://palousemindfulness.com/docs/manualMBSRweek3.pdf
   
----
+-----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week3.html "Permalink to MBSR week 3")
