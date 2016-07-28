@@ -1,18 +1,64 @@
-# Week 2 - Attention and The Brain
-## Introduction to Sitting Meditation
+Week 2 - Attention and The Brain
+================================
 
-The scene: Joshua Bell, one of the world's greatest violinists, playing a beautiful, intricate, moving piece on a three million dollar violin in a DC Metro Station, and while he plays, over **_1,000 people walk on by and only 7 stop to listen_**, and even then only for a few minutes. How many amazingly beautiful things do we miss in a day, simply because we don't expect them to be there, or because our attention is somewhere else, or because we are not even focused on anything present right now, but on a past or anticipated future event?
+Introduction to Sitting Meditation
+----------------------------------
+
+The scene: Joshua Bell, one of the world's greatest violinists, playing a
+beautiful, intricate, moving piece on a three million dollar violin in a DC
+Metro Station, and while he plays, over **_1,000 people walk on by and only 7
+stop to listen_**, and even then only for a few minutes. How many amazingly
+beautiful things do we miss in a day, simply because we don't expect them to be
+there, or because our attention is somewhere else, or because we are not even
+focused on anything present right now, but on a past or anticipated future
+event?
 
 ### Videos  
-This week's videos include **The Monkey Business Illusion** by Daniel Simons, a cognitive scientist at University of Illinois, who illustrates the limitations inherent in our ability to perceive fully what is going on around us. You may be surprised at just how specific (and limited) our powers of attention are. Another short video, **Joshua Bell Plays a $3 Million Violin**, chronicles the "concert" Bell played at the DC Metro station described above. Shauna Shapiro gives a compelling account of how meditation creates physical changes in the brain in **Mindful Meditation and the Brain**, and in **Measuring Mindfulness**, Judson Brewer correlates brain scan data with subjective experience during meditation. Finally, there is a short piece by Jon Kabat-Zinn, **Coming to Our Senses**, followed by an entertaining **All it takes is 10 Mindful Minutes** that includes juggling and a provocative challenge to do "nothing" for 10 minutes.
+This week's videos include **The Monkey Business Illusion** by Daniel Simons, a
+cognitive scientist at University of Illinois, who illustrates the limitations
+inherent in our ability to perceive fully what is going on around us. You may
+be surprised at just how specific (and limited) our powers of attention are.
+Another short video, **Joshua Bell Plays a $3 Million Violin**, chronicles the
+"concert" Bell played at the DC Metro station described above. Shauna Shapiro
+gives a compelling account of how meditation creates physical changes in the
+brain in **Mindful Meditation and the Brain**, and in **Measuring
+Mindfulness**, Judson Brewer correlates brain scan data with subjective
+experience during meditation. Finally, there is a short piece by Jon
+Kabat-Zinn, **Coming to Our Senses**, followed by an entertaining **All it
+takes is 10 Mindful Minutes** that includes juggling and a provocative
+challenge to do "nothing" for 10 minutes.
 
 ### Readings  
-**Sitting Meditation** describes the practice we are introducing this week. The next three readings, **How the Brain Rewires Itself**, **How Meditation Affects the Gray Matter of the Brain**, and **Mastering Your Own Mind** discuss the growing body of research that demonstrates how meditative practice, even when done for a relatively short period of time (weeks not years), can physically alter the brain in positive and adaptive ways.
+**Sitting Meditation** describes the practice we are introducing this week. The
+next three readings, **How the Brain Rewires Itself**, **How Meditation Affects
+the Gray Matter of the Brain**, and **Mastering Your Own Mind** discuss the
+growing body of research that demonstrates how meditative practice, even when
+done for a relatively short period of time (weeks not years), can physically
+alter the brain in positive and adaptive ways.
 
 ### Daily Practices  
-This week, for the **formal practice**, we introduce the **Sitting Meditation**, using breath as the primary object of awareness, alternating this with the Body Scan (Sitting one day, Body Scan the next, etc.).&nbsp; It can seem that the goal of the Body Scan or a Sitting Meditation is to stay focused on exactly one thing at a time (ankle, wrist, breath) and that when you notice your awareness has moved (to a memory, internal narrative, sound and wonderings about the sound), that you are somehow failing. These practices will increase your ability to focus and concentrate, but they will also expand your ability to be with whatever comes into your field of experience, non-judgmentally. Your **NOTICING that your attention has moved to another object is, in itself, mindfulness in action**.  Mindfulness includes both a concentrative attention (think laser beam) AND a capacity to perceive a larger picture (think floodlight). Both are important. Focusing on only one thing leaves the larger picture unseen, and maintaining only a broad focus does not allow exploration of the parts.
+This week, for the **formal practice**, we introduce the **Sitting
+Meditation**, using breath as the primary object of awareness, alternating this
+with the Body Scan (Sitting one day, Body Scan the next, etc.). It can seem
+that the goal of the Body Scan or a Sitting Meditation is to stay focused on
+exactly one thing at a time (ankle, wrist, breath) and that when you notice
+your awareness has moved (to a memory, internal narrative, sound and wonderings
+about the sound), that you are somehow failing. These practices will increase
+your ability to focus and concentrate, but they will also expand your ability
+to be with whatever comes into your field of experience, non-judgmentally. Your
+**NOTICING that your attention has moved to another object is, in itself,
+mindfulness in action**.  Mindfulness includes both a concentrative attention
+(think laser beam) AND a capacity to perceive a larger picture (think
+floodlight). Both are important. Focusing on only one thing leaves the larger
+picture unseen, and maintaining only a broad focus does not allow exploration
+of the parts.
 
-The **informal practice** this week is about becoming aware of how we experience and process pleasant events. They don't need to be major events, they can be something as simple as noticing the sun on your face or someone smiling at you. Just as we did last week, allow a few minutes before going to sleep to complete the informal practice log. _**Below are your materials for this week:**_
+The **informal practice** this week is about becoming aware of how we
+experience and process pleasant events. They don't need to be major events,
+they can be something as simple as noticing the sun on your face or someone
+smiling at you. Just as we did last week, allow a few minutes before going to
+sleep to complete the informal practice log. _**Below are your materials for
+this week:**_
 
 ### Videos
 _with most browsers, once you start the first video, the others will follow automatically_  
@@ -43,7 +89,10 @@ _optional materials_
 * [Interview of Joshua Bell regarding DC Metro experiment][55] video by PBS [7 min]  
 * [Positive Emotions and Mindfulness][56] video by Rachel Green [10 min]  
 
-**NOTE:** If you are compiling a manual based on the suggestions in [MBSR Manual][16], you would print a copy of this page as well as the Readings and Practice Sheets given above. For a version of this page which has been reformatted for your manual go to the [printer-ready version of this page][57].
+**NOTE:** If you are compiling a manual based on the suggestions in [MBSR
+Manual][16], you would print a copy of this page as well as the Readings and
+Practice Sheets given above. For a version of this page which has been
+reformatted for your manual go to the [printer-ready version of this page][57].
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
@@ -88,10 +137,10 @@ _optional materials_
 [41]: https://www.youtube.com/watch?v=wp9JD4APjSs&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo&amp;index=4
 [42]: https://www.youtube.com/watch?v=XNvZkepAiMo&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo&amp;index=5
 [43]: https://www.youtube.com/watch?v=qzR62JJCMBQ&amp;index=6&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
-[44]: docs/sittingmeditation.pdf
-[45]: docs/brain-rewires.pdf
-[46]: docs/graymatter.pdf
-[47]: docs/mastering.pdf
+[44]: docs/week2/sittingmeditation.pdf
+[45]: docs/week2/brain-rewires.pdf
+[46]: docs/week2/graymatter.pdf
+[47]: docs/week2/mastering.pdf
 [48]: practice/week2-formal.pdf
 [49]: practice/week2-formal.docx
 [50]: practice/week2-informal.pdf
