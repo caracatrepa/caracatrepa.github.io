@@ -13,8 +13,7 @@ left, will take you to the corresponding part of the course.
   
 [MBSR Manual][16]   
   
-[Week 1][17] \- **Simple Awareness**
-_Introduction to the [Body Scan][28]_  
+[Week 1][17] \- **Simple Awareness**. _Introduction to the [Body Scan][28]_  
   
 [Week 2][18] \- **Attention & The Brain**
 _Introduction to [Sitting Meditation][29]_  
