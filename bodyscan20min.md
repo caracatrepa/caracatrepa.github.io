@@ -14,10 +14,10 @@ accessed directly at
 
 NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][40]
 
-[28]: bodyscan.html
-[38]: ../docs/bodyscan.pdf
-[39]: ../disks/bodyscan20min.mp3
-[40]: downloading.html
+[28]: bodyscan.md
+[38]: /docs/bodyscan.pdf
+[39]: /disks/bodyscan20min.mp3
+[40]: http://palousemindfulness.com/meditations/downloading.html
   
 -----
 
