@@ -30,7 +30,7 @@ I hope this course has been useful and wish you the best on your journey from he
 * [Compassion and Mindfulness][46] by Jon Kabat-Zinn [5 min]  
 * [The Rabbi's Gift][47] narrated by M. Scott Peck [6 min]  
 
-Reading  
+### Reading  
 * [Deepening a Personal Meditation Practice][48] by Jon Kabat-Zinn  
 * [Suggestions for Daily Practice][49] by Jon Kabat-Zinn  
 * [In the Service of Life][50] by Rachel Naomi Remen  
