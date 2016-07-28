@@ -1,12 +1,11 @@
+Introduction
+============
 
-[Source](http://palousemindfulness.com/selfguidedMBSR_week0.html "Permalink to MBSR Introduction")
-
-# Introduction
-
-## Mindfulness-Based Stress Reduction (MBSR)
+Mindfulness-Based Stress Reduction (MBSR)
+-----------------------------------------
 
 > _"Mindfulness is about being fully awake in our lives. It is about perceiving the
-> exquisite vividness of each moment..."_&nbsp;
+> exquisite vividness of each moment..."_
 
 \- Jon Kabat-Zinn
 
@@ -91,3 +90,7 @@ _*If you are ready to continue now, please go to [Getting Started][15] before go
 [48]: https://www.youtube.com/watch?v=7kblkFJmriM&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f&amp;index=4
 [49]: http://palousemindfulness.com/art/bigstock-autumntrail_170.jpg
 [50]: quotes.html#selfguidedMBSR_week0 "more quotes"
+
+_____________________________________
+
+[Original source](http://palousemindfulness.com/selfguidedMBSR_week0.html "Permalink to MBSR Introduction")
