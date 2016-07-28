@@ -1,7 +1,5 @@
-
-[Source](http://palousemindfulness.com/selfguidedMBSR_manual.html "Permalink to The MBSR Manual")
-
-# The MBSR Manual
+The MBSR Manual
+===============
 
 Although _**it is not necessary to have a printed manual to benefit from the program**_, we are offering a
 way for you to create your own manual if you desire. Having printed materials makes it easier to see
@@ -56,3 +54,7 @@ reduce the bulk of your manual.
 [6]: http://palousemindfulness.com/docs/MBSRintro-lewis.pdf
 [7]: http://palousemindfulness.com/docs/research_summary.pdf
 [8]: selfguidedMBSR_week1.md
+
+-----
+
+[Original source](http://palousemindfulness.com/selfguidedMBSR_manual.html "Permalink to The MBSR Manual")
