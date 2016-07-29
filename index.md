@@ -120,6 +120,8 @@ captioning on this site was done with the help of [Caption Access][13].]_
 [11]: http://palousemindfulness.com/selfguidedMBSR_certificate.html
 [13]: http://www.captionaccess.com/
 
+[MBSR Online](index.md) | ["At a Glance"](selfguidedMBSR_ataglance.md) | [Introduction](selfguidedMBSR_week0)
+
 -----
 
 [Original source](http://palousemindfulness.com/index.html "Permalink to MBSR ")
