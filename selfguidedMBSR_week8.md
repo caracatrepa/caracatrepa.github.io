@@ -95,21 +95,21 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][54].
 
->Be patient toward all that is unsolved in your heart and try to love the
+>_Be patient toward all that is unsolved in your heart and try to love the
 >questions themselves like locked rooms and like books that are written in a
->very foreign tongue.  
+>very foreign tongue._
 > 
->Do not now seek the answers, which cannot be given you because you would not
->be able to live them.  
+>_Do not now seek the answers, which cannot be given you because you would not
+>be able to live them._
 > 
->And the point is, to live everything. Live the questions now.  
+>_And the point is, to live everything. Live the questions now._
   
 \- _Rainer Maria Rilke_
 
 [8]: http://palousemindfulness.com/graduates.html
 [12]: whats-new.html
-[16]: selfguidedMBSR_manual.html
-[26]: selfguidedMBSR_certificate.html
+[16]: selfguidedMBSR_manual.md
+[26]: http://palousemindfulness.com/selfguidedMBSR_certificate.html
 [39]: http://palousemindfulness.com/resources.html
 [40]: http://palousemindfulness.com/resources_groups.html
 [41]: resources_retreats.html
