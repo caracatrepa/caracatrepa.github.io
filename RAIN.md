@@ -22,7 +22,7 @@ NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac
 > 
 > If I do not practice a third day, the world notices it. 
 
-        \- Ignacy Jan Paderewski
+\- Ignacy Jan Paderewski
 
 
 [38]: /disks/RAIN-old.mp3
