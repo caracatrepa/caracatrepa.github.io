@@ -5,7 +5,7 @@ Before doing the Body Scan meditation for the first time, please read [The Body
 Scan Meditation][38]. This 32-minute version is best when done as part of the
 8-week MBSR course, but a [20-minute version][39] is also available.
 
-[[AUDIO FILE][41]]
+**[[AUDIO FILE][41]]**
 
 _If you are deaf or hard-of-hearing, or English is not your first language, you
 may want to try the [video version with closed captioning][40]._
