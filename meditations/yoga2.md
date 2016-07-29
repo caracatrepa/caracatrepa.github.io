@@ -28,7 +28,7 @@ Below is an audio alternative to the video above. We recommend you view the
 video at least the first few times to see how the poses are done, but
 afterwards you may choose to use this audio version:  
 
-**[[AUDIO FILE][]]** 
+**[[AUDIO FILE][43]]** 
 
 Once you are comfortable with it, you may choose to do the yoga without
 guidance at all. Also, you are welcome to download the audio version to another
@@ -88,7 +88,7 @@ and not trying to force ourselves to be different from how we are right now.
 [40]: https://www.youtube.com/watch?v=gmdUOia58rY&amp;index=4&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg
 [41]: https://www.youtube.com/watch?v=4mz-dJFkmrk&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg&amp;index=9
 [42]: https://www.youtube.com/watch?v=LSAcv8DT_qs
-[43]: disks/yoga2.mp3
+[43]: /disks/yoga2.mp3
 [44]: http://palousemindfulness.com/meditations/downloading.html
 [45]: http://palousemindfulness.com/art/yoga2_170.jpg
 [46]: ../quotes.html#yoga "more quotes"
