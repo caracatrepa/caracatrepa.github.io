@@ -4,7 +4,7 @@ RAIN Meditation (11 min)
 This meditation is guided by Tara Brach  
 This is a new version (Jan 2015). The previous version can be found [here][38].  
 
-[[AUDIO FILE][40]]
+**[[AUDIO FILE][40]]**
   
 
 _If you are deaf or hard-of-hearing, or English is not your first language, you
