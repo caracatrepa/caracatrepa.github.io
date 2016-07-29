@@ -28,7 +28,7 @@ Below is an audio alternative to the video above. We recommend you view the
 video at least the first few times to see how the poses are done, but
 afterwards you may choose to use this audio version:  
 
-**[[AUDIO FILE][41]]** 
+**[[AUDIO FILE][43]]** 
 
 Once you are comfortable with it, you may choose to do the yoga without
 guidance at all. Also, you are welcome to download the audio version to another
