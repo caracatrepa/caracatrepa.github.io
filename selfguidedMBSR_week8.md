@@ -112,7 +112,7 @@ reformatted for your manual go to the [printer-ready version of this page][54].
 [26]: http://palousemindfulness.com/selfguidedMBSR_certificate.html
 [39]: http://palousemindfulness.com/resources.html
 [40]: http://palousemindfulness.com/resources_groups.html
-[41]: resources_retreats.html
+[41]: http://palousemindfulness.com/resources_retreats.html
 [42]: http://palousemindfulness.com/resources_training.html
 [43]: https://www.youtube.com/watch?v=kRd19hFrR0c&amp;list=PLbiVpU59JkVYwWcoOV-Bx6ieMKpMlbBb0&amp;index=1
 [44]: https://www.youtube.com/watch?v=igGoRkOFbwM&amp;list=PLbiVpU59JkVYwWcoOV-Bx6ieMKpMlbBb0&amp;index=3
