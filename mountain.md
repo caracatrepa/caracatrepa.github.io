@@ -33,8 +33,3 @@ changes moment by moment and day by day, calmness abiding all change…_
 -----
 
 [Original source](http://palousemindfulness.com/meditations/mountain.html "Permalink to Mountain Meditation")
-[38]
-[39]
-[40]
-[41]
-[42]
