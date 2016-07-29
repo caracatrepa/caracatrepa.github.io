@@ -130,7 +130,7 @@ life is difficult no longer matters._
 [52]: http://www.amazon.com/Back-Sense-Revolutionary-Approach-Halting/dp/0767905814
 [53]: http://www.amazon.com/How-Sick-Buddhist-Inspired-Chronically-Caregivers/dp/0861716264
 [54]: http://www.amazon.com/Explain-Pain-David-Butler/dp/097509100X
-[55]: meditations/vidyamala-choosing.html
+[55]: meditations/vidyamala-choosing.md
 [56]: docs/week5b/vidyamala-choosing.pdf
 [57]: http://palousemindfulness.com/docs/manualMBSRweek5-PAIN.pdf
   
