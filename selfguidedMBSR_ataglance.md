@@ -39,19 +39,6 @@ becomes a mysterious, awesome, indescribably magnificent world in itself._
   
 \- _Henry Miller_
 
-[1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
-[2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
-[3]: http://palousemindfulness.com/art/logo-youtube_22.gif
-[4]: http://palousemindfulness.com/art/logo-facebook_22.gif
-[5]: http://palousemindfulness.com/art/clouds2_title_950x115.jpg
-[6]: index.html
-[7]: testimonials/index.html
-[8]: graduates.html
-[9]: resources.html
-[10]: contact.html
-[11]: quotes.html
-[12]: whats-new.html
-[13]: selfguidedMBSR_ataglance.md
 [14]: selfguidedMBSR_week0.md
 [15]: selfguidedMBSR_gettingstarted.md
 [16]: selfguidedMBSR_manual.md
@@ -71,29 +58,11 @@ becomes a mysterious, awesome, indescribably magnificent world in itself._
 [30]: meditations/yoga1.html
 [31]: meditations/yoga2.html
 [32]: meditations/soften-soothe-allow.html
-[33]: meditations/RAIN.html
 [34]: meditations/mountain.html
 [35]: meditations/lake.html
 [36]: meditations/lovingkindness.html
-[37]: meditations/silent30min.html
-[38]: http://palousemindfulness.com/art/2013_Dave_170.jpg
-[39]: selfguidedMBSR.html
-[40]: http://palousemindfulness.com/art/bigstock-autumntrail_80.jpg
-[41]: http://palousemindfulness.com/art/gettingstarted_80.jpg
-[42]: http://palousemindfulness.com/art/manual-photo_170.jpg
-[43]: http://palousemindfulness.com/art/123rf_body_80.jpg
-[44]: http://palousemindfulness.com/art/JoshuaBell_80.jpg
-[45]: http://palousemindfulness.com/art/123rf_ripples_80.jpg
-[46]: http://palousemindfulness.com/art/123rf_stop_80.jpg
-[47]: http://palousemindfulness.com/art/123rf_soften_80.jpg
-[48]: http://palousemindfulness.com/art/PAIN_80.jpg
+[39]: index.md
 [49]: docs/PAIN.pdf
-[50]: http://palousemindfulness.com/art/123rf_mountain_80.jpg
-[51]: http://palousemindfulness.com/art/123rf_lovingkindness_80.jpg
-[52]: http://palousemindfulness.com/art/will_waterfrogs_80.jpg
-[53]: http://palousemindfulness.com/art/_certificate-of-completion_online_170.jpg
-[54]: http://palousemindfulness.com/art/will_flower32_170.jpg
-[55]: quotes.html#MBSR_ataglance "more quotes"
 
 -----
 
