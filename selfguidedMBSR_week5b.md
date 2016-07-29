@@ -111,8 +111,8 @@ life is difficult no longer matters._
 \- _M. Scott Peck_
 
 
-[16]: selfguidedMBSR_manual.html
-[21]: selfguidedMBSR_week5.html
+[16]: selfguidedMBSR_manual.md
+[21]: selfguidedMBSR_week5.md
 [38]: http://www.breathworks-mindfulness.org.uk/aboutbreathworks
 [39]: https://www.youtube.com/watch?v=8aAATYSvNjc&amp;list=PLbiVpU59JkVbxrJS2Hc-QZeAY64nQqN7N&amp;index=1
 [40]: https://www.youtube.com/watch?v=N10_dcIZp2k&amp;list=PLbiVpU59JkVbxrJS2Hc-QZeAY64nQqN7N&amp;index=2
