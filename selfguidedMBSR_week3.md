@@ -83,7 +83,7 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][54].
 
-> _The practice of meditation is not really about establishing inner stillness...
+> _The practice of meditation is not really about establishing inner stillness... 
 The moments of stillness are one of meditation's byproducts, not the practice itself._
 
 \- _Erik Walker Wikstrom_
