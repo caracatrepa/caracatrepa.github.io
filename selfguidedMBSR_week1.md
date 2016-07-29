@@ -92,9 +92,9 @@ Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][55].
 
 
-[14]: selfguidedMBSR_week0.html
-[15]: selfguidedMBSR_gettingstarted.html
-[16]: selfguidedMBSR_manual.html
+[14]: selfguidedMBSR_week0.md
+[15]: selfguidedMBSR_gettingstarted.md
+[16]: selfguidedMBSR_manual.htmmd
 [38]: docs/gettingstarted.pdf
 [39]: https://www.youtube.com/watch?v=_8-6XzURntE&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM&amp;index=1
 [40]: https://www.youtube.com/watch?v=VGtJQNqMXBY&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM&amp;index=2
