@@ -85,26 +85,29 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
-> _If we could read the secret history of our enemies, we should find in each
-man's life sorrow and suffering enough to disarm all hostility._
+> _If we could read the secret history of our enemies,  
+we should find in each man's life sorrow and suffering  
+enough to disarm all hostility._
   
 \- _Henry W. Longfellow_
 
-  
-
-> _Hurt people hurt people. That's how pain patterns get passed on, generation
-after generation after generation._
+> _Hurt people hurt people.  
+That's how pain patterns get passed on,  
+generationafter generation after generation._
 >
-_Break the chain today. Meet anger with sympathy, contempt with compassion,
-cruelty with kindness. Greet grimaces with smiles. Forgive and forget about
-finding fault. Love is the weapon of the future._
+_Break the chain today.  
+Meet anger with sympathy, contempt with compassion,  
+cruelty with kindness. Greet grimaces with smiles.  
+Forgive and forget about finding fault.  
+Love is the weapon of the future._
   
 \- _Yehuda Berg_
 
   
 > _To love our neighbors as we love ourselves means also to love ourselves as we
-love our neighbors. It means to treat ourselves with as much kindness and
-understanding as we would the person next door who is in trouble._
+love our neighbors.  
+It means to treat ourselves with as much kindness and understanding as we would
+the person next door who is in trouble._
   
 \- _Frederick Buechner_
 
