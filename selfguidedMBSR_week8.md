@@ -95,14 +95,16 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][54].
 
->_Be patient toward all that is unsolved in your heart and try to love the
->questions themselves like locked rooms and like books that are written in a
->very foreign tongue._
+>_Be patient toward all that is unsolved in your heart  
+and try to love the questions themselves  
+like locked rooms and like books  
+that are written in a very foreign tongue._
 > 
->_Do not now seek the answers, which cannot be given you because you would not
->be able to live them._
+>_Do not now seek the answers, which cannot be given you  
+because you would not be able to live them._
 > 
->_And the point is, to live everything. Live the questions now._
+>_And the point is, to live everything.  
+Live the questions now._
   
 \- _Rainer Maria Rilke_
 
