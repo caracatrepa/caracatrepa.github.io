@@ -8,7 +8,7 @@ Also see [Thinking with the Heart _(the origin of Soften, Soothe, Allow)_][40]
 by Chris Germer, and the [one-page description of Soften, Soften, Soothe
 Allow][41].
 
-**Your browser does not support the audio element.**
+**[[AUDIO FILE][42]]**
   
 
 You are welcome to download this recording to another device. It can be
