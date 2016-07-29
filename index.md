@@ -120,7 +120,8 @@ captioning on this site was done with the help of [Caption Access][13].]_
 [11]: http://palousemindfulness.com/selfguidedMBSR_certificate.html
 [13]: http://www.captionaccess.com/
 
-[MBSR Online](index.md) | ["At a Glance"](selfguidedMBSR_ataglance.md) | [Introduction](selfguidedMBSR_week0)
+[MBSR Online](index.md) | ["At a Glance"](selfguidedMBSR_ataglance.md) | [Introduction](selfguidedMBSR_week0) | [Getting Started](selfguidedMBSR_gettingstarted.md) | [MBSR Manual](selfguidedMBSR_manual)  
+[Week 1](selfguidedMBSR_week1.md) | [Week 2](selfguidedMBSR_week2.md) | [Week 3](selfguidedMBSR_week3.md) | [Week 4](selfguidedMBSR_week4.md) | [Week 5](selfguidedMBSR_week5.md) | [Week 5b](selfguidedMBSR_week5b.md) | [Week 6](selfguidedMBSR_week6.md) | [Week 7](selfguidedMBSR_week7.md) | [Week 8](selfguidedMBSR_week8.md)
 
 -----
 
