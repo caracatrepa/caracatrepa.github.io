@@ -20,9 +20,9 @@ NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac
 >
 > If I do not practice a second day, the orchestra notices it.
 > 
-> If I do not practice a third day, the world notices it. 
+> If I do not practice a third day, the world notices it._
 
-\- Ignacy Jan Paderewski_
+\- _Ignacy Jan Paderewski_
 
 
 [38]: /disks/RAIN-old.mp3
