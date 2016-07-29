@@ -95,7 +95,7 @@ going on to Week 1.*_
 [47]: http://palousemindfulness.com/resources_research.html
 [48]: https://www.youtube.com/watch?v=7kblkFJmriM&amp;list=PLbiVpU59JkVaWH5kKrkSCIkg0vKLr1p9f&amp;index=4
 
-[MBSR Online](index.md) | ["At a Glance"][index] | [Introduction][intro] | [Getting Started][started] | [MBSR Manual][manual]  
+[MBSR Online](index.md) | ["At a Glance"][index] | Introduction | [Getting Started][started] | [MBSR Manual][manual]  
 [Week 1][w1] | [Week 2](selfguidedMBSR_week2.md) | [Week 3](selfguidedMBSR_week3.md) | [Week 4](selfguidedMBSR_week4.md) | [Week 5](selfguidedMBSR_week5.md) | [Week 5b](selfguidedMBSR_week5b.md) | [Week 6](selfguidedMBSR_week6.md) | [Week 7](selfguidedMBSR_week7.md) | [Week 8](selfguidedMBSR_week8.md)
 
 [index]: selfguidedMBSR_ataglance.md
