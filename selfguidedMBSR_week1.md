@@ -91,6 +91,10 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][55].
 
+> _Realize that this very body, with its aches and it pleasures…  
+is exactly what we need to be fully human, fully awake, fully alive._
+
+\- _Pema Chodron_
 
 [14]: selfguidedMBSR_week0.md
 [15]: selfguidedMBSR_gettingstarted.md
