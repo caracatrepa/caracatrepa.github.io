@@ -94,6 +94,17 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
+> _The range of what we think and do
+Is limited by what we fail to notice
+And because we fail to notice
+There is little we can do
+To change
+Until we notice 
+How failing to notice
+Shapes our thoughts and deeds._
+
+\- _R.D. Laing_
+
 [16]: selfguidedMBSR_manual.md
 [38]: https://www.youtube.com/watch?v=ux1cL7tHjlI&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo&amp;index=1
 [39]: https://www.youtube.com/watch?v=9gti4JFwP_o&amp;index=2&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
