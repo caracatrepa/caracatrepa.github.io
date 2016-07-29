@@ -15,7 +15,7 @@ harmful, a very gentle but powerful option is to follow [Thich Nhat Hahn's Ten
 Mindful Movements][41]. This is a 15-minute sequence, so to get 30 minutes of
 practice, you can go through it twice, or augment it with the parts of the yoga
 you can do. Another option is to try [**Mindful Yoga 1 with camera emphasis on
-chair poses][42]**. It is identical to the video for Mindful Yoga 1, except
+chair poses**][42]. It is identical to the video for Mindful Yoga 1, except
 that the camera is focused on another instructor who does all the poses from a
 chair._
 
@@ -28,8 +28,7 @@ Below is an audio alternative to the video above. We recommend you view the
 video at least the first few times to see how the poses are done, but
 afterwards you may choose to use this audio version:  
 
-**Your browser does not support the audio element.**
-  
+**[[AUDIO FILE][41]]** 
 
 Once you are comfortable with it, you may choose to do the yoga without
 guidance at all. Also, you are welcome to download the audio version to another
@@ -90,8 +89,8 @@ and not trying to force ourselves to be different from how we are right now._
 [40]: https://www.youtube.com/watch?v=Teo0f1ab1PY&amp;index=3&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg
 [41]: https://www.youtube.com/watch?v=4mz-dJFkmrk&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg&amp;index=9
 [42]: https://www.youtube.com/watch?v=dYWHpUgnqUs
-[43]: ../disks/yoga1.mp3
-[44]: downloading.html
+[43]: disks/yoga1.mp3
+[44]: http://palousemindfulness.com/meditations/downloading.html
 [45]: http://palousemindfulness.com/art/yoga1_170.jpg
 [46]: ../quotes.html#yoga "more quotes"
   
