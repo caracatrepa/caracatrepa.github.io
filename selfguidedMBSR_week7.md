@@ -92,19 +92,19 @@ man's life sorrow and suffering enough to disarm all hostility._
 
   
 
-> Hurt people hurt people. That's how pain patterns get passed on, generation
-after generation after generation.   
+> _Hurt people hurt people. That's how pain patterns get passed on, generation
+after generation after generation._
 >
-Break the chain today. Meet anger with sympathy, contempt with compassion,
+_Break the chain today. Meet anger with sympathy, contempt with compassion,
 cruelty with kindness. Greet grimaces with smiles. Forgive and forget about
-finding fault. Love is the weapon of the future  
+finding fault. Love is the weapon of the future._
   
 \- _Yehuda Berg_
 
   
-> To love our neighbors as we love ourselves means also to love ourselves as we
+> _To love our neighbors as we love ourselves means also to love ourselves as we
 love our neighbors. It means to treat ourselves with as much kindness and
-understanding as we would the person next door who is in trouble.  
+understanding as we would the person next door who is in trouble._
   
 \- _Frederick Buechner_
 
