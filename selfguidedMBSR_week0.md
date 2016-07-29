@@ -98,12 +98,3 @@ going on to Week 1.*_
 -----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week0.html "Permalink to MBSR Introduction")
-[15]
-[39]
-[41]
-[42]
-[43]
-[45]
-[46]
-[47]
-[48]
