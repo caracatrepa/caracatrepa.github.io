@@ -30,7 +30,7 @@ Mac][41]
 [38]: https://www.youtube.com/watch?v=3DoIOHb0unE&amp;index=7&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg
 [39]: /docs/lake_meditation.pdf
 [40]: /disks/lake.mp3
-[41]: http://downloading.html
+[41]: http://palousemindfulness.com/downloading.html
 [42]: http://www.mindfulnesscds.com/
   
 -----
