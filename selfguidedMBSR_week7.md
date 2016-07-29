@@ -85,8 +85,8 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
-> If we could read the secret history of our enemies, we should find in each
-man's life sorrow and suffering enough to disarm all hostility.  
+> _If we could read the secret history of our enemies, we should find in each
+man's life sorrow and suffering enough to disarm all hostility._
   
 \- _Henry W. Longfellow_
 
@@ -108,7 +108,7 @@ understanding as we would the person next door who is in trouble.
   
 \- _Frederick Buechner_
 
-[16]: selfguidedMBSR_manual.html
+[16]: selfguidedMBSR_manual.md
 [38]: https://www.youtube.com/watch?v=6o7fer8xNUM&amp;list=PLbiVpU59JkVYF_BAo745jYWXM4k-0oxln&amp;index=1
 [39]: https://www.youtube.com/watch?v=I_eGPlZX4F4&amp;index=2&amp;list=PLbiVpU59JkVYF_BAo745jYWXM4k-0oxln
 [40]: https://www.youtube.com/watch?v=C3J46R7lemk&amp;index=3&amp;list=PLbiVpU59JkVYF_BAo745jYWXM4k-0oxln
