@@ -96,8 +96,8 @@ Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
 > _It's simply being kind to myself—meeting myself, whatever my emotional,
-physical or psychological state, with loving kindness. As simple, and
-difficult, as that!_
+physical or psychological state, with loving kindness.  
+As simple, and difficult, as that!_
 
 \- _Marianne Elliot_
 
