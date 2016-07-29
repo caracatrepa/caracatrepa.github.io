@@ -83,7 +83,7 @@ and not trying to force ourselves to be different from how we are right now.
 [35]: lake.html
 [36]: lovingkindness.html
 [37]: silent30min.html
-[38]: docs/yoga.pdf
+[38]: /docs/yoga.pdf
 [39]: http://palousemindfulness.com/art/123rf_videoplayicon_50.jpg
 [40]: https://www.youtube.com/watch?v=gmdUOia58rY&amp;index=4&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg
 [41]: https://www.youtube.com/watch?v=4mz-dJFkmrk&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg&amp;index=9
