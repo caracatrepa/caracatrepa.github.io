@@ -130,19 +130,21 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][55].
 
-> _You can have compassion for yourself - which is not self-pity. You're simply
-recognizing that 'this is tough, this hurts,' and bringing the same
-warmhearted wish for suffering to lessen or end that you would bring to any
-dear friend grappling with the same pain, upset, or challenges as you._
+> _You can have compassion for yourself - which is not self-pity.  
+You're simply recognizing that 'this is tough, this hurts,'  
+and bringing the same warmhearted wish for suffering to lessen or end  
+that you would bring to any dear friend  
+grappling with the same pain, upset, or challenges as you._
 
 \- _Rick Hanson_
 
   
 
-> _The most intimate relationship we will have in our entire lifetime is with
-ourselves. No one hears our hearts the way we do. No one knows our hurts the
-way we do. We are the sages of our soft spots and our edges. Self-compassion is
-showing up to that relationship with honesty and with love._
+> _The most intimate relationship we will have in our entire lifetime is with ourselves.  
+No one hears our hearts the way we do.  
+No one knows our hurts the way we do.  
+We are the sages of our soft spots and our edges.  
+Self-compassion is showing up to that relationship with honesty and with love._
 
 \- _Jamie Ridler_
 
