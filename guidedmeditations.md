@@ -10,7 +10,7 @@ the left.
 The **Body Scan**, **Sitting Meditation**, and **Mindful Yoga **recordings
 comprise the primary practices of MBSR and are each about 30 minutes in length.
 
-The** Soften, Soothe, Allow Meditation **(15 min) is introduced in Week 5 of
+The **Soften, Soothe, Allow Meditation** (15 min) is introduced in Week 5 of
 the course, the **Mountain Meditation** and **Lake Meditations** (20 min) are
 introduced in Week 6, and the **Lovingkindness Meditation** (13 min) is
 introduced in Week 7.
@@ -18,13 +18,6 @@ introduced in Week 7.
 The **Silent Meditations** are provided for non-guided practice and are either
 15, 20 or 30 minutes.
 
-> _If I do not practice one day, I notice it.  
-> 
-> If I do not practice a second day, the orchestra notices it.  
->
-> If I do not practice a third day, the world notices it._
-
-\- _Ignacy Jan Paderewski_
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
 [2]: http://palousemindfulness.com/art/clouds1_middle_570x22.jpg
