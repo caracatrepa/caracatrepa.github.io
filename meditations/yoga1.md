@@ -32,8 +32,7 @@ afterwards you may choose to use this audio version:
 
 Once you are comfortable with it, you may choose to do the yoga without
 guidance at all. Also, you are welcome to download the audio version to another
-device. It can be accessed directly at
-[http://palousemindfulness.com/disks/yoga1.mp3][43]
+device. It can be accessed directly at <http://palousemindfulness.com/disks/yoga1.mp3>
 
 **NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][44]**
 
