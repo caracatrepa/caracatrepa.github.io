@@ -9,7 +9,7 @@ Yoga][38] before your first time doing this practice. _Mindful Yoga is
 different than many traditional yoga practices in that there is less of a focus
 on the exact posture achieved and more focus on body/mind awareness._
 
-**_Special Note for those with physical limitations: _** _If these movements are
+**_Special Note for those with physical limitations:_** _If these movements are
 too challenging, and trying to do them, even with modifications, is painful or
 harmful, a very gentle but powerful option is to follow [Thich Nhat Hahn's Ten
 Mindful Movements][41]. This is a 15-minute sequence, so to get 30 minutes of
