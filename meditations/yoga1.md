@@ -42,7 +42,7 @@ device. It can be accessed directly at
 and to dwell at their boundary long enough to experience them  
 but it's just as important not to push beyond them..._
 > 
-_Instead we are going to be looking deeply into each moment with full acceptance
+_Instead we are going to be looking deeply into each moment with full acceptance  
 and not trying to force ourselves to be different from how we are right now._
   
 \- _Jon Kabat-Zinn_
