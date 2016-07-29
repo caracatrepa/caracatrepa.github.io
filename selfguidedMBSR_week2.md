@@ -94,7 +94,7 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
-[16]: selfguidedMBSR_manual.html
+[16]: selfguidedMBSR_manual.md
 [38]: https://www.youtube.com/watch?v=ux1cL7tHjlI&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo&amp;index=1
 [39]: https://www.youtube.com/watch?v=9gti4JFwP_o&amp;index=2&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
 [40]: https://www.youtube.com/watch?v=R6hybxLidgA&amp;index=3&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
