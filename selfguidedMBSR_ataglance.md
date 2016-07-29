@@ -53,14 +53,14 @@ becomes a mysterious, awesome, indescribably magnificent world in itself._
 [25]: selfguidedMBSR_week8.md
 [26]: selfguidedMBSR_certificate.html
 [27]: guidedmeditations.html
-[28]: meditations/bodyscan.html
-[29]: meditations/sittingmeditation.html
-[30]: meditations/yoga1.html
-[31]: meditations/yoga2.html
-[32]: meditations/soften-soothe-allow.html
-[34]: meditations/mountain.html
-[35]: meditations/lake.html
-[36]: meditations/lovingkindness.html
+[28]: meditations/bodyscan.md
+[29]: meditations/sittingmeditation.md
+[30]: meditations/yoga1.md
+[31]: meditations/yoga2.md
+[32]: meditations/soften-soothe-allow.md
+[34]: meditations/mountain.md
+[35]: meditations/lake.md
+[36]: meditations/lovingkindness.md
 [39]: index.md
 [49]: docs/PAIN.pdf
 
