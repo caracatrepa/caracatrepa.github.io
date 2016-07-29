@@ -107,7 +107,7 @@ reformatted for your manual go to the [printer-ready version of this page][54].
 \- _Rainer Maria Rilke_
 
 [8]: http://palousemindfulness.com/graduates.html
-[12]: whats-new.html
+[12]: http://palousemindfulness.com/whats-new.html
 [16]: selfguidedMBSR_manual.md
 [26]: http://palousemindfulness.com/selfguidedMBSR_certificate.html
 [39]: http://palousemindfulness.com/resources.html
