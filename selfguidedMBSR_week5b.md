@@ -102,11 +102,14 @@ difficult, as that!_
 \- _Marianne Elliot_
 
 
-> _Life is difficult. This is a great truth, one of the greatest truths. It is a
-great truth because once we truly see this truth, we transcend it. Once we
-truly know that life is difficult, once we truly understand and accept it,
-then life is no longer difficult. Because once it is accepted, the fact that
-life is difficult no longer matters._
+> _Life is difficult.  
+This is a great truth, one of the greatest truths.  
+It is a great truth because once we truly see this truth, we transcend it.  
+Once we truly know that life is difficult,  
+once we truly understand and accept it,  
+then life is no longer difficult.  
+Because once it is accepted,  
+the fact that life is difficult no longer matters._
 
 \- _M. Scott Peck_
 
