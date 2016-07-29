@@ -34,8 +34,9 @@ left, will take you to the corresponding part of the course.
   
 [Certificate of Completion][26]   
 
-> _The moment one gives close attention to anything, even a blade of grass, it
-becomes a mysterious, awesome, indescribably magnificent world in itself._
+> _The moment one gives close attention to anything,  
+even a blade of grass, it becomes a mysterious,  
+awesome, indescribably magnificent world in itself._
   
 \- _Henry Miller_
 
