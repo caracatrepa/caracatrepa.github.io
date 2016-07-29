@@ -15,6 +15,16 @@ accessed directly at <http://palousemindfulness.com/disks/RAIN.mp3>
 
 NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][41]
 
+
+> If I do not practice one day, I notice it.
+>
+> If I do not practice a second day, the orchestra notices it.
+> 
+> If I do not practice a third day, the world notices it. 
+
+        \- Ignacy Jan Paderewski
+
+
 [38]: /disks/RAIN-old.mp3
 [39]: https://www.youtube.com/watch?v=cQakZvcr-co
 [40]: /disks/RAIN.mp3
