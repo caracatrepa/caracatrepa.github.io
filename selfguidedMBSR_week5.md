@@ -146,8 +146,8 @@ showing up to that relationship with honesty and with love._
 
 \- _Jamie Ridler_
 
-[16]: selfguidedMBSR_manual.html
-[22]: selfguidedMBSR_week5b.html
+[16]: selfguidedMBSR_manual.md
+[22]: selfguidedMBSR_week5b.md
 [38]: http://www.breathworks-mindfulness.org.uk/aboutbreathworks
 [39]: https://www.youtube.com/watch?v=8aAATYSvNjc&amp;list=PLbiVpU59JkVbc7uBsZRy1TEAfl3puCRFP&amp;index=1
 [40]: https://www.youtube.com/watch?v=w3aba1ok5lE&amp;index=2&amp;list=PLbiVpU59JkVbc7uBsZRy1TEAfl3puCRFP
