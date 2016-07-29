@@ -112,7 +112,7 @@ reformatted for your manual go to the [printer-ready version of this page][56].
   
 \- _Mark Nepo_
 
-> When is the last time that you had a great conversation, a conversation that
+> _When is the last time that you had a great conversation, a conversation that
 wasn't just two intersecting monologues, which is what passes for conversation
 a lot in this culture? But ... a great conversation, in which you overheard
 yourself saying things that you never knew you knew? That you heard yourself
@@ -120,7 +120,7 @@ receiving from somebody words that absolutely found places within you that you
 thought you had lost ... a conversation that brought the two of you on to a
 different plane? ... a conversation that continued to sing in your mind for
 weeks afterwards ... I've had some of them recently ... they are food and drink
-for the soul.  
+for the soul._
   
 \- _John O'Donohue_
 
