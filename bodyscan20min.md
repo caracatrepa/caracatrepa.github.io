@@ -5,14 +5,14 @@ Before doing the Body Scan meditation for the first time, please read the
 [description of the Body Scan][38]. A [32-minute version][28] of this
 meditation is also available.
 
-**Your browser does not support the audio element.**
+
+**[[AUDIO FILE][39]]**
   
 
 You are welcome to download this recording to another device. It can be
-accessed directly at
-[http://palousemindfulness.com/disks/bodyscan20min.mp3][39]
+accessed directly at <http://palousemindfulness.com/disks/bodyscan20min.mp3>.
 
-NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][40]
+NOTE: For help in downloading, see [How to Download Recordings to Your PC or Mac][40]
 
 [28]: bodyscan.md
 [38]: /docs/bodyscan.pdf
