@@ -83,6 +83,11 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][54].
 
+> _The practice of meditation is not really about establishing inner stillness...
+The moments of stillness are one of meditation's byproducts, not the practice itself._
+
+\- _Erik Walker Wikstrom_
+
 [16]: selfguidedMBSR_manual.md
 [38]: https://www.youtube.com/watch?v=Ye3xwfECuYc&amp;index=1&amp;list=PLbiVpU59JkVZzL8TqgU6Uz_HxhnMqpzZv
 [39]: https://www.youtube.com/watch?v=UABlpt0R51Y&amp;list=PLbiVpU59JkVZzL8TqgU6Uz_HxhnMqpzZv&amp;index=2
