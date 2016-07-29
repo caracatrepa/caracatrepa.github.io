@@ -94,7 +94,7 @@ Manual][16], you would print a copy of this page as well as the Readings and
 Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][57].
 
-> _The range of what we think and do. 
+> _The range of what we think and do  
 Is limited by what we fail to notice
 And because we fail to notice
 There is little we can do
