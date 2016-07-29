@@ -15,8 +15,9 @@ accessed directly at <http://palousemindfulness.com/disks/bodyscan20min.mp3>.
 NOTE: For help in downloading, see [How to Download Recordings to Your PC or Mac][40]
 
 
-> _Our bodies know they belong,
-It's our minds that make our lives so homeless._
+> _Our bodies know they belong,_
+>
+> _It's our minds that make our lives so homeless._
 
 \- _John O'Donahue_
 
