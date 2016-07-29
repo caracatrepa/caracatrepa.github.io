@@ -2,8 +2,8 @@ MBSR "At a Glance"
 ==================
 
 The entire course is laid out here, including the theme and mindfulness
-practice for each week. Clicking on the links below, or on the menu to the
-left, will take you to the corresponding part of the course.
+practice for each week. Clicking on the links below will take you to the
+corresponding part of the course.
 
 [Welcome][39]   
   
