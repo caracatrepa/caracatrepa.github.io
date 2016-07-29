@@ -23,7 +23,6 @@ accessed directly at <http://palousemindfulness.com/disks/lovingkindness.mp3>
 
 NOTES: For help in downloading, see[ How to Download Recordings to Your PC or Mac.][42]
 
------  
 
 > _If we could read the secret history of our enemies, we should find in each
 man's life sorrow and suffering enough to disarm all hostility._
