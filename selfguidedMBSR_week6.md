@@ -108,7 +108,7 @@ Practice Sheets given above. For a version of this page which has been
 reformatted for your manual go to the [printer-ready version of this page][56].
 
 
-> To listen is to lean in softly with a willingness to be changed by what we hear.  
+> _To listen is to lean in softly with a willingness to be changed by what we hear._
   
 \- _Mark Nepo_
 
@@ -124,7 +124,7 @@ for the soul.
   
 \- _John O'Donohue_
 
-[16]: selfguidedMBSR_manual.html
+[16]: selfguidedMBSR_manual.md
 [38]: https://www.youtube.com/watch?v=VmupIGDNjvk&amp;index=1&amp;list=PLbiVpU59JkVaxox70z7TUv9eyriJ0galL
 [39]: https://www.youtube.com/watch?v=39eFKcIi-JY&amp;list=PLbiVpU59JkVaxox70z7TUv9eyriJ0galL&amp;index=2
 [40]: https://www.youtube.com/watch?v=KCPYNfLWXxE&amp;list=PLbiVpU59JkVaxox70z7TUv9eyriJ0galL&amp;index=3
