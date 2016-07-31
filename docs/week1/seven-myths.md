@@ -55,7 +55,7 @@ new possibilities.
 **Truth:** The benefits of meditation are both immediate and long-term. You can begin to experience
 benefits the first time you sit down to meditate and in the first few days of daily practice. Many
 scientific studies provide evidence that meditation has profound effects on the mind-body physi-
-ology within just weeks of practice. For example, a landmark study led by Harvard University
+ology within just weeks of practice. For example, a [landmark study][study] led by Harvard University
 and Massachusetts General Hospital found that as little as eight weeks of meditation not only
 helped people experience decreased anxiety and greater feelings of calm; it also produced growth
 in the areas of the brain associated with memory, empathy, sense of self, and stress regulation.
@@ -63,8 +63,8 @@ in the areas of the brain associated with memory, empathy, sense of self, and st
 At the Chopra Center, we commonly hear from new meditators who are able to sleep soundly for
 the first time in years after just a few days of daily meditation practice. Other common benefits of
 meditation include improved concentration, decreased blood pressure, reduced stress and anxiety,
-and enhanced immune function. You can learn more about the benefits of meditation in a recent
-post, "Why Meditate?" on the Chopra Center blog.
+and enhanced immune function. You can learn more about the [benefits of meditation][benef] in a recent
+post, ["Why Meditate?"][whymeditate] on the Chopra Center blog.
 
 ### Myth #4: Meditation is escapism.
 **Truth:** The real purpose of meditation isn't to tune out and get away from it all but to tune in and
@@ -93,7 +93,7 @@ In life's paradoxical way, when we spend time meditating on a regular basis, we 
 more time. When we meditate, we dip in and out of the timeless, spaceless realm of conscious-
 ness... the state of pure awareness that is the source of everything that manifests in the universe.
 Our breathing and heart rate slow down, our blood pressure lowers, and our body decreases the
-production of stress hormones and other chemicals that speed up the aging process and give us the
+production of stress hormones and other chemicals that speed up the [aging process][aging] and give us the
 subjective feeling that we are "running out of time."
 
 In meditation, we are in a state of restful alertness that is extremely refreshing for the body and
@@ -145,3 +145,9 @@ _Deepak Chopra is co-author of Super Brain: Unleashing the Explosive Power of Yo
 Health, Happiness, and Spiritual Well-Being and founder of The Chopra Foundation_
 
 source: <http://www.huffingtonpost.com/deepak-chopra/meditation-myths_b_2823629.html>
+
+[choprabook]: j
+[study]: http://news.harvard.edu/gazette/story/2012/11/meditations-positive-residual-effects/
+[benef]: http://www.webmd.com/mental-health/features/meditation-heals-body-and-mind
+[whymeditate]: http://www.chopra.com/ccl/why-meditate/
+[aging]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057175/
