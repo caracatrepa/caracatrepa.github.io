@@ -24,27 +24,33 @@ _You might say: **“I was/am afraid that…”, “I was/am afraid that [    ] 
 The next level is more difficult. Even in cases where it's not obvious, you have some responsibility, even if it's only some
 very small thing you did, or situation you put yourself in, that provided a trigger for someone else's inhumanity. If you
 didn't cause it, how did you allow it? This is the level of remorse or regret. What was your "Own part"?:
-Own part... What part did I play in this event? How did I contribute or collude? What do I regret?
-You might say: “I’m sorry that…”, “I didn’t mean to…”, “Please forgive me for…”
+
+### Own part:
+What part did I play in this event? How did I contribute or collude? What do I regret?
+_You might say: **“I’m sorry that…”, “I didn’t mean to…”, “Please forgive me for…”**_
+
 There is probably something you want to happen - even though it might not be likely or even possible (if the person
 involved is no longer alive, for instance). Do you want an apology? Restitution? A demonstration of understanding? This
 can be what you wanted in the past, but it's more powerful when stated as a present want or need:
-Want...
 
+### Want:
 What do I want to happen? What do I want or need now? (even if it's not possible)
-You might say: “All I ever want(ed)…”, “I want(ed)…”, “I want you to…”, “I deserve…”
+_You might say: **“All I ever want(ed)…”, “I want(ed)…”, “I want you to…”, “I deserve…”**_
 
 The last level is both the most difficult and the most important. Sincere appreciation for the person or situation can't be
 experienced before openly exploring the preceding levels of anger, hurt, fear, accountability, and needs. When you try to
 jump to this level without completing the previous levels, you may come across as patronizing and insincere, and your still
 unresolved anger may speak in spite of the words you use, like a six year-old’s “I’m sorry” to a brother he’s still mad at.
-All anger contains the seeds of a powerful and positive resolution. The anger provides the energy for resolution and an
-honest and open acceptance prepares the ground from which the seeds can bear fruit.
-Love/Appreciation... What do I love or appreciate about this person or this situation? What am I thankful for?
-Or, at least, what important lesson did I learn that I wouldn't have otherwise?
-You might say: “I appreciate…”, “I learned that…”, “Thank you for…”, “I love you for…”
+**All anger contains the seeds of a powerful and positive resolution. The anger provides the energy for resolution and an
+honest and open acceptance prepares the ground from which the seeds can bear fruit.**
+
+### Love/Appreciation:
+What do I love or appreciate about this person or this situation? What am I thankful for?  
+Or, at least, what important lesson did I learn that I wouldn't have otherwise?  
+_You might say: **“I appreciate…”, “I learned that…”, “Thank you for…”, “I love you for…”**_
+
 Whether spoken or in writing, try to spend an equal amount of time at each level. If done verbally, you may find you need
-to revisit a previous level as you speak. Next time you're upset, remember "AH, FOWL!". Here's a summary:
+to revisit a previous level as you speak. Next time you're upset, remember **"AH, FOWL!"**. Here's a summary:
 
 A
 H
