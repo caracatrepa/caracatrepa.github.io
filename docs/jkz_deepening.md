@@ -1,6 +1,7 @@
 CULTIVATING MINDFULNESS
 =======================
 Beginning or Deepening a Personal Meditation Practice
+
 1. The real meditation is how you live your life.
 2. In order to live life fully, you have to be present for it.
 3. To be present, it helps to purposefully bring awareness to your moments – otherwise you
