@@ -128,28 +128,18 @@ light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |
 ### Emotional reactions you might notice
 
 
-                              |         |              |              |
-------------------------------|---------|--------------|--------------
-impatience/wanting to stop    | release | disgust      | boredom      
-enjoyment/wanting to continue | grief   | anger        | frustration  
-sadness                       | joy     | fear         | anticipation 
+                              |         |              |              |          |
+------------------------------|---------|--------------|--------------|----------
+impatience/wanting to stop    | release | disgust      | boredom      | pride
+enjoyment/wanting to continue | grief   | anger        | frustration  | shame
+sadness                       | joy     | fear         | anticipation | surprise
 
-
-Thoughts that may occur
-Reviewing the past
-Planning
- Wishing/hoping/comparing
-Imagining the future
-Evaluating/analyzing
- Labeling/cataloguing
-Thinking about others
-Circular thinking
- Judging your experience
-  
-  
-
-
-pride
-shame© 2005 Jon Kabat-Zinn, Coming To Our Senses
+### Thoughts that may occur
+
+                         |                      |                        |
+-------------------------|----------------------|------------------------
+Reviewing the past       | Imagining the future | Thinking about others
+Planning                 | Evaluating/analyzing | Circular thinking
+Wishing/hoping/comparing | Labeling/cataloguing | Judging your experience
 
 [bscan]: /meditations/bodyscan.md
