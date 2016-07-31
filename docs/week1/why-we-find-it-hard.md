@@ -73,8 +73,7 @@ still. Rather, it craves entertainment. It’s not as if
 you can suddenly turn it off when you meditate, it
 just means you are like everyone else.
 
-### There are too many distractions, it’s too
-noisy.
+### There are too many distractions, it’s too noisy.
 Gone are the days when we could disappear
 into a cave and be left undisturbed until we
 emerged some time later fully enlightened. Instead,
@@ -86,7 +85,8 @@ The quiet you are looking for is inside, not outside.
 The experience of stillness is accumulative: The
 more you sit, then slowly, slowly, the mindbecomes quieter, more joyful, despite whatever
 distraction there may be.
-5. I don’t see the benefit.
+
+### I don’t see the benefit.
 Unfortunately, this is where you have to take
 our word for it. Some people get how beneficial
 meditation is after just one session, but most of us
@@ -95,13 +95,15 @@ week, or maybe two of daily practice. Which
 means you have to trust the process enough to hang
 in there and keep going, even before you get the
 benefits.
+
 Remember, music needs to be played for hours
 to get the notes right, while in Japan it can take 12
 years to learn how to arrange flowers. Being still
 happens in a moment, but it may take some time
 before that moment comes—hence the need for
 patience.
-6. I’m no good at this. I never get it right.
+
+### I’m no good at this. I never get it right.
 Actually, it’s impossible to fail at meditation.
 Even if you sit for 20 minutes thinking non-stop
 meaningless thoughts, that’s fine. There is no right
@@ -111,6 +113,7 @@ of meditation as there are people who practice it.
 So all you need do is find the way that works for
 you (even if you prefer to do it standing on your
 head) and keep at it.
+
 The important point is that you make friends
 with meditation. It’ll be of no help at all if you feel
 you have to meditate, for instance, and then feel
@@ -123,7 +126,8 @@ even 40 minutes will have any affect. Meditation is
 a companion to have throughout life, like an old
 friend you turn to when in need of support,
 inspiration, and clarity. It is to be enjoyed!
-7. It’s all just weird New Age hype.
+
+### It’s all just weird New Age hype.
 It’s certainly easy to get lost in the array of New
 Age promises of eternal happiness but meditation
 itself is as old as the hills. More than 2,500 years
@@ -133,6 +137,7 @@ enabling the mind to be quiet. And that’s just one
 example. Each religion has its own variation on the
 theme, and all stretch back over the centuries. So
 nothing new here, and nothing weird.
+
 In other words, meditation is not about forcing
 the mind to be absolutely still. Rather, it’s a letting
 go of resistance, of whatever may arise: doubt,
@@ -143,7 +148,8 @@ remembering the past or planning ahead, just come
 back to now, come back to this moment. All you
 need do is pay attention and be with what is.
 Nothing else.
-Ed and Deb Shapiro are featured bloggers at
+
+_Ed and Deb Shapiro are featured bloggers at
 Oprah.com and HuffingtonPost.com. See their
 award-winning book: BE THE CHANGE, How
 Meditation Can Transform You and the World, with
@@ -154,6 +160,6 @@ others. They also have 3 meditation CDs: Metta—
 Loving kindness and Forgiveness; Samadhi–Breath
 Awareness and Insight; and Yoga Nidra–Inner
 Conscious Relaxation; which are available at:
-EdandDebShapiro.com
-© 2011 Mindful Magazine
-source: http://www.mindful.org/why-we-find-it-hard-to-meditate/
+<http://www.EdandDebShapiro.com>_
+
+source: <http://www.mindful.org/why-we-find-it-hard-to-meditate/>
