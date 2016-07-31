@@ -26,7 +26,7 @@ very small thing you did, or situation you put yourself in, that provided a trig
 didn't cause it, how did you allow it? This is the level of remorse or regret. What was your "Own part"?:
 
 ### Own part:
-What part did I play in this event? How did I contribute or collude? What do I regret?
+What part did I play in this event? How did I contribute or collude? What do I regret?  
 _You might say: **“I’m sorry that…”, “I didn’t mean to…”, “Please forgive me for…”**_
 
 There is probably something you want to happen - even though it might not be likely or even possible (if the person
@@ -34,7 +34,7 @@ involved is no longer alive, for instance). Do you want an apology? Restitution?
 can be what you wanted in the past, but it's more powerful when stated as a present want or need:
 
 ### Want:
-What do I want to happen? What do I want or need now? (even if it's not possible)
+What do I want to happen? What do I want or need now? (even if it's not possible)  
 _You might say: **“All I ever want(ed)…”, “I want(ed)…”, “I want you to…”, “I deserve…”**_
 
 The last level is both the most difficult and the most important. Sincere appreciation for the person or situation can't be
@@ -46,7 +46,7 @@ honest and open acceptance prepares the ground from which the seeds can bear fru
 
 ### Love/Appreciation:
 What do I love or appreciate about this person or this situation? What am I thankful for?  
-Or, at least, what important lesson did I learn that I wouldn't have otherwise?  
+Or, at least, what important lesson did I learn that I wouldn't have otherwise?   
 _You might say: **“I appreciate…”, “I learned that…”, “Thank you for…”, “I love you for…”**_
 
 Whether spoken or in writing, try to spend an equal amount of time at each level. If done verbally, you may find you need
