@@ -128,7 +128,7 @@ light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |
 ### Emotional reactions you might notice
 
 
-                              |         |              |              
+                              |         |              |              |
 ------------------------------|---------|--------------|--------------
 impatience/wanting to stop    | release | disgust      | boredom      
 enjoyment/wanting to continue | grief   | anger        | frustration  
