@@ -204,8 +204,8 @@ nicer to just eat Doritos on the couch?
 
 Farb has found that people who have completed
 the eight-week MBSR training, on the other hand, are
-able to activate an entirely different part of the brain
-- the insula. Located deep inside your gray matter, the
+able to activate an entirely different part of the brain -
+the insula. Located deep inside your gray matter, the
 insula informs you of what's happening in the present
 moment without connecting the experience to a
 specific emotion. When you're thinking this way, a
@@ -226,8 +226,8 @@ typing "bumper-to-bumper," I've got work to do.) Is
 it really worth getting angry at my husband over those
 misplaced sneakers? Or would I rather be thankful for
 the fact that he folded the laundry? On the flip side,
-if it turns out you do want to say yes to the invitation
-- by feeling happy about a new promotion, for
+if it turns out you do want to say yes to the invitation -
+    by feeling happy about a new promotion, for
 example - you can use mindfulness to savor the
 moment more fully. It doesn't matter whether the
 experience is good or bad; mindfulness reminds you
