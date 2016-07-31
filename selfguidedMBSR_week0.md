@@ -111,6 +111,7 @@ going on to Week 1.*_
 [w6]: selfguidedMBSR_week6.md
 [w7]: selfguidedMBSR_week7.md
 [w8]: selfguidedMBSR_week8.md
+
 -----
 
 [Original source](http://palousemindfulness.com/selfguidedMBSR_week0.html "Permalink to MBSR Introduction")
