@@ -97,20 +97,20 @@ our body’s natural wisdom and our heart’s natural
 capacity for openness and gratitude. We ask
 ourselves questions like:
 
-_Am I hungry?
+_Am I hungry?_
 
-Where do I feel hunger?
+_Where do I feel hunger?_
 
-What part of me is hungry?
+_What part of me is hungry?_
 
-What do I really crave?
+_What do I really crave?_
 
-What am I tasting just now?_
+_What am I tasting just now?_
 
 These are very simple questions, but we
 seldom pose them.
 
-###Mindfulness Is the Best Flavoring
+### Mindfulness Is the Best Flavoring
 As I write this I am eating a lemon tart that a
 friend gave to me. After writing for a few hours
 I’m readyto reward myself with a tart. The first
@@ -171,7 +171,7 @@ meager meal. This is the gift of mindful eating, to
 restore our sense of satisfaction no matter what we
 are or are not eating.
 
-_Jan Chozen Bays is a pediatrician, mother, wife, and longtime
+_**Jan Chozen Bays** is a pediatrician, mother, wife, and longtime
 meditation teacher. She is the author of Mindful Eating: A Guide
 to Rediscovering a Healthy and Joyful Relationship with Food._
 
