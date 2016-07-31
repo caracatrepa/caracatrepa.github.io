@@ -11,16 +11,19 @@ fear, and even hostility? No matter how many
 reports there are proving the mental, emotional,
 and physical value of being quiet, there seems to be
 an even greater number who refuse to give it a try.
+
 Meditation can certainly be challenging, and
 even more so if we are uncertain as to why we are
 doing it. It can seem very odd to sit there just
 listening to the incessant chatter in our head, and
 we easily get bored if we do nothing for too long,
 even if it’s only 10 minutes.
+
 After years of hearing a plethora of reasons
 why people find it hard to meditate, we have
 whittled it down to just a few:
-1. I’m too busy, I don’t have the time.
+
+### I’m too busy, I don’t have the time.
 Which can certainly be true if you have young
 children and a full-time job, and all that these
 entail. However, we are only talking about maybe
@@ -29,19 +32,22 @@ that reading the newspaper or idly surfing the web.
 It only appears like we don’t have the time because
 we usually fill every moment with activity and
 never press the pause button.
-2. I find it really uncomfortable to sit still for
-too long.
+
+### I find it really uncomfortable to sit still for too long.
 If you are trying to sit cross-legged on the floor
 then, yes, it will get uncomfortable. But you can sit
 upright in a firm and comfortable chair instead. Or,
 you can do walking meditation, or yoga, or tai chi.
 Moving meditation can be just as beneficial as
 sitting.
-3. My mind won’t stop thinking: I can’t relax. I
+
+### My mind won’t stop thinking.
+_I can’t relax. I
 can’t meditate. I just can’t! My mind will not get
 quiet; it flies all over the place! My thoughts are
 driving me mad! I’m trying to get away from
-myself, not look inside. Sound familiar?
+myself, not look inside._ Sound familiar?
+
 Surprisingly enough, trying to stop your mind
 from thinking is like trying to stop the wind – it’s
 impossible. In the Eastern teaching the mind is
@@ -55,6 +61,7 @@ it seems insanely noisy. It is actually nothing new,
 just that now you are becoming aware of it,
 whereas before you were immersed in it, unaware
 that such chatter was so constant.
+
 This experience of the mind being so busy is
 very normal. Someone once estimated that in any
 one thirty-minute session of meditation we may
@@ -65,7 +72,8 @@ centeredness, and the mind has no idea how to be
 still. Rather, it craves entertainment. It’s not as if
 you can suddenly turn it off when you meditate, it
 just means you are like everyone else.
-4. There are too many distractions, it’s too
+
+### There are too many distractions, it’s too
 noisy.
 Gone are the days when we could disappear
 into a cave and be left undisturbed until we
