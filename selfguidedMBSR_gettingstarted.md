@@ -82,9 +82,7 @@ course or practices.**_
 
 ### Ready to start?  
 Once you've completed the [Getting Started Worksheet][38] you're ready to go!
-When you're ready, just click on **Week 1** in the left-hand menu you see
-above. In this menu are links to each of the eight weeks, and the **Guided
-Practices.**  
+When you're ready, just go to [**Week 1**][17].
 
 
 [1]: http://palousemindfulness.com/art/docbox-translate-flip.jpg
