@@ -117,7 +117,7 @@ undisturbed.
 
 ### Physical sensations you might notice with the body scan
 
-            |               |            |                |            |             
+            |               |            |                |            |         |
 ------------|---------------|------------|----------------|------------|---------
 tingly      | tight/loose   | soft/rough | stiff/flexible | airy/dense | burning
 shooting    | prickly       | numb       | shaky          | pounding   | stinging
