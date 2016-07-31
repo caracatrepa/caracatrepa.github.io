@@ -46,7 +46,8 @@ and different.
 Then there are moments of pure perceiving that arise sometimes in meditation practice, and
 sometimes at other very special moments in life. Yet such moments are potentially available to us
 at all times, since they are attributes of awareness itself. Perceiving unifies the apparent subject and
-apparent object in the experiencing itself. Subject and object dissolve into awareness. Awarenessis larger than sensation. It has a life of its own separate from the life of the body, yet intimately
+apparent object in the experiencing itself. Subject and object dissolve into awareness. Awareness
+is larger than sensation. It has a life of its own separate from the life of the body, yet intimately
 dependent on it.
 
 Awareness is deeply bereft, however, when it does not have a full body to work with due to disease
@@ -88,9 +89,9 @@ from his body.” That may be an address too many of us share. Taking the miracl
 for granted is a horrific loss. It would be a profound healing of our lives to get back in touch with it.
 All it takes is practice in coming to our senses, all of them.
 
-And . . . a spirit of adventure. . .
+And ... a spirit of adventure...
 
-. . . The body scan is not for everybody, and it is not always the meditation of choice even for those
+... The body scan is not for everybody, and it is not always the meditation of choice even for those
 who love it. But it is extremely useful and good to know about and practice from time to time,
 whatever your circumstances or condition. If you think of your body as a musical instrument, the
 body scan is a way of tuning it. If you think of it as a universe, the body scan is a way to come to
@@ -117,9 +118,7 @@ undisturbed.
 Physical sensations you might notice with the body scan
 -------------------------------------------------------
 
-+--------+---------+----------+-----------+-----------+-------------+
 | tingly | burning | pounding | throbbing | trembling | light/heavy |
-+--------+---------+----------+-----------+-----------+-------------+
 
 tingly
 tight/loose
