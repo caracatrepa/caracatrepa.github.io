@@ -36,5 +36,6 @@ sky, – and so don’t have to be imprisoned by.
 19. Befriending yourself in this way is the adventure of a lifetime, and hugely empowering.
 20. Try it for a few weeks – it grows on you.
 
-For more information visit <www.mindfulnesscds.com>
-source: <www.oprah.com/index.html>
+For more information visit <http://www.mindfulnesscds.com>
+
+source: <http://www.oprah.com/index.html>
