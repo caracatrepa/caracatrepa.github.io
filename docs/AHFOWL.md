@@ -52,20 +52,6 @@ _You might say: **“I appreciate…”, “I learned that…”, “Thank you f
 Whether spoken or in writing, try to spend an equal amount of time at each level. If done verbally, you may find you need
 to revisit a previous level as you speak. Next time you're upset, remember **"AH, FOWL!"**. Here's a summary:
 
-A
-H
-F
-O
-W
-L
-
-Anger
-Hurt
-Fear
-Own part - if only I had
-Want
-Love & appreciation
-
 **A** - _Anger_: what made me angry, upset, or fed up - who said/did what?  
 **H** - _Hurt_: sadness, pain, disappointment - what harm it did/does to me  
 **F** - _Fear_: afraid of what it means about me, you, others, or what will happen next  
