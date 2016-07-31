@@ -90,8 +90,8 @@ unfinished report sitting on your desk at work. Nor
 are you trying to force your mind to go blank or
 conjure up any special feelings. You're concentrating
 on just one thing, experiencing each moment as it
-happens, and trying to be - if I might quote Van Halen
-- right here, right now.
+happens, and trying to be - if I might quote Van Halen -
+right here, right now.
 
 What does experiencing the moment have to do
 with imagining yourself as a mountain? Think of it as
