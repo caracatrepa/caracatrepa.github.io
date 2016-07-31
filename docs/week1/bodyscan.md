@@ -117,29 +117,29 @@ undisturbed.
 
 ### Physical sensations you might notice with the body scan
 
-            |               |            |                |            |         |
-------------|---------------|------------|----------------|------------|---------
-tingly      | tight/loose   | soft/rough | stiff/flexible | airy/dense | burning
-shooting    | prickly       | numb       | shaky          | pounding   | stinging
-pulling     | numb          | itchy      | throbbing      | airy       | burning
-achy        | pulsing       | trembling  | cutting        | vibrating  | sinking
-light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |
+|             |               |            |                |            |          |
+|-------------|---------------|------------|----------------|------------|----------|
+| tingly      | tight/loose   | soft/rough | stiff/flexible | airy/dense | burning  |
+| shooting    | prickly       | numb       | shaky          | pounding   | stinging |
+| pulling     | numb          | itchy      | throbbing      | airy       | burning  |
+| achy        | pulsing       | trembling  | cutting        | vibrating  | sinking  |
+| light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |          |
 
 ### Emotional reactions you might notice
 
 
-                              |         |              |              |          |
-------------------------------|---------|--------------|--------------|----------
-impatience/wanting to stop    | release | disgust      | boredom      | pride
-enjoyment/wanting to continue | grief   | anger        | frustration  | shame
-sadness                       | joy     | fear         | anticipation | surprise
+|                               |         |              |              |          |
+|-------------------------------|---------|--------------|--------------|----------|
+| impatience/wanting to stop    | release | disgust      | boredom      | pride    |
+| enjoyment/wanting to continue | grief   | anger        | frustration  | shame    |
+| sadness                       | joy     | fear         | anticipation | surprise |
 
 ### Thoughts that may occur
 
-                         |                      |                        |
--------------------------|----------------------|------------------------
-Reviewing the past       | Imagining the future | Thinking about others
-Planning                 | Evaluating/analyzing | Circular thinking
-Wishing/hoping/comparing | Labeling/cataloguing | Judging your experience
+|                          |                      |                         |
+|--------------------------|----------------------|-------------------------|
+| Reviewing the past       | Imagining the future | Thinking about others   |
+| Planning                 | Evaluating/analyzing | Circular thinking       |
+| Wishing/hoping/comparing | Labeling/cataloguing | Judging your experience |
 
 [bscan]: /meditations/bodyscan.md
