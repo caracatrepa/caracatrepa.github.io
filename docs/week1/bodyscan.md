@@ -128,11 +128,11 @@ light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |
 ### Emotional reactions you might notice
 
 
-                              |         |         |             |
-------------------------------|---------|---------|-------------|---------
-impatience/wanting to stop    | release | disgust | boredom     | joy 
-enjoyment/wanting to continue | grief   | anger   | frustration |surprise
-sadness                       | fear    | anticipation
+                              |         |              |             |
+------------------------------|---------|--------------|-------------|---------
+impatience/wanting to stop    | release | disgust      | boredom     | joy 
+enjoyment/wanting to continue | grief   | anger        | frustration |surprise
+sadness                       | fear    | anticipation |             | 
 
 
 Thoughts that may occur
