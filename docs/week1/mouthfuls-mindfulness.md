@@ -40,8 +40,8 @@ The next time this happens she decides to eat
 chips but to try eating them mindfully. First she
 checks in with her mind. She finds her mind is
 worried about an article she promised to write.
-Her mind says she needs to get started on it to-
-night. She checks in with her heart and finds she is
+Her mind says she needs to get started on it tonight.
+She checks in with her heart and finds she is
 feeling a little lonely because her husband is out
 of town. She checks in with her stomach and body
 and discovers she is both hungry and tired. She
@@ -129,8 +129,8 @@ slow learner) that the only way to keep that “first
 bite” experience, to honor the gift my friend gave
 me, is to eat slowly, with long pauses between
 bites. If I do anything else while I’m eating—if I
-talk, walk, write, or even think—the flavor dimin-
-ishes or disappears. The life is drained from my
+talk, walk, write, or even think—the flavor diminishes
+or disappears. The life is drained from my
 beautiful tart. I could be eating the cardboard box.
 
 Here’s the humorous part. I stopped tasting the
@@ -156,17 +156,17 @@ us to eat.
 
 If we don’t feel satisfied, we’ll begin to look
 around for something more or something different
-to eat. Everyone has had the experience of roam-
-ing the kitchen, opening cupboards and doors,
+to eat. Everyone has had the experience of roaming
+the kitchen, opening cupboards and doors,
 looking vainly for something, anything, to satisfy.
 The only thing that will cure this, a fundamental
 kind of hunger, is to sit down and be, even for a
 few minutes, wholly present.
 
-If we eat and stay connected with our exper-
-ience and with the people who grew and cooked
-the food, who served the food, and who eat along-
-side us, we will feel most satisfied, even with a
+If we eat and stay connected with our experience
+and with the people who grew and cooked
+the food, who served the food, and who eat alongside
+us, we will feel most satisfied, even with a
 meager meal. This is the gift of mindful eating, to
 restore our sense of satisfaction no matter what we
 are or are not eating.
