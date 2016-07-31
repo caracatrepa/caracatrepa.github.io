@@ -132,7 +132,7 @@ light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |
 ------------------------------|---------|--------------|-------------|---------
 impatience/wanting to stop    | release | disgust      | boredom     | joy 
 enjoyment/wanting to continue | grief   | anger        | frustration |surprise
-sadness                       | fear    | anticipation |             | 
+sadness                       | fear    | anticipation | satisfaction| 
 
 
 Thoughts that may occur
