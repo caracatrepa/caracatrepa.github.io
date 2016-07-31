@@ -9,8 +9,9 @@ can serve to move through the anger in a way that is more likely to be accepted 
 result in correction and/or healing. Below are six levels you can take yourself through to help peel the onion and move
 through the anger to the positive potential underneath.
 
-Anger: What is it that I'm upset about? What actually happened? Who said/did what, when? (be concrete)
-       You might say: “I’m angry that…”, “I’m upset about…”, “I got mad when I saw/heard…”
+### Anger
+    What is it that I'm upset about? What actually happened? Who said/did what, when? (be concrete)
+    You might say: “I’m angry that…”, “I’m upset about…”, “I got mad when I saw/heard…”
 
 Hurt: What is the hurt, disappointment, sadness, loss beneath the anger? How has this action harmed me?
       You might say: “I feel hurt/sad that…”, “At that time I needed…”, “I feel disappointed about…”
