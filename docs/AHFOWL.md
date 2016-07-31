@@ -66,11 +66,11 @@ Own part - if only I had
 Want
 Love & appreciation
 
-**A** - _Anger_: what made me angry, upset, or fed up - who said/did what?
-**H** - _Hurt_: sadness, pain, disappointment - what harm it did/does to me
-**F** - _Fear_: afraid of what it means about me, you, others, or what will happen next
-**O** - _Own part_ - if only I had: regret, accountability - how I promoted/allowed/triggered it
-**W** - _Want_: what I want(ed) to happen, or what I deserve or need
+**A** - _Anger_: what made me angry, upset, or fed up - who said/did what?  
+**H** - _Hurt_: sadness, pain, disappointment - what harm it did/does to me  
+**F** - _Fear_: afraid of what it means about me, you, others, or what will happen next  
+**O** - _Own part_ - if only I had: regret, accountability - how I promoted/allowed/triggered it  
+**W** - _Want_: what I want(ed) to happen, or what I deserve or need  
 **L** - _Love & Appreciation_: what I appreciate or am thankful for, what I learned, forgiveness
 
 Thanks to Barbara DeAngelis for inspiring "AH, FOWL!" with her “Love Letters”and to Jack Canfield with his “Total Truth Process”
