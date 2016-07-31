@@ -37,9 +37,8 @@ person's personal experience with mindfulness and will give you a little
 bit more of an idea of what to expect from this course.
 
 ### Daily Practices  
-This week begins your 30-minute daily **Formal Practice**, which is the **Body
-Scan Meditation**, which you can find in the menu just to the left of this text
-under "Guided Practices". Below, you can see the link to the **Formal Practice
+This week begins your 30-minute daily **Formal Practice**, which is the [**Body
+Scan Meditation**][56]. Below, you can see the link to the **Formal Practice
 sheet**, where you will be making brief notes about your practice. _[NOTE: If
 you will be completing this by hand, print the **PDF file**, but if you'd like
 to complete it on your computer, download the **WORD file**.]_
@@ -117,6 +116,7 @@ is exactly what we need to be fully human, fully awake, fully alive._
 [53]: http://www.youtube.com/watch?v=6tw93IgfL0U
 [54]: http://www.youtube.com/watch?feature=endscreen&amp;NR=1&amp;v=j2uooeprDkE
 [55]: http://palousemindfulness.com/docs/manualMBSRweek1.pdf
+[56]: /meditations/bodyscan.md
   
 [MBSR Online](index.md) | ["At a Glance"][index] | [Introduction][intro] | [Getting Started][started] | [MBSR Manual][manual]  
 Week 1 | [Week 2](selfguidedMBSR_week2.md) | [Week 3](selfguidedMBSR_week3.md) | [Week 4](selfguidedMBSR_week4.md) | [Week 5](selfguidedMBSR_week5.md) | [Week 5b](selfguidedMBSR_week5b.md) | [Week 6](selfguidedMBSR_week6.md) | [Week 7](selfguidedMBSR_week7.md) | [Week 8](selfguidedMBSR_week8.md)
