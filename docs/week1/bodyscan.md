@@ -115,8 +115,7 @@ undisturbed.
 
 -----
 
-Physical sensations you might notice with the body scan
--------------------------------------------------------
+### Physical sensations you might notice with the body scan
 
             |               |            |                |            |             
 ------------|---------------|------------|----------------|------------|---------
@@ -126,22 +125,15 @@ pulling     | numb          | itchy      | throbbing      | airy       | burning
 achy        | pulsing       | trembling  | cutting        | vibrating  | sinking
 light/heavy | tense/relaxed | cool/warm  | clammy/dry     | dull/sharp |
 
-Emotional reactions you might notice
-impatience/wanting to stop
- release
- disgust
-
-boredom
- joy
- surprise
-
-enjoyment/wanting to continue
- sadness
- fear
- grief
- anger
- frustration
- anticipation
+### Emotional reactions you might notice
+
+
+                              |         |         |             |
+------------------------------|---------|---------|-------------|---------
+impatience/wanting to stop    | release | disgust | boredom     | joy 
+enjoyment/wanting to continue | grief   | anger   | frustration |surprise
+sadness                       | fear    | anticipation
+
 
 Thoughts that may occur
 Reviewing the past
