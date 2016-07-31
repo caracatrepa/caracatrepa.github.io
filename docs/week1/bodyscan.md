@@ -119,6 +119,9 @@ Physical sensations you might notice with the body scan
 -------------------------------------------------------
 
 | tingly | burning | pounding | throbbing | trembling | light/heavy |
+| tingly | burning | pounding | throbbing | trembling | light/heavy |
+| tingly | burning | pounding | throbbing | trembling | light/heavy |
+| tingly | burning | pounding | throbbing | trembling | light/heavy |
 
 tingly
 tight/loose
