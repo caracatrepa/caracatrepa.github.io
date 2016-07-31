@@ -10,16 +10,16 @@ result in correction and/or healing. Below are six levels you can take yourself 
 through the anger to the positive potential underneath.
 
 ### Anger:
-What is it that I'm upset about? What actually happened? Who said/did what, when? (be concrete)
+What is it that I'm upset about? What actually happened? Who said/did what, when? (be concrete)  
 _You might say: **“I’m angry that…”, “I’m upset about…”, “I got mad when I saw/heard…”**_
 
 ### Hurt:
-What is the hurt, disappointment, sadness, loss beneath the anger? How has this action harmed me?
+What is the hurt, disappointment, sadness, loss beneath the anger? How has this action harmed me?  
 _You might say: **“I feel hurt/sad that…”, “At that time I needed…”, “I feel disappointed about…”**_
 
 ### Fear:
-What am I afraid of? What might happen next? What does this mean for the future?
-_You might say: **“I was/am afraid that…”, “I was/am afraid that _____ could happen…”**_
+What am I afraid of? What might happen next? What does this mean for the future?  
+_You might say: **“I was/am afraid that…”, “I was/am afraid that [    ] could happen…”**_
 
 The next level is more difficult. Even in cases where it's not obvious, you have some responsibility, even if it's only some
 very small thing you did, or situation you put yourself in, that provided a trigger for someone else's inhumanity. If you
