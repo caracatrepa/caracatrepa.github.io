@@ -4,7 +4,7 @@ by Deepak Chopra
 
 In the past 40 years, meditation has entered the mainstream of modern Western culture, and been
 prescribed by physicians and practiced by everyone from business executives, artists, and scientists
-to students, teachers, military personnel, and -- on a promising note -- politicians. Ohio Congressman
+to students, teachers, military personnel, and —on a promising note— politicians. Ohio Congressman
 Tim Ryan meditates every morning and has become a major advocate of mindfulness and
 meditation, as he describes in his book, _A Mindful Nation: How a Simple Practice Can Help Us
 Reduce Stress, Improve Performance, and Recapture the American Spirit_.
@@ -26,7 +26,7 @@ create a nourishing daily practice.
 
 ### Myth #2: You have to quiet your mind in order to have a successful meditation practice.
 **Truth:** This may be the number one myth about meditation and is the cause of many people giving
-up in frustration. Meditation isn't about stopping our thoughts or trying to empty our mind -- both
+up in frustration. Meditation isn't about stopping our thoughts or trying to empty our mind — both
 of these approaches only create stress and more noisy internal chatter. We can't stop or control our
 thoughts, but we _can_ decide how much attention to give them. Although we can't impose quiet on
 our mind, through meditation we can find the quiet that already exists in the space between our
@@ -68,16 +68,16 @@ post, ["Why Meditate?"][whymeditate] on the Chopra Center blog.
 
 ### Myth #4: Meditation is escapism.
 **Truth:** The real purpose of meditation isn't to tune out and get away from it all but to tune in and
-get in touch with your true self -- that eternal aspect of yourself that goes beyond all the ever-changing,
+get in touch with your true self — that eternal aspect of yourself that goes beyond all the ever-changing,
 external circumstances of your life. In meditation you dive below the mind's churning
 surface, which tends to be filled with repetitive thoughts about the past and worries about the
 future, into the still point of pure consciousness. In this state of transcendent awareness, you let go
 of all the stories you've been telling yourself about who you are, what is limiting you, and where
-you fall short -- and you experience the truth that your deepest self is infinite and unbounded.
+you fall short — and you experience the truth that your deepest self is infinite and unbounded.
 
 As you practice on a regular basis, you cleanse the windows of perception and your clarity expands.
-While some people do try to use meditation as a form of escape -- as a way to bypass unresolved
-emotional issues -- this approach runs counter to all of the wisdom teachings about meditation and
+While some people do try to use meditation as a form of escape —as a way to bypass unresolved
+emotional issues— this approach runs counter to all of the wisdom teachings about meditation and
 mindfulness. In fact, there are a variety of meditation techniques specifically developed to identify,
 mobilize and release stored emotional toxicity. If you are coping with emotional upset or
 trauma, I recommend that you work with a therapist who can help you safely explore and heal the
@@ -99,17 +99,17 @@ subjective feeling that we are "running out of time."
 In meditation, we are in a state of restful alertness that is extremely refreshing for the body and
 mind. As people stick with their meditation ritual, they notice that they are able to accomplish
 more while doing less. Instead of struggling so hard to achieve goals, they spend more and more
-time "in the flow" -- aligned with universal intelligence that orchestrates everything.
+time "in the flow" — aligned with universal intelligence that orchestrates everything.
 
 ### Myth #6: Meditation requires spiritual or religious beliefs.
 **Truth:** Meditation is a practice that takes us beyond the noisy chatter of the mind into stillness
 and silence. It doesn't require a specific spiritual belief, and many people of many different religions
 practice meditation without any conflict with their current religious beliefs. Some meditators
 have no particular religious beliefs, or are atheist or agnostic. They meditate in order to experience
-inner quiet and the numerous physical and mental health benefits of the practice -- including lowered
+inner quiet and the numerous physical and mental health benefits of the practice — including lowered
 blood pressure, stress reduction, and restful sleep. The original reason that I started meditating
 was to help myself stop smoking. Meditation helps us to enrich our lives. It enables us to enjoy
-whatever we do in our lives more fully and happily -- whether that is playing sports, taking care
+whatever we do in our lives more fully and happily — whether that is playing sports, taking care
 of our children, or advancing in our career.
 
 ### Myth #7: I'm supposed to have transcendent experiences in meditation.

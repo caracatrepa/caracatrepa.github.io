@@ -83,7 +83,7 @@ we needn’t let it impose. Cars going by outside?
 Fine. Let them go by, but just don’t go with them.
 The quiet you are looking for is inside, not outside.
 The experience of stillness is accumulative: The
-more you sit, then slowly, slowly, the mindbecomes quieter, more joyful, despite whatever
+more you sit, then slowly, slowly, the mind becomes quieter, more joyful, despite whatever
 distraction there may be.
 
 ### I don’t see the benefit.

@@ -183,7 +183,8 @@ they'll affect us. A traffic jam isn't just cars; it's a
 problem that will make us late for dinner - so when
 we see a red wall of taillights in front of us, we
 become stressed-out. A pair of sneakers strewn in the
-doorway aren't just discarded shoes; they're anannoying obstacle. So when we trip over them, we
+doorway aren't just discarded shoes; they're an
+annoying obstacle. So when we trip over them, we
 (by which I mean your average non-meditating
 Catherine) get irritated with our husbands. In other
 words, we don't just experience, we evaluate - and
