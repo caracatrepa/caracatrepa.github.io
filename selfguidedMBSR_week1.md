@@ -104,7 +104,7 @@ is exactly what we need to be fully human, fully awake, fully alive._
 [41]: https://www.youtube.com/watch?v=iS53roI_pWE&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM&amp;index=3
 [42]: https://www.youtube.com/watch?v=aSy9DZAJWIE&amp;index=4&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM
 [43]: https://www.youtube.com/watch?v=totkvnfnygQ&amp;index=5&amp;list=PLbiVpU59JkVbFtkacXoByNjHJgGc4AryM
-[44]: docs/week1/bodyscan.pdf
+[44]: /docs/week1/bodyscan.md
 [45]: docs/week1/seven-myths.pdf
 [46]: docs/week1/why-we-find-it-hard.pdf
 [47]: docs/week1/what-would-it-take.pdf
