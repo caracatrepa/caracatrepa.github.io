@@ -23,7 +23,7 @@ NOTE: For help in downloading, see [How to Download Recordings to Your PC or Mac
 
 
 [28]: bodyscan.md
-[38]: /docs/bodyscan.pdf
+[38]: /docs/bodyscan.md
 [39]: /disks/bodyscan20min.mp3
 [40]: http://palousemindfulness.com/meditations/downloading.html
   

@@ -22,7 +22,7 @@ is exactly what we need to be fully human, fully awake, fully alive._
 \- _Pema Chodron_
 
 
-[38]: /docs/bodyscan.pdf
+[38]: /docs/bodyscan.md
 [39]: bodyscan20min.md
 [40]: https://www.youtube.com/watch?v=6kFWd4wvi18&amp;index=9&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg
 [41]: /disks/bodyscan.mp3
