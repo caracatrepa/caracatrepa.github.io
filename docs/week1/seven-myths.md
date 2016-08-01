@@ -4,8 +4,8 @@ by Deepak Chopra
 
 In the past 40 years, meditation has entered the mainstream of modern Western culture, and been
 prescribed by physicians and practiced by everyone from business executives, artists, and scientists
-to students, teachers, military personnel, and -- on a promising note -- politicians. Ohio Congress-
-man Tim Ryan meditates every morning and has become a major advocate of mindfulness and
+to students, teachers, military personnel, and -- on a promising note -- politicians. Ohio Congressman
+Tim Ryan meditates every morning and has become a major advocate of mindfulness and
 meditation, as he describes in his book, _A Mindful Nation: How a Simple Practice Can Help Us
 Reduce Stress, Improve Performance, and Recapture the American Spirit_.
 
