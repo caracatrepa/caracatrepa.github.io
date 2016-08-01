@@ -17,8 +17,8 @@ the body, mind, and spirit. Here are seven of the most common meditation myths, 
 **Truth:** This myth is rooted in the image of meditation as an esoteric practice reserved only for
 saints, holy men, and spiritual adepts. In reality, when you receive instruction from an experienced,
 knowledgeable teacher, meditation is easy and fun to learn. The techniques can be as simple as
-focusing on the breath or silently repeating a mantra. One reason why meditation may seem diffi-
-cult is that we try too hard to concentrate, we're overly attached to results, or we're not sure we are
+focusing on the breath or silently repeating a mantra. One reason why meditation may seem difficult
+is that we try too hard to concentrate, we're overly attached to results, or we're not sure we are
 doing it right. In our experience at the Chopra Center, learning meditation from a qualified teacher
 is the best way to ensure that the process is enjoyable and you get the most from your practice. A
 teacher will help you understand what you're experiencing, move past common roadblocks, and
@@ -34,10 +34,10 @@ thoughts. Sometimes referred to as "the gap," this space between thoughts is pur
 pure silence, and pure peace.
 
 When we meditate, we use an object of attention, such as our breath, an image, or a mantra, which
-allows our mind to relax into this silent stream of awareness. When thoughts arise, as they inevi-
-tably will, we don't need to judge them or try to push them away. Instead, we gently return our
-attention to our object of attention. In every meditation, there are moments, even if only microsec-
-onds, when the mind dips into the gap and experiences the refreshment of pure awareness. As you
+allows our mind to relax into this silent stream of awareness. When thoughts arise, as they inevitably
+will, we don't need to judge them or try to push them away. Instead, we gently return our
+attention to our object of attention. In every meditation, there are moments, even if only microseconds,
+when the mind dips into the gap and experiences the refreshment of pure awareness. As you
 meditate on a regular basis, you will spend more and more time in this state of expanded awareness
 and silence.
 
@@ -54,8 +54,8 @@ new possibilities.
 ### Myth #3: It takes years of dedicated practice to receive any benefits from meditation.
 **Truth:** The benefits of meditation are both immediate and long-term. You can begin to experience
 benefits the first time you sit down to meditate and in the first few days of daily practice. Many
-scientific studies provide evidence that meditation has profound effects on the mind-body physi-
-ology within just weeks of practice. For example, a [landmark study][study] led by Harvard University
+scientific studies provide evidence that meditation has profound effects on the mind-body physiology
+within just weeks of practice. For example, a [landmark study][study] led by Harvard University
 and Massachusetts General Hospital found that as little as eight weeks of meditation not only
 helped people experience decreased anxiety and greater feelings of calm; it also produced growth
 in the areas of the brain associated with memory, empathy, sense of self, and stress regulation.
@@ -68,8 +68,8 @@ post, ["Why Meditate?"][whymeditate] on the Chopra Center blog.
 
 ### Myth #4: Meditation is escapism.
 **Truth:** The real purpose of meditation isn't to tune out and get away from it all but to tune in and
-get in touch with your true self -- that eternal aspect of yourself that goes beyond all the ever-
-changing, external circumstances of your life. In meditation you dive below the mind's churning
+get in touch with your true self -- that eternal aspect of yourself that goes beyond all the ever-changing,
+external circumstances of your life. In meditation you dive below the mind's churning
 surface, which tends to be filled with repetitive thoughts about the past and worries about the
 future, into the still point of pure consciousness. In this state of transcendent awareness, you let go
 of all the stories you've been telling yourself about who you are, what is limiting you, and where
@@ -78,20 +78,20 @@ you fall short -- and you experience the truth that your deepest self is infinit
 As you practice on a regular basis, you cleanse the windows of perception and your clarity expands.
 While some people do try to use meditation as a form of escape -- as a way to bypass unresolved
 emotional issues -- this approach runs counter to all of the wisdom teachings about meditation and
-mindfulness. In fact, there are a variety of meditation techniques specifically developed to iden-
-tify, mobilize and release stored emotional toxicity. If you are coping with emotional upset or
+mindfulness. In fact, there are a variety of meditation techniques specifically developed to identify,
+mobilize and release stored emotional toxicity. If you are coping with emotional upset or
 trauma, I recommend that you work with a therapist who can help you safely explore and heal the
 pain of the past, allowing you to return to your natural state of wholeness and love.
 
 ### Myth #5: I don't have enough time to meditate.
 **Truth:** There are busy, productive executives who have not missed a meditation in 25 years, and
 if you make meditation a priority, you will do it. If you feel like your schedule is too full, remember
-that even just a few minutes of meditation is better than none. We encourage you not to talk your-
-self out of meditating just because it's a bit late or you feel too sleepy.
+that even just a few minutes of meditation is better than none. We encourage you not to talk yourself
+out of meditating just because it's a bit late or you feel too sleepy.
 
 In life's paradoxical way, when we spend time meditating on a regular basis, we actually have
-more time. When we meditate, we dip in and out of the timeless, spaceless realm of conscious-
-ness... the state of pure awareness that is the source of everything that manifests in the universe.
+more time. When we meditate, we dip in and out of the timeless, spaceless realm of consciousness...
+the state of pure awareness that is the source of everything that manifests in the universe.
 Our breathing and heart rate slow down, our blood pressure lowers, and our body decreases the
 production of stress hormones and other chemicals that speed up the [aging process][aging] and give us the
 subjective feeling that we are "running out of time."
@@ -103,11 +103,11 @@ time "in the flow" -- aligned with universal intelligence that orchestrates ever
 
 ### Myth #6: Meditation requires spiritual or religious beliefs.
 **Truth:** Meditation is a practice that takes us beyond the noisy chatter of the mind into stillness
-and silence. It doesn't require a specific spiritual belief, and many people of many different reli-
-gions practice meditation without any conflict with their current religious beliefs. Some meditators
+and silence. It doesn't require a specific spiritual belief, and many people of many different religions
+practice meditation without any conflict with their current religious beliefs. Some meditators
 have no particular religious beliefs, or are atheist or agnostic. They meditate in order to experience
-inner quiet and the numerous physical and mental health benefits of the practice -- including low-
-ered blood pressure, stress reduction, and restful sleep. The original reason that I started meditating
+inner quiet and the numerous physical and mental health benefits of the practice -- including lowered
+blood pressure, stress reduction, and restful sleep. The original reason that I started meditating
 was to help myself stop smoking. Meditation helps us to enrich our lives. It enables us to enjoy
 whatever we do in our lives more fully and happily -- whether that is playing sports, taking care
 of our children, or advancing in our career.
@@ -125,14 +125,15 @@ creative, compassionate, centered, and loving to ourselves and everyone we encou
 
 As you begin or continue your meditation journey, here are some other guidelines that may help
 you on your way:
+
 * Have no expectations. Sometimes the mind is too active to settle down. Sometimes it settles
 down immediately. Sometimes it goes quiet, but the person doesn't notice. Anything can
 happen.
 * Be easy with yourself. Meditation isn't about getting it right or wrong. It's about letting
 your mind find its true nature.
 * Don't stick with meditation techniques that aren't leading to inner silence. Find a technique
-that resonates with you. There are many kinds of mantra meditation, including the Primor-
-dial Sound Meditation practice taught at the Chopra Center. Or simply follow the in and
+that resonates with you. There are many kinds of mantra meditation, including the Primordial
+Sound Meditation practice taught at the Chopra Center. Or simply follow the in and
 out of your breathing, not paying attention to your thoughts at all. The mind wants to find
 its source in silence. Give it a chance by letting go.
 * Make sure you are alone in a quiet place to meditate. Unplug the phone. Make sure no one
