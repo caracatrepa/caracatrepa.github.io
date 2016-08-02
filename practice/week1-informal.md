@@ -10,7 +10,7 @@ night, see if you can recall at least one example of “simple awareness”.
 
 ### Example
 
-      |   
+      |     |
 ------|-----
 **What was the situation?  Where were you, who were you with, what were you doing?** | _Washing dishes after dinner._ |
 **What feelings, thoughts, sensations did you notice before you decided to experience this mindfully?**| _I was feeling hurried, shoulders and stomach tense, thinking “I wish Chris hadn’t used so many dishes!”_
