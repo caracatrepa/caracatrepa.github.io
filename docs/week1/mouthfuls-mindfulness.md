@@ -23,12 +23,12 @@ talk she needs to work on for a big conference.
 Before starting to work on the speech, however,
 she decides to relax and watch a few minutes of
 TV. She sits down with a bag of chips. At first she
-eats onlya few, but as the show gets more
+eats only a few, but as the show gets more
 dramatic, she eats faster and faster. When the
 show ends she looks down and realizes she’s eaten
 the entire bag. She scolds herself for wasting time
 and for eating junk food. “Too much salt and fat!
-No dinner for you!” Engrossed in the drama on
+No dinner for you!”. Engrossed in the drama on
 the screen, covering up her anxiety about
 procrastinating, she ignored what was happening
 in her mind, heart, mouth, and stomach. She ate
@@ -113,7 +113,7 @@ seldom pose them.
 ### Mindfulness Is the Best Flavoring
 As I write this I am eating a lemon tart that a
 friend gave to me. After writing for a few hours
-I’m readyto reward myself with a tart. The first
+I’m ready to reward myself with a tart. The first
 bite is delicious. Creamy, sweet-sour, melting.
 When I take the second bite, I think about what to
 write next. The flavor in my mouth decreases. I
