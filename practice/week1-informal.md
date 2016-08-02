@@ -12,7 +12,7 @@ night, see if you can recall at least one example of “simple awareness”.
 
       |   
 ------|-----
-**What was the situation?  Where were you, who were you with, what were you doing?** | _Washing dishes after dinner._
+**What was the situation?  Where were you, who were you with, what were you doing?** | _Washing dishes after dinner._ |
 **What feelings, thoughts, sensations did you notice before you decided to experience this mindfully?**| _I was feeling hurried, shoulders and stomach tense, thinking “I wish Chris hadn’t used so many dishes!”_
 **What feelings, thoughts and sensations did you notice WHILE doing this mindfully?** | _I actually felt the warm water on my hands, enjoyed seeing the dishes sparkle, time seemed to stop for a moment._
 **What did you learn from doing this?** | _Paying attention to physical sensations brings me into the here and now and a boring task becomes more interesting._
