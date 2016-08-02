@@ -8,7 +8,7 @@ exercise, you could also use this as an opportunity to bring mindful awareness
 to eating, noting textures, smell, taste, touch, etc. Before you go to bed each
 night, see if you can recall at least one example of “simple awareness”.
 
-**Example**
+### Example
 
 **What was the situation?  Where were you, who were you with, what were you
 doing?**
