@@ -15,6 +15,11 @@ otherwise routine activity. Before you go to bed each night, see if you can reca
 example of “simple awareness” and record it on the [Informal Practice Log (Simple Awareness)][3].
 
 Date  |  Formal Practice Comments (Body Scan)
+------|--------------------------------------
+_______________________ | ________________________________________________
+_______________________ | ________________________________________________
+_______________________ | ________________________________________________
+
 
 
 [1]: /docs/week1/bodyscan.md
