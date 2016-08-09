@@ -113,9 +113,9 @@ Shapes our thoughts and deeds._
 [42]: https://www.youtube.com/watch?v=XNvZkepAiMo&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo&amp;index=5
 [43]: https://www.youtube.com/watch?v=qzR62JJCMBQ&amp;index=6&amp;list=PLbiVpU59JkValOIEIo2Y65mBopHCjKvBo
 [44]: docs/week2/sittingmeditation.md
-[45]: docs/week2/brain-rewires.pdf
-[46]: docs/week2/graymatter.pdf
-[47]: docs/week2/mastering.pdf
+[45]: docs/week2/brain-rewires.md
+[46]: docs/week2/graymatter.md
+[47]: docs/week2/mastering.md
 [48]: practice/week2-formal.pdf
 [49]: practice/week2-formal.docx
 [50]: practice/week2-informal.pdf
