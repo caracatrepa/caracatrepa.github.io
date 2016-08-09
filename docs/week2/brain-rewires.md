@@ -41,7 +41,7 @@ move their fingers. Then they too sat beneath the
 TMS coil.
 
 When the scientists compared the TMS data on
-the two groups--those who actually tickled the
+the two groups-those who actually tickled the
 ivories and those who only imagined doing so-
 they glimpsed a revolutionary idea about the brain:
 the ability of mere thought to alter the physical
@@ -49,7 +49,7 @@ structure and function of our gray matter. For what
 the TMS revealed was that the region of motor
 cortex that controls the piano-playing fingers also
 expanded in the brains of volunteers who imagined
-playing the music--just as it had in those who
+playing the music-just as it had in those who
 actually played it.
 
 "Mental practice resulted in a similar
@@ -63,7 +63,7 @@ profound, the discovery showed that mental
 training had the power to change the physical
 structure of the brain.
 
-OVERTHROWING THE DOGMA
+Overthrowing the Dogma
 ----------------------
 
 For decades, the prevailing dogma in
@@ -98,7 +98,7 @@ greatest joy, are nearly unalterable.
 But research in the past few years has
 overthrown the dogma. In its place has come the
 realization that the adult brain retains impressive
-powers of "neuroplasticity"--the ability to change
+powers of "neuroplasticity"-the ability to change
 its structure and function in response to experience.
 These aren't minor tweaks either. Something as
 basic as the function of the visual or auditory cortex
@@ -124,14 +124,14 @@ muscles bombard the motor cortex or the
 somatosensory cortex (which processes touch), the
 brain expands the area that is wired to move, say,
 the fingers. In this sense, the very structure of our
-brain--the relative size of different regions, the
+brain-the relative size of different regions, the
 strength of connections between them, even their
-functions--reflects the lives we have led. Like sand
+functions-reflects the lives we have led. Like sand
 on a beach, the brain bears the footprints of the
 decisions we have made, the skills we have
 learned, the actions we have taken.
 
-SCRATCHING A PHANTOM LIMB
+Scratching a phantom limb
 -------------------------
 
 An extreme example of how changes in the
@@ -148,7 +148,7 @@ brushed the teenager's left cheek with a cotton
 swab.
 
 Where do you feel that? Ramachandran asked.
-On his left cheek, Victor answered--and the back
+On his left cheek, Victor answered-and the back
 of his missing hand. Ramachandran stroked
 another spot on the cheek. Where do you feel that?
 On his absent thumb, Victor replied.
@@ -174,7 +174,7 @@ phantom sensations during sex. Ramachandran's
 was the first report of a living being knowingly
 experiencing the results of his brain rewiring.
 
-THINKING ABOUT THINKING
+Thinking about thinking
 -----------------------
 
 As scientists probe the limits of neuroplasticity,
@@ -218,7 +218,7 @@ The same is true when cognitive techniques are
 used to treat depression. Scientists at the University
 of Toronto had 14 depressed adults undergo CBT,
 which teaches patients to view their own thoughts
-differently--to see a failed date, for instance, not as
+differently-to see a failed date, for instance, not as
 proof that "I will never be loved" but as a minor
 thing that didn't work out. Thirteen other patients
 received paroxetine (the generic form of the
@@ -231,7 +231,7 @@ treatment you received," said Toronto's Zindel
 Segal.
 
 But no. Depressed brains responded differently
-to the two kinds of treatment--and in a very
+to the two kinds of treatment-and in a very
 interesting way. CBT muted overactivity in the
 frontal cortex, the seat of reasoning, logic and
 higher thought as well as of endless rumination
@@ -246,10 +246,10 @@ information and changing your thinking pattern. It
 decreases rumination, and trains the brain to adopt
 different thinking circuits." As with Schwartz's
 OCD patients, thinking had changed a pattern of
-activity--in this case, a pattern associated with
-depression--in the brain.
+activity-in this case, a pattern associated with
+depression-in the brain.
 
-HAPPINESS AND MEDITATION
+Happiness and meditation
 ------------------------
 
 Could thinking about thoughts in a new way
@@ -288,7 +288,7 @@ generation of pure compassion, a standard
 Buddhist meditation technique, brain regions that
 keep track of what is self and what is other became
 quieter, the fMRI showed, as if the subjects
--experienced meditators as well as novices--opened
+-experienced meditators as well as novices-opened
 their minds and hearts to others.
 
 More interesting were the differences between
@@ -303,7 +303,7 @@ had forged more robust connections between
 thinking and feeling.
 
 But perhaps the most striking difference was in
-an area in the left prefrontal cortex--the site of
+an area in the left prefrontal cortex-the site of
 activity that marks happiness. While the monks
 were generating feelings of compassion, activity in
 the left prefrontal swamped activity in the right
