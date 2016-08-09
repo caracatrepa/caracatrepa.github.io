@@ -18,9 +18,8 @@ accessed directly at
 
 NOTE: For help in downloading, see[ How to Download Recordings to Your PC or Mac][42]
 
-> _If the heart wanders or is distracted, bring it back to the point quite gently...   
-  
-And even if you did nothing during the whole of your hour but bring your heart back, though it went away every time you brought it back, your hour would be very well employed._
+> _If the heart wanders or is distracted, bring it back to the point quite gently...  
+  And even if you did nothing during the whole of your hour but bring your heart back, though it went away every time you brought it back, your hour would be very well employed._
 
 \- _St. Francis de Sale_
 
