@@ -337,7 +337,7 @@ without making an impact."
 Meditation is a process of cultivating intimacy
 with one's own states of mind. "Mindfulness is a form
 of intrapersonal attunement," says UCLA's Seigel,
-which makes it the perfect tool for _inter_personal
+which makes it the perfect tool for _interpersonal_
 attunement—in other words, compassion. "The
 ability to see your own mind," Seigel notes, "allows
 you to see others' minds."
