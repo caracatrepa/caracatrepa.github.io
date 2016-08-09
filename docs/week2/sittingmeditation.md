@@ -97,3 +97,5 @@ breath as our anchor or “home base” for observing, for reminding us to stay 
 **NOTE:** If you choose to sit on the floor, one of the most common problems is not having your hips high
 enough, causing strain on the back and decreased blood flow in feet and legs. Try using more cushions
 than you think you need, or even a meditation bench, so that your hips are 6-12” higher than your knees.
+
+[1]: /docs/meditations/sittingmeditation.md
