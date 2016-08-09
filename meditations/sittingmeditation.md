@@ -24,7 +24,7 @@ And even if you did nothing during the whole of your hour but bring your heart b
 
 \- _St. Francis de Sale_
 
-[38]: /docs/sittingmeditation.pdf
+[38]: /docs/week2/sittingmeditation.md
 [39]: http://palousemindfulness.com/disks/sittingmeditation20min.html
 [40]: https://www.youtube.com/watch?v=XRhqFWio3U0&amp;index=1&amp;list=PLbiVpU59JkVaFMGi0A8Im_hfSh-SWsFwg
 [41]: /disks/sittingmeditation.mp3
