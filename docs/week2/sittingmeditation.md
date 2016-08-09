@@ -93,6 +93,7 @@ your mind. We are not trying to stop our thoughts as they cascade through the mi
 simply making room for them, observing them as thoughts, and letting them be, using the
 breath as our anchor or “home base” for observing, for reminding us to stay focused and calm.
 
+![](sitting.jpg)
 
 **NOTE:** If you choose to sit on the floor, one of the most common problems is not having your hips high
 enough, causing strain on the back and decreased blood flow in feet and legs. Try using more cushions
