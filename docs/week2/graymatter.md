@@ -14,7 +14,7 @@ plays a major role in illness. According to the Centers for Disease Control and 
 an aspirin can counter a headache. A regular practice can be a major boost to health.
 
 It calms the nervous system. It's good for the immune system. It's also good for the heart; it helps
-produce nitric oxide (not nitrous oxide -- that's laughing gas!) in the arteries, dilating them and reducing
+produce nitric oxide (not nitrous oxide - that's laughing gas!) in the arteries, dilating them and reducing
 blood pressure. It also smooths heart rhythms.
 
 But thanks to an explosion of brain research we now know that it also physically impacts our gray
@@ -52,13 +52,13 @@ thickness of the prefrontal cortex in the brain, the part just above the eyes an
 attention.
 
 Several areas of the brain are active when we meditate, but most pronounced is the prefrontal
-cortex because when we meditate we are focusing our attention on something -- whether that be the
+cortex because when we meditate we are focusing our attention on something - whether that be the
 body, our breathing, a word, a candle or even a spiritual ideal. When this area is active, just like a
 muscle being exercised, it grows.
 
 Neuroscientists use this analogy to describe the way the brain changes. When we exercise a muscle
 it becomes larger and denser with muscle mass. In a similar way, when we exercise any part of the
-brain, which we do when we meditate, it becomes larger and denser with neural mass -- gray matter.
+brain, which we do when we meditate, it becomes larger and denser with neural mass - gray matter.
 The phenomenon is known as neuroplasticity and describes how the brain actually changes throughout
 life.
 
