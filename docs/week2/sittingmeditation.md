@@ -98,4 +98,4 @@ breath as our anchor or “home base” for observing, for reminding us to stay 
 enough, causing strain on the back and decreased blood flow in feet and legs. Try using more cushions
 than you think you need, or even a meditation bench, so that your hips are 6-12” higher than your knees.
 
-[1]: /docs/meditations/sittingmeditation.md
+[1]: /meditations/sittingmeditation.md
